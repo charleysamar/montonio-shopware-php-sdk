@@ -35,6 +35,11 @@ class PaymentMethodOptions extends AbstractStruct
     protected $preferredMethod;
 
     /**
+     * @var int
+     */
+    protected $period;
+
+    /**
      * @return string
      */
     public function getPaymentDescription(): ?string
@@ -132,6 +137,17 @@ class PaymentMethodOptions extends AbstractStruct
     public function setPreferredMethod(string $preferredMethod): PaymentMethodOptions
     {
         $this->preferredMethod = $preferredMethod;
+        return $this;
+    }
+
+    public function getPeriod(): int
+    {
+        return $this->period;
+    }
+
+    public function setPeriod(int $period): PaymentMethodOptions
+    {
+        $this->period = $period;
         return $this;
     }
 }

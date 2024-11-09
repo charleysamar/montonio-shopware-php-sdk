@@ -6,6 +6,7 @@ class Payment extends AbstractStruct
 {
     public const PAYMENT_METHOD_PAYMENT_INITIATION = 'paymentInitiation';
     public const PAYMENT_METHOD_CARDS = 'cardPayments';
+    public const PAYMENT_METHOD_PAY_LATER = 'bnpl';
 
     /**
      * @var string

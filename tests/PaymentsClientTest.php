@@ -24,7 +24,7 @@ class PaymentsClientTest extends TestCase
     {
         $paymentsClient = new PaymentsClient($this->config['accessKey'], $this->config['secretKey'], AbstractClient::ENVIRONMENT_SANDBOX);
         $methods = $paymentsClient->getPaymentMethods();
-        $this->assertTrue(!empty($methods["paymentMethods"]["paymentInitiation"]["setup"]["DE"]["paymentMethods"]));
+        $this->assertTrue(!empty($methods["paymentMethods"]["paymentInitiation"]["setup"]["EE"]["paymentMethods"]));
     }
 
     public function testJwt()
@@ -96,7 +96,29 @@ class PaymentsClientTest extends TestCase
             );
 
         $order = $paymentsClient->createOrder($paymentData);
-        $this->assertTrue(isset($order['paymentUrl']) && strpos($order['paymentUrl'], 'https://sandbox-stargate') !== false);
+        $this->assertTrue(
+            isset($order['paymentUrl']) &&
+            preg_match('~^https://sandbox-[\w-]+\.montonio\.com~', $order['paymentUrl']) === 1
+        );
+
+        $paymentData
+            ->setGrandTotal(30.0)
+            ->setPayment(
+                (new Payment())
+                    ->setMethod(Payment::PAYMENT_METHOD_PAY_LATER)
+                    ->setCurrency('EUR')
+                    ->setAmount(30.0)
+                    ->setMethodOptions(
+                        (new PaymentMethodOptions())
+                            ->setPeriod(1)
+                    )
+            );
+
+        $order = $paymentsClient->createOrder($paymentData);
+        $this->assertTrue(
+            isset($order['paymentUrl']) &&
+            preg_match('~^https://sandbox-[\w-]+\.montonio\.com~', $order['paymentUrl']) === 1
+        );
     }
 
 
