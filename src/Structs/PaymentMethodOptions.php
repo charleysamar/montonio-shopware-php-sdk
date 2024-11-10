@@ -140,7 +140,7 @@ class PaymentMethodOptions extends AbstractStruct
         return $this;
     }
 
-    public function getPeriod(): int
+    public function getPeriod(): ?int
     {
         return $this->period;
     }
