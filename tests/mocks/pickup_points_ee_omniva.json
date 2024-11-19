@@ -1,0 +1,4190 @@
+{
+    "pickupPoints": [
+        {
+            "id": "12d5e0e1-2916-467c-8278-85d122217833",
+            "name": "Elva Turuplatsi Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Elva linn, Kesk tn 1",
+            "locality": "Elva vald",
+            "postalCode": "96047",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "ce9269df-cf30-4d14-be65-909320cdf1e2",
+            "name": "Iisaku Grossi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Iisaku alevik, Tartu mnt 55",
+            "locality": "Alutaguse vald",
+            "postalCode": "96189",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "8115e3a6-f1ca-41cb-9363-4a9cd749b1a4",
+            "name": "Iisaku postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Iisaku alevik, Tartu mnt 46",
+            "locality": "Alutaguse vald",
+            "postalCode": "41194",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "1d2e27b8-bae7-4c2a-ade2-2b7e06aad74c",
+            "name": "Kõpu pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kõpu alevik, Tipu tn 6",
+            "locality": "Põhja-Sakala vald",
+            "postalCode": "96288",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "25c03b13-5b5a-4c31-a3ae-f5e2485634fc",
+            "name": "Narva Kerese keskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "P. Kerese tn 3",
+            "locality": "Narva linn",
+            "postalCode": "96218",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "4750fe24-bd68-461c-af95-2333ec741cff",
+            "name": "Pärnu Turu pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Pärnu linn, Suur-Sepa tn 18",
+            "locality": "Pärnu linn",
+            "postalCode": "96198",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "83cff83a-130b-49fc-85f6-8c599d57c9df",
+            "name": "Pärnu-Jaagupi Grossi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Pärnu-Jaagupi alev, Uus tn 20a",
+            "locality": "Põhja-Pärnumaa vald",
+            "postalCode": "96109",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "0a1a0d0d-4b23-425a-9fc0-5215c7af55f9",
+            "name": "Põlva Meie Ostumarketi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Põlva linn, Lao tn 14",
+            "locality": "Põlva vald",
+            "postalCode": "96201",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "29171614-019c-45a4-b672-de20fb8e22ee",
+            "name": "Rakvere Põhjakeskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tõrremäe küla, Haljala tee 4",
+            "locality": "Rakvere vald",
+            "postalCode": "96078",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "fed4b39b-f8e2-4365-9822-45aafa40c610",
+            "name": "Räpina postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Räpina linn, Kooli tn 1",
+            "locality": "Räpina vald",
+            "postalCode": "64594",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "5cb94b4c-2079-40fc-adaf-b61788d0d87c",
+            "name": "Tallinna Mustakivi Keskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Lasnamäe linnaosa, Mahtra tn 1",
+            "locality": "Tallinn",
+            "postalCode": "96010",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "081cb5ad-fe69-4738-874f-f3d9e1d5821a",
+            "name": "Tallinna Mustamäe Keskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Mustamäe linnaosa, A. H. Tammsaare tee 104a",
+            "locality": "Tallinn",
+            "postalCode": "96141",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "f73d7ff6-149c-4100-9e17-7654255712ff",
+            "name": "Tallinna Mähe Grossi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Pirita linnaosa, Randvere tee 115",
+            "locality": "Tallinn",
+            "postalCode": "96380",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "1b58b324-9498-4977-a3d8-469316c3894f",
+            "name": "Tallinna Rocca al Mare pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Haabersti linnaosa, Paldiski mnt 102",
+            "locality": "Tallinn",
+            "postalCode": "96005",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "6d51f15a-061a-462e-9351-5f8a8a56f39f",
+            "name": "Tallinna Sikupilli pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Lasnamäe linnaosa, Tartu mnt 87b",
+            "locality": "Tallinn",
+            "postalCode": "96009",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "58f28635-d5d6-4f32-80cc-c616dd6d9a60",
+            "name": "Tallinna Stockmanni pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kesklinna linnaosa, Liivalaia tn 53",
+            "locality": "Tallinn",
+            "postalCode": "96057",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "daaee253-d64e-4e17-b4aa-63ed3cfad172",
+            "name": "Tallinna T1 Keskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Lasnamäe linnaosa, Peterburi tee 2",
+            "locality": "Tallinn",
+            "postalCode": "96323",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "a10d2fa2-c09e-41ff-8b80-638ddbf94c20",
+            "name": "Tallinna Talleke ja Pullike pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Haabersti linnaosa, Kakumäe tee 42",
+            "locality": "Tallinn",
+            "postalCode": "96372",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "abe546b7-1fb2-4486-92b0-1d6f7d962f36",
+            "name": "Tallinna Tammsaare Ärikeskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kristiine linnaosa, A. H. Tammsaare tee 47",
+            "locality": "Tallinn",
+            "postalCode": "96214",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "05df2530-a35e-42c3-9118-2138be674ff4",
+            "name": "Tallinna Tatari 51 pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kesklinna linnaosa, Tatari tn 51",
+            "locality": "Tallinn",
+            "postalCode": "96347",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "12b65aa3-3a2f-4244-95eb-4e8cac033322",
+            "name": "Tallinna Vikerlase Rimi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Lasnamäe linnaosa, Vikerlase tn 19",
+            "locality": "Tallinn",
+            "postalCode": "96215",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "6fd36f12-5de9-4a1c-9c83-d57fd3f3bf35",
+            "name": "Tartu Ringtee Selveri pakiautomaat (Pikem ooteaeg kuni 2 päeva)",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu linn, Aardla tn 114",
+            "locality": "Tartu linn",
+            "postalCode": "96088",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "60a72ab5-93b6-48bf-94b7-46266f19a8ab",
+            "name": "Tartu Tähe Rimi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu linn, Tähe tn 19",
+            "locality": "Tartu linn",
+            "postalCode": "96356",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "8ff52298-ca65-4b28-937c-4c8ebf665c44",
+            "name": "Tartu Ujula Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu linn, Ujula tn 2",
+            "locality": "Tartu linn",
+            "postalCode": "96022",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "fe3c3cde-5078-4a86-b726-da998702e4c9",
+            "name": "Tartu Veeriku Selveri pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu linn, Vitamiini tn 1",
+            "locality": "Tartu linn",
+            "postalCode": "96060",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "2b7bd692-6cfb-4a52-a4e8-68ae1c6dd964",
+            "name": "Tõrvandi Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tõrvandi alevik, Müürsepa tn 1",
+            "locality": "Kambja vald",
+            "postalCode": "96178",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "95db9605-8367-4597-a75a-aafc5c9b58f5",
+            "name": "Türi postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Türi linn, Viljandi tn 1",
+            "locality": "Türi vald",
+            "postalCode": "72201",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "f1425bae-c42c-467d-8c87-670337e1dc2b",
+            "name": "Vändra Koidula Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Vändra alev, Vana tn 60",
+            "locality": "Põhja-Pärnumaa vald",
+            "postalCode": "96168",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "fb806fca-6802-4b87-a12a-4a701f6389ee",
+            "name": "Jõhvi postkontor",
+            "type": "postOffice",
+            "streetAddress": "Jõhvi linn, Narva mnt 8",
+            "locality": "Jõhvi vald",
+            "postalCode": "41501",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "1d50c9b5-8fdc-426c-a108-b3ad43e5606a",
+            "name": "Kehtna Coop kaupluse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kehtna alevik, Lasteaia tn 12",
+            "locality": "Kehtna vald",
+            "postalCode": "96221",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "3caa3ede-54b5-43d6-aba0-210df7b81d2c",
+            "name": "Kristiine postkontor",
+            "type": "postOffice",
+            "streetAddress": "Kristiine linnaosa, Endla tn 45",
+            "locality": "Tallinn",
+            "postalCode": "10701",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "ab4b2d78-1563-47f0-9005-332b98a5470f",
+            "name": "Melliste pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Melliste küla, Tartu mnt 8",
+            "locality": "Kastre vald",
+            "postalCode": "96283",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "d6e21c63-f430-43a9-ad95-ad0be90fbb69",
+            "name": "Narva Kangelaste Lidl pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kangelaste prospekt 37a",
+            "locality": "Narva linn",
+            "postalCode": "96375",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "e68a96ee-10ce-4a47-904a-b155a3df4e6c",
+            "name": "Saku Coop Ehituskeskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Saku alevik, Tallinna mnt 6",
+            "locality": "Saku vald",
+            "postalCode": "96050",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "2c2c5098-5e4b-4c1e-bb2e-10b48f28aa6e",
+            "name": "Viljandi Bussijaama pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Ilmarise tn 1",
+            "locality": "Viljandi linn",
+            "postalCode": "96032",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "abc86a92-d454-4eb2-86e5-d3daaa04dd2a",
+            "name": "Keila Grossi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Piiri tn 5",
+            "locality": "Keila linn",
+            "postalCode": "96172",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "6328880e-3841-4146-9093-ad3c3a0c75fa",
+            "name": "Jõhvi Maxima XX pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Jõhvi linn, Rakvere tn 29",
+            "locality": "Jõhvi vald",
+            "postalCode": "96089",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "1c7310d5-c169-4101-aa01-cdcedeb7d7fe",
+            "name": "Kadrina postipunkt (Talutehnika)",
+            "type": "postOffice",
+            "streetAddress": "Kadapiku küla,  ",
+            "locality": "Kadrina vald",
+            "postalCode": "45295",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "ef44cd4f-8072-4745-91f3-1e9187d658a7",
+            "name": "Karksi- Nuia postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Karksi-Nuia linn, Rahumäe tn 2a",
+            "locality": "Mulgi vald",
+            "postalCode": "69194",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "9eed70dc-6a35-4d9d-a23b-6ade2fdbcf10",
+            "name": "Kehra Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kehra linn, Kose mnt 9",
+            "locality": "Anija vald",
+            "postalCode": "96114",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "408a3534-d2c2-489f-a96d-9d312ae02d1c",
+            "name": "Kunda Grossi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kunda linn, Kasemäe tn 12",
+            "locality": "Viru-Nigula vald",
+            "postalCode": "96122",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "30399e4a-cf04-48f7-a038-ecbb0bcab4b6",
+            "name": "Rakvere postkontor",
+            "type": "postOffice",
+            "streetAddress": "F. G. Adoffi tn 11",
+            "locality": "Rakvere linn",
+            "postalCode": "44301",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "96452bb9-503b-4f1d-bea0-9749a8fc9907",
+            "name": "Risti Coop kaupluse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Risti alevik, Haapsalu mnt 1",
+            "locality": "Lääne-Nigula vald",
+            "postalCode": "96196",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "c6954bdc-2f8b-4a88-b7ba-3a6f329e729d",
+            "name": "Vastse-Kuuste Coop kaupluse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Vastse-Kuuste alevik, Kesktänav 16",
+            "locality": "Põlva vald",
+            "postalCode": "96322",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "ade3ffa8-8a61-4bb8-9a84-dea3690159a7",
+            "name": "Värska pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Värska alevik, Pikk tn 12",
+            "locality": "Setomaa vald",
+            "postalCode": "96350",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "b1e10b74-96d1-48a9-ad0e-a4b328926667",
+            "name": "Võhma postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Võhma linn, Kauba tn 3a",
+            "locality": "Põhja-Sakala vald",
+            "postalCode": "70695",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "aa2a6a18-3ee6-4a5e-b372-8913035c683b",
+            "name": "Võsu pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Võsu alevik, Mere tn 63",
+            "locality": "Haljala vald",
+            "postalCode": "96298",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "f8478a1d-309b-4e94-ba22-881a3999dabc",
+            "name": "Ahtme Grossi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Ahtme linnaosa, Maleva tn 23",
+            "locality": "Kohtla-Järve linn",
+            "postalCode": "96142",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "adcccde4-ade4-4aa4-8241-fde0d3358529",
+            "name": "Ala postipunkt (Coop)",
+            "type": "postOffice",
+            "streetAddress": "Ala küla,  ",
+            "locality": "Tõrva vald",
+            "postalCode": "68594",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "3c961ebd-1a38-4fd6-b241-e2aa04605bfe",
+            "name": "Alatskivi Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Alatskivi alevik, Lossi tn 1a",
+            "locality": "Peipsiääre vald",
+            "postalCode": "96287",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "dc0d158c-ab5f-4287-841d-91bd230c744b",
+            "name": "Alavere pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Alavere küla, Oja tn 1",
+            "locality": "Anija vald",
+            "postalCode": "96367",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "a86f65b6-9e49-4f8d-9458-40888f50c388",
+            "name": "Elva postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Elva linn, Puiestee tn 1",
+            "locality": "Elva vald",
+            "postalCode": "61599",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "0ea97ed2-12d4-470d-acd2-c363563b5471",
+            "name": "Kaasiku pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kaasiku küla,  ",
+            "locality": "Saue vald",
+            "postalCode": "96289",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "88158f15-8c25-4bcd-8157-33c2da3a2a95",
+            "name": "Kambja Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kambja alevik, Kesk tn 2a",
+            "locality": "Kambja vald",
+            "postalCode": "96242",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "47f3513c-c8ef-4c02-b2a0-a0be43f1f1cb",
+            "name": "Kiviõli Grossi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kiviõli linn, Keskpuiestee 33",
+            "locality": "Lüganuse vald",
+            "postalCode": "96176",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "73328c2d-2bac-4a09-94c4-704ffd040378",
+            "name": "Kohtla-Järve Mõisa tee Maxima X pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Järve linnaosa, Mõisa tee 3",
+            "locality": "Kohtla-Järve linn",
+            "postalCode": "96307",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "d9ac475d-dcfd-4230-a757-4dcbd78d5c95",
+            "name": "Kohtla-Järve Rimi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Järve linnaosa, Põhja allee 4",
+            "locality": "Kohtla-Järve linn",
+            "postalCode": "96036",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "15139ad8-6b6a-4e8c-b3cb-50aaadf23ab2",
+            "name": "Kärdla Tormi Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kärdla linn, Heltermaa mnt 14a",
+            "locality": "Hiiumaa vald",
+            "postalCode": "96210",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "36fd4a68-dd6b-45b5-8c40-4a99dbea37f8",
+            "name": "Leisi postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Leisi alevik, Mustjala mnt 3",
+            "locality": "Saaremaa vald",
+            "postalCode": "94294",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "82ccb44b-fbaf-4702-bf7f-ff76f6b43091",
+            "name": "Maardu Maxima X pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Keemikute tn 37",
+            "locality": "Maardu linn",
+            "postalCode": "96300",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "77971f92-a9ae-4d15-b6c8-514b56ab9f6e",
+            "name": "Maardu Maxima XX pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Keemikute tn 2",
+            "locality": "Maardu linn",
+            "postalCode": "96081",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "277aec26-eeae-42cd-9f75-9c883ced2ca1",
+            "name": "Maardu postkontor",
+            "type": "postOffice",
+            "streetAddress": "Keemikute tn 2",
+            "locality": "Maardu linn",
+            "postalCode": "74101",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "2a8b641f-6b58-4d20-95be-6ecf34695b55",
+            "name": "Orissaare Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Orissaare alevik, Kuivastu mnt 28",
+            "locality": "Saaremaa vald",
+            "postalCode": "96106",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "159682a6-bf9e-4947-ac61-765bf22971af",
+            "name": "Orissaare postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Orissaare alevik, Kuivastu mnt 39a",
+            "locality": "Saaremaa vald",
+            "postalCode": "94691",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "3136033c-8fc2-4b17-870d-04480ee094f9",
+            "name": "Otepää Maxima X pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Otepää linn, Valga mnt 1b",
+            "locality": "Otepää vald",
+            "postalCode": "96137",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "4585a590-0936-46fd-8221-21381b6f9068",
+            "name": "Sillamäe Coop Maksimarketi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Viru pst 5a",
+            "locality": "Sillamäe linn",
+            "postalCode": "96054",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "54af1372-82c3-4b66-82ee-f3f183fd3767",
+            "name": "Taebla Bussijaama pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Taebla alevik, Haapsalu mnt 9",
+            "locality": "Lääne-Nigula vald",
+            "postalCode": "96262",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "96846df0-daf2-4e4c-9c12-fbb160f11956",
+            "name": "Tallinna Idakeskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Lasnamäe linnaosa, Punane tn 16",
+            "locality": "Tallinn",
+            "postalCode": "96202",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "66e44e34-f071-4007-8e2d-53df25cd0167",
+            "name": "Tallinna Lastekodu Grossi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kesklinna linnaosa, Lastekodu tn 14",
+            "locality": "Tallinn",
+            "postalCode": "96180",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "81e2b109-ab24-402e-bd9e-261cbe071a22",
+            "name": "Tallinna Pirita Keskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Pirita linnaosa, Merivälja tee 24",
+            "locality": "Tallinn",
+            "postalCode": "96205",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "553ceb0e-8873-4951-b756-18624b9711db",
+            "name": "Tallinna Pirita Selveri pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Pirita linnaosa, Rummu tee 4",
+            "locality": "Tallinn",
+            "postalCode": "96012",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "ef9322bc-48e4-436c-9d0d-1191e0025258",
+            "name": "Tallinna Stroomi Keskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Põhja-Tallinna linnaosa, Tuulemaa tn 20",
+            "locality": "Tallinn",
+            "postalCode": "96154",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "5cb24ef5-7a12-49e6-906b-1a8713050f3c",
+            "name": "Tallinna Taltech pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Mustamäe linnaosa, Akadeemia tee 5a",
+            "locality": "Tallinn",
+            "postalCode": "96404",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "c2317b72-790f-40ad-9c1d-aa05c0d4d1dc",
+            "name": "Tiskre Prisma pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tiskre küla, Liiva tee 59",
+            "locality": "Harku vald",
+            "postalCode": "96345",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "ff9ae974-8ca3-4bc0-87eb-140dcf79f5de",
+            "name": "Vaida Coop kaupluse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Vaida alevik, Vana-Vaida tee 3",
+            "locality": "Rae vald",
+            "postalCode": "96244",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "cd6d0626-d013-4a91-a615-9deab62802c0",
+            "name": "Valga postkontor",
+            "type": "postOffice",
+            "streetAddress": "Valga linn, Raja tn 5",
+            "locality": "Valga vald",
+            "postalCode": "68299",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "d1d9127f-abb9-4bb4-8e33-e3fcefc92582",
+            "name": "Viimsi Kaubanduskeskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Haabneeme alevik, Randvere tee 6",
+            "locality": "Viimsi vald",
+            "postalCode": "96013",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "f48f4d06-8242-4eb8-ad88-2981c8ad6504",
+            "name": "Viru-Nigula pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Viru-Nigula alevik, Kirikaia tn 2",
+            "locality": "Viru-Nigula vald",
+            "postalCode": "96329",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "5da916a8-37b6-436f-9e25-bdb46fdba2f7",
+            "name": "Vändra postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Vändra alev, Pärnu-Paide mnt 4",
+            "locality": "Põhja-Pärnumaa vald",
+            "postalCode": "87794",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "c484b39f-bf0b-4d77-8822-b58a696291b7",
+            "name": "Ülenurme Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Ülenurme alevik, Võru mnt 2",
+            "locality": "Kambja vald",
+            "postalCode": "96177",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "63a970dc-4c35-418e-91bf-5af952b7aa2c",
+            "name": "Lümanda pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Lümanda küla,  ",
+            "locality": "Saaremaa vald",
+            "postalCode": "96281",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "edb45bab-c0de-401c-bfd3-df7e18c7ba77",
+            "name": "Mustjala postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Mustjala küla, Kooli tn 1",
+            "locality": "Saaremaa vald",
+            "postalCode": "93694",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "39357710-227c-4a1e-a733-aebdf6a4d35f",
+            "name": "Roela pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Roela alevik, Sinilille tn 1a",
+            "locality": "Vinni vald",
+            "postalCode": "96251",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "57f9e14b-fc26-4d05-a16b-c6ffcb462e4f",
+            "name": "Sauga Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Sauga alevik, Kuldnoka tn 1",
+            "locality": "Tori vald",
+            "postalCode": "96148",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "712e5e80-14e4-4d66-a528-e24f96f7144a",
+            "name": "Kohtla-Järve postkontor",
+            "type": "postOffice",
+            "streetAddress": "Järve linnaosa, Järveküla tee 50",
+            "locality": "Kohtla-Järve linn",
+            "postalCode": "30301",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "d3bc4cba-e1be-4cc2-92ee-57678aa0472c",
+            "name": "Kohtla-Nõmme pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kohtla-Nõmme alev, Kooli tn 6",
+            "locality": "Toila vald",
+            "postalCode": "96342",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "b6a30f8d-29ad-45b3-ad57-326a23b44616",
+            "name": "Viiratsi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Viiratsi alevik, Tiigi tn 4",
+            "locality": "Viljandi vald",
+            "postalCode": "96293",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "626b4c58-f7d0-49db-b50e-a0b3cdb194cd",
+            "name": "Mäetaguse bussijaama pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Mäetaguse alevik, Kooli tn 7",
+            "locality": "Alutaguse vald",
+            "postalCode": "96344",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "7136fad2-434f-4888-933f-194c31567f3d",
+            "name": "Viljandi Männimäe Selveri pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Riia mnt 35",
+            "locality": "Viljandi linn",
+            "postalCode": "96063",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "879aef2b-41b1-47f5-b3e1-3d32c8b8ac76",
+            "name": "Rakvere Lilleoru kaupluse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu tn 55",
+            "locality": "Rakvere linn",
+            "postalCode": "96232",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "40817e29-8e01-4013-b258-3705eb1cf263",
+            "name": "Tallinna Haabersti Rimi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Haabersti linnaosa, Haabersti tn 1",
+            "locality": "Tallinn",
+            "postalCode": "96111",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "174c4514-ceb9-49b7-86e0-a06c0595eff5",
+            "name": "Tallinna Sõpruse pst 171 Maxima X pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Mustamäe linnaosa, Sõpruse pst 171",
+            "locality": "Tallinn",
+            "postalCode": "96306",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "64f25cb2-57ae-44a9-808f-2ed1ad8dff03",
+            "name": "Väike-Maarja Grossi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Väike-Maarja alevik, Pikk tn 9",
+            "locality": "Väike-Maarja vald",
+            "postalCode": "96107",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "df4fb3d0-16bc-4264-b205-7ee4d4695a47",
+            "name": "Väike-Maarja postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Väike-Maarja alevik, Pikk tn 7",
+            "locality": "Väike-Maarja vald",
+            "postalCode": "46295",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "f38f0546-5a55-434e-9669-ece02af7ec74",
+            "name": "Häädemeeste Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Häädemeeste alevik, Pärnu mnt 40",
+            "locality": "Häädemeeste vald",
+            "postalCode": "96233",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "4042b211-c40f-409e-9070-2f1b100c28fe",
+            "name": "Ihaste Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Veibri küla, Kasesalu tee 51",
+            "locality": "Luunja vald",
+            "postalCode": "96170",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "28627e47-987e-404c-90d8-e3a2db9d2e9a",
+            "name": "Jõhvi Jewe kaubanduskeskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Jõhvi linn, Narva mnt 8",
+            "locality": "Jõhvi vald",
+            "postalCode": "96030",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "0d8bd1c0-dea9-4ee1-bd1f-03c86e98885f",
+            "name": "Kohila Grossi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kohila alev, Viljandi mnt 3a",
+            "locality": "Kohila vald",
+            "postalCode": "96393",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "0a2792dc-a77a-4558-a2da-c7727abf00cf",
+            "name": "Kostivere Meie kaupluse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kostivere alevik, Mõisa tee 3",
+            "locality": "Jõelähtme vald",
+            "postalCode": "96160",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "8e6b4ff2-bafe-4e7e-99e3-c2a8ab616c62",
+            "name": "Kummeli Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kudjape alevik, Kummeli põik 1",
+            "locality": "Saaremaa vald",
+            "postalCode": "96277",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "b8d2f9a8-5d2e-456b-b26e-f6816f757475",
+            "name": "Kuressaare Smuuli Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kuressaare linn, J. Smuuli tn 1",
+            "locality": "Saaremaa vald",
+            "postalCode": "96065",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "acd40289-2728-402b-9de4-ce10c0fec107",
+            "name": "Kärdla postkontor",
+            "type": "postOffice",
+            "streetAddress": "Kärdla linn, Keskväljak 3",
+            "locality": "Hiiumaa vald",
+            "postalCode": "92401",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "818cc990-f70c-441a-93d3-b44a36aa6e76",
+            "name": "Kärla pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kärla alevik, Pargi tn 2",
+            "locality": "Saaremaa vald",
+            "postalCode": "96276",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "8d48d285-bda6-49ca-8c6e-bb5572fdec75",
+            "name": "Kõrgessaare Coop kaupluse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kõrgessaare alevik, Tööstuse tee 10",
+            "locality": "Hiiumaa vald",
+            "postalCode": "96291",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "bf664af6-f033-4fe6-86d4-22cb30ee3049",
+            "name": "Laeva Spordihoone pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Laeva küla, Aeru tee 3",
+            "locality": "Tartu vald",
+            "postalCode": "96340",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "313d2303-96f6-4d51-b157-8a300a16f2bd",
+            "name": "Lagedi Keskusehoone pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Lagedi alevik, Kooli tn 18b",
+            "locality": "Rae vald",
+            "postalCode": "96183",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "a9f90ebd-646a-465a-8fe3-191a77639973",
+            "name": "Lasnamäe Centrum postkontor",
+            "type": "postOffice",
+            "streetAddress": "Lasnamäe linnaosa, Mustakivi tee 13",
+            "locality": "Tallinn",
+            "postalCode": "13801",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "a6fe2429-def7-484f-a55e-1fb8e9e5d145",
+            "name": "Lihula Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Lihula linn, Tallinna mnt 12",
+            "locality": "Lääneranna vald",
+            "postalCode": "96119",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "a8ddf4bc-9db5-4022-a753-af54b1b28d2c",
+            "name": "Pärnu Oja Selver ABC pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Pärnu linn, Liblika tn 6",
+            "locality": "Pärnu linn",
+            "postalCode": "96315",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "e093620b-2f52-4445-b555-130c4254ebe9",
+            "name": "Rakvere Vaala Keskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Lõõtspilli tn 2",
+            "locality": "Rakvere linn",
+            "postalCode": "96167",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "0ee5e6fd-4fbd-46c3-8bdf-f8a1dc38cabb",
+            "name": "Mustla postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Mustla alevik, Posti tn 52b",
+            "locality": "Viljandi vald",
+            "postalCode": "69794",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "1dd3120b-f4e1-46c2-9611-e361814525bc",
+            "name": "Mõniste pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Mõniste küla,  ",
+            "locality": "Rõuge vald",
+            "postalCode": "96378",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "3c411304-105a-4a34-9229-6e371ea90f0b",
+            "name": "Tartu Jaamamõisa Selveri pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu linn, Jaama tn 74",
+            "locality": "Tartu linn",
+            "postalCode": "96213",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "0d7e0481-d61c-472e-8d51-de151927bef6",
+            "name": "Tartu Karete Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu linn, Jalaka tn 34",
+            "locality": "Tartu linn",
+            "postalCode": "96187",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "cb210bf0-6f62-4b37-a1bb-abdd3b350b63",
+            "name": "Tallinna Tondi Selveri pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kristiine linnaosa, A. H. Tammsaare tee 62",
+            "locality": "Tallinn",
+            "postalCode": "96006",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "601eb6e5-df5f-42d5-9156-46bb76c12ca4",
+            "name": "Vormsi pakiväljastus",
+            "type": "parcelMachine",
+            "streetAddress": "Hullo küla,  ",
+            "locality": "Vormsi vald",
+            "postalCode": "91999",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "2547f0b8-8cdf-4c0c-9318-bf8a8c39400d",
+            "name": "Jõgeva postkontor",
+            "type": "postOffice",
+            "streetAddress": "Jõgeva linn, Aia tn 8",
+            "locality": "Jõgeva vald",
+            "postalCode": "48301",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "32bc8c25-71af-4421-89af-2440cf8a2a8a",
+            "name": "Harku Raamatukogu pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Harku alevik, Instituudi tee 5",
+            "locality": "Harku vald",
+            "postalCode": "96294",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "8e0c6eb1-a4e4-4499-b78c-52b85b93743e",
+            "name": "Kiviõli postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Kiviõli linn, Viru tn 7",
+            "locality": "Lüganuse vald",
+            "postalCode": "43101",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "e0958c3a-1652-4e9e-812b-bb6825630a8b",
+            "name": "Klooga pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Klooga alevik, Aedlinna tee 3",
+            "locality": "Lääne-Harju vald",
+            "postalCode": "96290",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "2c03442d-bf83-4d08-a3ea-f5b332afe81b",
+            "name": "Rapla Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Rapla linn, Tallinna mnt 16",
+            "locality": "Rapla vald",
+            "postalCode": "96220",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "537850a4-cbb3-4f97-8a95-2efede0c5c57",
+            "name": "Tallinna Balti Jaama pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Põhja-Tallinna linnaosa, Toompuiestee 37",
+            "locality": "Tallinn",
+            "postalCode": "96001",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "96436e1f-562f-43cd-89ba-bd0200d2eb72",
+            "name": "Pallasti väljastuspunkt",
+            "type": "postOffice",
+            "streetAddress": "Lasnamäe linnaosa, Pallasti tn 28",
+            "locality": "Tallinn",
+            "postalCode": "10203",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "c8f563e4-1d21-4ac6-9c2f-b4cb125dbe7e",
+            "name": "Tallinna Solaris Keskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kesklinna linnaosa, Estonia pst 9",
+            "locality": "Tallinn",
+            "postalCode": "96140",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "6a37462f-6815-46f3-93bb-bb03dc3aa55c",
+            "name": "Viimsi Pärnamäe Rimi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Laiaküla, Lilleoru tee 4",
+            "locality": "Viimsi vald",
+            "postalCode": "96124",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "db38dd4d-1c81-4851-a3b3-bab7541b6bf4",
+            "name": "Võhma Bussijaama pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Võhma linn, Tallinna tn 17",
+            "locality": "Põhja-Sakala vald",
+            "postalCode": "96246",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "baec1259-374f-4a68-b8e6-dfffb642949c",
+            "name": "Martna postipunkt (raamatukogu)",
+            "type": "postOffice",
+            "streetAddress": "Martna küla,  ",
+            "locality": "Lääne-Nigula vald",
+            "postalCode": "90694",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "a43d1317-0a5e-43af-a519-44a386e693d3",
+            "name": "Tallinna Ümera Maxima XX pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Lasnamäe linnaosa, Laagna tee 80",
+            "locality": "Tallinn",
+            "postalCode": "96059",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "c30e4859-8030-45dc-ace0-2b749a5cfa3b",
+            "name": "Käina Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Käina alevik, Spordi tn 9",
+            "locality": "Hiiumaa vald",
+            "postalCode": "96156",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "c65753e7-d033-4fb1-bdd9-1632d31a2e5a",
+            "name": "Laagri Veskitammi Maxima X pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Laagri alevik, Veskitammi tn 3",
+            "locality": "Saue vald",
+            "postalCode": "96381",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "bc1c094b-3fd3-4b9f-ba22-0aabf8796616",
+            "name": "Laekvere pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Laekvere alevik, Salutaguse tee 2",
+            "locality": "Vinni vald",
+            "postalCode": "96248",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "7518e51e-fd25-48d7-9192-9b9376370e2b",
+            "name": "Lihula postipunkt (raamatukogu)",
+            "type": "postOffice",
+            "streetAddress": "Lihula linn, Tallinna mnt 25",
+            "locality": "Lääneranna vald",
+            "postalCode": "90394",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "965437be-1f29-4fda-9323-36d13485d79f",
+            "name": "Loo Grossi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Loo alevik, Saha tee 9",
+            "locality": "Jõelähtme vald",
+            "postalCode": "96171",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "45b4994a-c039-4647-aafd-51fa2b26ca87",
+            "name": "Luige Keskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Luige alevik, Viljandi mnt 168",
+            "locality": "Kiili vald",
+            "postalCode": "96379",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "c41b6023-aec1-463c-a093-11d8387ce9b8",
+            "name": "Lüllemäe pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Lüllemäe küla, Kirikumõisa tee 1",
+            "locality": "Valga vald",
+            "postalCode": "96353",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "fa86f7f9-8a1d-443f-8468-ac4602f83500",
+            "name": "Mustvee Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Mustvee linn, Tartu tn 3",
+            "locality": "Mustvee vald",
+            "postalCode": "96163",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "132cd6ec-00c7-44bf-9fff-702c4afef829",
+            "name": "Mustvee postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Mustvee linn, Tartu tn 12",
+            "locality": "Mustvee vald",
+            "postalCode": "49694",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "2f9a2f72-b789-458d-a35d-8f9533f4e0d9",
+            "name": "Muuga Maxima X pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Altmetsa tee 1",
+            "locality": "Maardu linn",
+            "postalCode": "96228",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "a6236c30-bbfa-4b3f-8eff-b220cd692698",
+            "name": "Obinitsa postipunkt (raamatukogu)",
+            "type": "postOffice",
+            "streetAddress": "Obinitsa küla, Kooli tn 1",
+            "locality": "Setomaa vald",
+            "postalCode": "65394",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "b4343c0d-5687-49df-ae71-215d92376e6a",
+            "name": "Orava pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Orava küla,  ",
+            "locality": "Võru vald",
+            "postalCode": "96361",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "2fdcbf5c-0b58-454c-911b-398e4d8b3244",
+            "name": "Paide Coop Maksimarket pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Paide linn, Ringtee 2",
+            "locality": "Paide linn",
+            "postalCode": "96207",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "0abd6255-4ae5-4c1e-9a35-a718f2237a9f",
+            "name": "Paikuse Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Paikuse alev, Pärnade pst 1",
+            "locality": "Pärnu linn",
+            "postalCode": "96158",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "6eb9e84d-e9df-4d4b-b42f-ab463c9dbfe3",
+            "name": "Palamuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Palamuse alevik, Uus tn 1",
+            "locality": "Jõgeva vald",
+            "postalCode": "96257",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "41373213-4fa2-49b6-ab5e-24d72cd5f034",
+            "name": "Peetri Selveri pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Peetri alevik, Veesaare tee 2",
+            "locality": "Rae vald",
+            "postalCode": "96082",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "c84d0d9e-8721-418e-be00-12197acae286",
+            "name": "Pärnu Coop Maksimarketi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Papsaare küla, Haapsalu mnt 43",
+            "locality": "Pärnu linn",
+            "postalCode": "96076",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "c498da0b-0603-4a3a-a45a-62ff66cbed5f",
+            "name": "Põltsamaa Selveri pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Põltsamaa linn, Jõgeva mnt 1a",
+            "locality": "Põltsamaa vald",
+            "postalCode": "96048",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "2be7fb06-c935-4e1c-bc0e-c7b000cc0ac2",
+            "name": "Rakvere Lidl pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Ussimäe küla, Ussimäe tn 1",
+            "locality": "Rakvere vald",
+            "postalCode": "96397",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "d5843cf5-83ab-4d6a-a6f7-b6e53c801a03",
+            "name": "Rannu Coop Kaupluse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Rannu alevik, Elva tee 10",
+            "locality": "Elva vald",
+            "postalCode": "96359",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "d0434d78-8597-4af9-b660-194a291954c6",
+            "name": "Rocca Al Mare postkontor",
+            "type": "postOffice",
+            "streetAddress": "Haabersti linnaosa, Paldiski mnt 102",
+            "locality": "Tallinn",
+            "postalCode": "13591",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "62a83f8a-7681-4d65-927f-2966e50816fb",
+            "name": "Räpina Maxima X pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Räpina linn, Pargi tn 1",
+            "locality": "Räpina vald",
+            "postalCode": "96095",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "ca8441bc-9bb9-4297-8181-07d72cd593a6",
+            "name": "Rõngu Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Rõngu alevik, Tartu mnt 2",
+            "locality": "Elva vald",
+            "postalCode": "96151",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "fce91394-21f5-4d64-babf-cc9268d9aa55",
+            "name": "Saku Selveri pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Saku alevik, Üksnurme tee 2",
+            "locality": "Saku vald",
+            "postalCode": "96301",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "adb4add6-a244-4c23-bd39-77f41201c01e",
+            "name": "Soinaste Kaasiku Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Soinaste küla, Kaasiku tn 35",
+            "locality": "Kambja vald",
+            "postalCode": "96383",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "faea7dd7-71d1-488a-bd7f-960594859136",
+            "name": "Tabasalu Rimi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tabasalu alevik, Klooga mnt 10b",
+            "locality": "Harku vald",
+            "postalCode": "96071",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "6b2bac6d-197e-4cac-a446-78f1e3ba60d5",
+            "name": "Tallinna Järve Keskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Nõmme linnaosa, Pärnu mnt 238",
+            "locality": "Tallinn",
+            "postalCode": "96016",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "64939a71-30c7-4a2d-a2a3-e5320ccfdb2d",
+            "name": "Tallinna Kollase keskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Haabersti linnaosa, Õismäe tee 107",
+            "locality": "Tallinn",
+            "postalCode": "96226",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "b45a74b0-58e0-4aaf-ad35-14a728b8e0a8",
+            "name": "Tallinna Tähesaju Selveri pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Lasnamäe linnaosa, Tähesaju tee 1",
+            "locality": "Tallinn",
+            "postalCode": "96302",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "bab3adca-7507-4b3f-a732-7342b4b602a4",
+            "name": "Tartu Lõunakeskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu linn, Lääneringtee 39",
+            "locality": "Tartu linn",
+            "postalCode": "96019",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "2f46d8c1-157e-4e17-a6f0-46cd22c0f6c2",
+            "name": "Tartu Sõbrakeskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu linn, Võru tn 55f",
+            "locality": "Tartu linn",
+            "postalCode": "96021",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "66a5b20e-6e53-417c-82ec-ab28bce52933",
+            "name": "Tartu Tasku keskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu linn, Turu tn 2",
+            "locality": "Tartu linn",
+            "postalCode": "96039",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "11733867-9647-4d41-8c7d-3d34621e9e61",
+            "name": "Tori pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tori alevik, Pärnu mnt 21",
+            "locality": "Tori vald",
+            "postalCode": "96253",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "ed20086c-268f-45cd-8688-06bc53dd58bd",
+            "name": "Torma Coop kaupluse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Torma alevik, Kesk tn 1a",
+            "locality": "Jõgeva vald",
+            "postalCode": "96121",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "14fb6957-3692-4ed0-a69f-7c514bafd13e",
+            "name": "Vändra Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Vändra alev, Pärnu-Paide mnt 21",
+            "locality": "Põhja-Pärnumaa vald",
+            "postalCode": "96348",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "1b5527c3-0abc-4495-bc5f-1e5f6075f9bc",
+            "name": "Võru kesklinna Circle K pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Jüri tn 45",
+            "locality": "Võru linn",
+            "postalCode": "96314",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "aaf7841c-a791-478c-a658-62e2606a10d7",
+            "name": "Jüri Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Jüri alevik, Aruküla tee 29",
+            "locality": "Rae vald",
+            "postalCode": "96079",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "b26a25d1-182b-48b1-a107-e60bc68d14fe",
+            "name": "Värska postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Värska alevik, Pikk tn 12",
+            "locality": "Setomaa vald",
+            "postalCode": "64094",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "426c4923-e3ff-4f83-a8ba-95e3f48bf210",
+            "name": "Hummuli Coop kaupluse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Hummuli alevik, Tamme tee 2",
+            "locality": "Tõrva vald",
+            "postalCode": "96366",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "2b22ba28-54f5-45a4-9350-2c5278109721",
+            "name": "Pärnu Maxima XXX pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Pärnu linn, Riia mnt 131",
+            "locality": "Pärnu linn",
+            "postalCode": "96027",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "9654b7d3-3256-4120-8e8b-b01ce25e044e",
+            "name": "Tallinna Tatari Rimi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kesklinna linnaosa, Tatari tn 64",
+            "locality": "Tallinn",
+            "postalCode": "96240",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "e7535478-cfff-494e-9881-d245df62ff1c",
+            "name": "Tallinna Ülemiste City Selveri pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Lasnamäe linnaosa, Sepapaja tn 2",
+            "locality": "Tallinn",
+            "postalCode": "96208",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "3fe5e928-4c32-4832-84bf-37320c3a80e8",
+            "name": "Are pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Are alevik, Pärivere tee 17",
+            "locality": "Tori vald",
+            "postalCode": "96328",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "68911c51-c002-431e-a718-91e435caf25c",
+            "name": "Laagri postkontor",
+            "type": "postOffice",
+            "streetAddress": "Laagri alevik, Veskitammi tn 10",
+            "locality": "Saue vald",
+            "postalCode": "76491",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "598dbc1d-3a12-4746-84b0-62e77d333fdf",
+            "name": "Narva Soldina Maxima XX pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Soldina tn 20",
+            "locality": "Narva linn",
+            "postalCode": "96182",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "7cf4d9af-69c9-49b6-9db3-e29d873f612d",
+            "name": "Pärnu postkontor",
+            "type": "postOffice",
+            "streetAddress": "Pärnu linn, Lai tn 11",
+            "locality": "Pärnu linn",
+            "postalCode": "80501",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "11acfb22-e4ad-4535-9e6c-23b36622bc93",
+            "name": "Rapla Maxima X pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Rapla linn, Tallinna mnt 50a",
+            "locality": "Rapla vald",
+            "postalCode": "96043",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "a615b0d4-42eb-4649-85d8-70d3a9c9da40",
+            "name": "Rapla postkontor",
+            "type": "postOffice",
+            "streetAddress": "Rapla linn, Tallinna mnt 17",
+            "locality": "Rapla vald",
+            "postalCode": "79501",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "20fac4a5-2e6b-4d08-8522-4e4ca0c26bd5",
+            "name": "Roo Prisma pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Harkujärve küla, Roo tee 1",
+            "locality": "Harku vald",
+            "postalCode": "96387",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "315670ae-6330-41d9-ba1c-a17b6bc3f47e",
+            "name": "Roobuka pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Roobuka küla, Roheluse tee 1",
+            "locality": "Saku vald",
+            "postalCode": "96273",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "7bba0d53-f565-442b-a0ad-08c80010ba24",
+            "name": "Vinni Spordikompleksi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Vinni alevik, Sõpruse tn 16",
+            "locality": "Vinni vald",
+            "postalCode": "96149",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "54a13377-7a55-4671-a5c9-e57e747887d4",
+            "name": "Narva Fama keskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Fama tn 10",
+            "locality": "Narva linn",
+            "postalCode": "96072",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "5b858a45-400e-4569-8bdc-b7302f487160",
+            "name": "Puka pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Puka alevik, Kooli tn 6",
+            "locality": "Otepää vald",
+            "postalCode": "96256",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "1331aba3-fadd-4926-8bfa-dce69a9023de",
+            "name": "Pärnu Ülejõe Selveri pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Pärnu linn, Tallinna mnt 93a",
+            "locality": "Pärnu linn",
+            "postalCode": "96077",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "cfe7e6e8-280f-4f5d-b54e-27793ccd46bc",
+            "name": "Ringtee postkontor",
+            "type": "postOffice",
+            "streetAddress": "Tartu linn, Võru tn 167",
+            "locality": "Tartu linn",
+            "postalCode": "50191",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "c8c9792c-90fb-41f5-81c1-f9a582b846c0",
+            "name": "Ramsi Coop kaupluse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Ramsi alevik, Keskuse tee 1",
+            "locality": "Viljandi vald",
+            "postalCode": "96365",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "ffe96ac9-0602-493d-b208-cb7a5a23b908",
+            "name": "Ruhnu postipunkt (raamatukogu)",
+            "type": "postOffice",
+            "streetAddress": "Ruhnu küla,  ",
+            "locality": "Ruhnu vald",
+            "postalCode": "93091",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "12d556ad-2b35-4ae8-8834-8d55eaa9deee",
+            "name": "Tallinna Nõmme turu pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Nõmme linnaosa, Turu plats 8",
+            "locality": "Tallinn",
+            "postalCode": "96101",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "8f942fe5-d981-43a2-8cdd-99fb81ba5df6",
+            "name": "Tallinna Smuuli Maxima XX pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Lasnamäe linnaosa, J. Smuuli tee 9",
+            "locality": "Tallinn",
+            "postalCode": "96080",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "b5b432d7-5846-4399-bdf8-b643014905df",
+            "name": "Tallinna Tammsaare Maxima XX pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Mustamäe linnaosa, A. H. Tammsaare tee 133",
+            "locality": "Tallinn",
+            "postalCode": "96305",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "492a2458-efbe-44a8-8469-83eadc9d3216",
+            "name": "Viimsi Rimi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Haabneeme alevik, Randvere tee 9",
+            "locality": "Viimsi vald",
+            "postalCode": "96209",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "b46b63b9-8dc9-4e20-92bd-e2c509dde7fb",
+            "name": "Vääna pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Vääna küla, Viljapuuaia tee 1",
+            "locality": "Harku vald",
+            "postalCode": "96377",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "df71b427-b1ca-4ba4-a132-1421b96a4226",
+            "name": "Õru postipunkt (Epre kauplus)",
+            "type": "postOffice",
+            "streetAddress": "Õruste küla,  ",
+            "locality": "Valga vald",
+            "postalCode": "67194",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "28ed65d9-3dcd-419f-8b31-883baa08edae",
+            "name": "Rae postkontor",
+            "type": "postOffice",
+            "streetAddress": "Peetri alevik, Veesaare tee 2",
+            "locality": "Rae vald",
+            "postalCode": "75399",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "b1d0fb8e-3d4f-4e9d-a586-445e8b338ef9",
+            "name": "Roiu Coop kaupluse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Roiu alevik, Männi tn 9",
+            "locality": "Kastre vald",
+            "postalCode": "96282",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "3193b711-31af-4f5c-b1f4-51b8ebf1dfa7",
+            "name": "Saverna pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Saverna küla, Kooli tee 5",
+            "locality": "Kanepi vald",
+            "postalCode": "96368",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "d3b6a385-cc37-4887-a406-7db3a6f1e69a",
+            "name": "Sikupilli postkontor",
+            "type": "postOffice",
+            "streetAddress": "Lasnamäe linnaosa, Tartu mnt 87",
+            "locality": "Tallinn",
+            "postalCode": "19098",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "0ab9a1d9-f3b2-4961-a99a-b56fba218510",
+            "name": "Harkujärve Meie kaupluse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Harkujärve küla, Liiva tee 2",
+            "locality": "Harku vald",
+            "postalCode": "96395",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "33c05a70-a657-42b6-8139-01ddd955b0ae",
+            "name": "Lavassaare pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Lavassaare alev, Võidu tn 2",
+            "locality": "Pärnu linn",
+            "postalCode": "96261",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "a6a5b22d-405f-47ef-9c8e-728693dd4c47",
+            "name": "Leisi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Leisi alevik, Mustjala mnt 5",
+            "locality": "Saaremaa vald",
+            "postalCode": "96274",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "ae3235f7-4422-41d4-888b-42d23414846b",
+            "name": "Aegviidu Meie kaupluse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Aegviidu alev, Piibe mnt 8",
+            "locality": "Anija vald",
+            "postalCode": "96280",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "8504e716-79bf-46c0-8984-5cc924da56cf",
+            "name": "Ala Coop kaupluse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Ala küla,  ",
+            "locality": "Tõrva vald",
+            "postalCode": "96401",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "4430c937-a6fa-401e-b724-4e0971360640",
+            "name": "Kabala pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kabala küla, Koikse tee 7",
+            "locality": "Rapla vald",
+            "postalCode": "96355",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "cc747be8-d017-4420-a229-c58f1ece0253",
+            "name": "Kaiu Huvikooli pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kaiu alevik, Kasvandu tee 15",
+            "locality": "Rapla vald",
+            "postalCode": "96259",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "04754b8a-71e6-4887-9516-077d1d6eecc6",
+            "name": "Kohila Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kohila alev, Vabaduse tn 7",
+            "locality": "Kohila vald",
+            "postalCode": "96094",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "c39b2fbd-b873-448d-a5da-ccaeaa42968f",
+            "name": "Kohila postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Kohila alev, Vabaduse tn 20",
+            "locality": "Kohila vald",
+            "postalCode": "79895",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "530b3933-0fb2-46af-8adc-f510c3acf9f8",
+            "name": "Kohtla-Järve Keskallee Maxima X pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Järve linnaosa, Keskallee 12",
+            "locality": "Kohtla-Järve linn",
+            "postalCode": "96139",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "0864a4b2-a030-44cf-8637-fcf38c95be98",
+            "name": "Avinurme pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Avinurme alevik, Võidu tn 2",
+            "locality": "Mustvee vald",
+            "postalCode": "96363",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "a702d361-9735-4856-bce3-4ad4bc32f82d",
+            "name": "Kohtla-Järve Selveri pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Järve linnaosa, Järveküla tee 68",
+            "locality": "Kohtla-Järve linn",
+            "postalCode": "96386",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "06360b54-1993-4bcd-89b3-d517c67281bc",
+            "name": "Kohtla-Järve Vironia keskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Järve linnaosa, Järveküla tee 50",
+            "locality": "Kohtla-Järve linn",
+            "postalCode": "96093",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "bd56c010-fc52-4725-a683-37566db99113",
+            "name": "Koigi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Koigi küla, Mõisavahe tee 2",
+            "locality": "Järva vald",
+            "postalCode": "96260",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "c8c73151-57b9-44c6-a110-0000bafa4bc8",
+            "name": "Kõrveküla Coop kaupluse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kõrveküla alevik, Vasula tee 4",
+            "locality": "Tartu vald",
+            "postalCode": "96169",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "7c9396f4-aa50-4c3e-afc0-d53409db7d4e",
+            "name": "Külitse Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Külitse alevik, Kiigemäe tee 2",
+            "locality": "Kambja vald",
+            "postalCode": "96360",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "7491bf0c-dd8f-440d-925a-cee513aecaba",
+            "name": "Haapsalu postkontor",
+            "type": "postOffice",
+            "streetAddress": "Haapsalu linn, Nurme tn 2",
+            "locality": "Haapsalu linn",
+            "postalCode": "90501",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "66aa0a3f-e28d-4f47-967c-a0587dbfe606",
+            "name": "Randvere Meie kaupluse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Randvere küla, G. H. Schüdlöffeli tee 2",
+            "locality": "Viimsi vald",
+            "postalCode": "96396",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "9eb2f679-9a58-4541-b67e-d6e5cfbdad07",
+            "name": "Järva-Jaani Grossi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Järva-Jaani alev, Lai tn 23",
+            "locality": "Järva vald",
+            "postalCode": "96157",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "d4891b44-d9fa-40bb-93f7-e6175f18861c",
+            "name": "Rõuge Bussijaama pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Rõuge alevik,  ",
+            "locality": "Rõuge vald",
+            "postalCode": "96255",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "ed567837-d484-4a4a-9338-46be97602844",
+            "name": "Saaremaa Kaubamaja pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kuressaare linn, Raekoja tn 1",
+            "locality": "Saaremaa vald",
+            "postalCode": "96199",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "f07b90b0-6c94-402c-84a1-f3937cb06288",
+            "name": "Sangaste pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Sangaste alevik, Valga mnt 11",
+            "locality": "Otepää vald",
+            "postalCode": "96351",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "e83f0785-7155-40f9-9350-4777ff8a0a1a",
+            "name": "Saue Grossi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Saue linn, Pärnasalu põik 1b",
+            "locality": "Saue vald",
+            "postalCode": "96184",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "08088f7c-9f16-473e-879e-f43f3125bfba",
+            "name": "Saue postkontor",
+            "type": "postOffice",
+            "streetAddress": "Saue linn, Kütise tn 4",
+            "locality": "Saue vald",
+            "postalCode": "76501",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "771b1edb-6e96-41b1-9a05-e2f495cc373a",
+            "name": "Jõhvi Pargi keskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Jõhvi linn, Puru tee 1",
+            "locality": "Jõhvi vald",
+            "postalCode": "96235",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "b1007526-b942-4f46-85d2-cc26c50c4c1f",
+            "name": "Jüri postkontor",
+            "type": "postOffice",
+            "streetAddress": "Jüri alevik, Aruküla tee 29",
+            "locality": "Rae vald",
+            "postalCode": "75391",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "a88459d3-ca91-461a-bc69-a4a61abd60ab",
+            "name": "Tallinna Telliskivi Rimi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Põhja-Tallinna linnaosa, Telliskivi tn 61",
+            "locality": "Tallinn",
+            "postalCode": "96058",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "16775ab2-75d6-4557-ba07-eb3184557655",
+            "name": "Tallinna Tööstuse Rimi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Põhja-Tallinna linnaosa, Tööstuse tn 101",
+            "locality": "Tallinn",
+            "postalCode": "96185",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "c7aec4d1-5673-41cb-a292-d81297b39680",
+            "name": "Tartu Anne 40 Maxima X pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu linn, Anne tn 40",
+            "locality": "Tartu linn",
+            "postalCode": "96319",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "1175b051-18c5-41ff-b45f-9d9c744070f7",
+            "name": "Tartu Anne Selveri pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu linn, Kalda tee 43",
+            "locality": "Tartu linn",
+            "postalCode": "96126",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "d0491678-76bf-4d51-a01d-5e74287b7f84",
+            "name": "Tartu Annelinna Prisma pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu linn, Nõlvaku tn 2",
+            "locality": "Tartu linn",
+            "postalCode": "96376",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "0e2fe435-2571-48d4-9bdf-1ccdaa4a2e05",
+            "name": "Kaubamaja postkontor",
+            "type": "postOffice",
+            "streetAddress": "Kesklinna linnaosa, Gonsiori tn 2",
+            "locality": "Tallinn",
+            "postalCode": "10195",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "14bad1a9-d7ba-49ed-8f4b-8ca7143bedd6",
+            "name": "Tartu Eedeni pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu linn, Kalda tee 1c",
+            "locality": "Tartu linn",
+            "postalCode": "96020",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "6c41fa0d-de38-4969-bfe9-e45af8ce977d",
+            "name": "Kehra postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Kehra linn, Kose mnt 2",
+            "locality": "Anija vald",
+            "postalCode": "74395",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "4200a980-fae2-4528-98bd-97ae72e9debc",
+            "name": "Tartu Ilmatsalu Maxima X pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu linn, Ilmatsalu tn 11",
+            "locality": "Tartu linn",
+            "postalCode": "96241",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "7848d4e9-6021-4ae7-bd31-bd17e4778e56",
+            "name": "Keila postkontor",
+            "type": "postOffice",
+            "streetAddress": "Jaama tn 1",
+            "locality": "Keila linn",
+            "postalCode": "76601",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "69cfb636-a81f-47dd-bcc2-0ba6844c9243",
+            "name": "Tartu Kesklinna Keskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu linn, Küüni tn 7",
+            "locality": "Tartu linn",
+            "postalCode": "96061",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "882cc446-4d07-475c-a861-50d216928d41",
+            "name": "Tartu Kivilinna Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu linn, Jaama tn 173",
+            "locality": "Tartu linn",
+            "postalCode": "96068",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "af4c1528-353a-4c54-a619-3d3c66b02f26",
+            "name": "Kihnu pakiväljastus",
+            "type": "parcelMachine",
+            "streetAddress": "Lemsi küla,  ",
+            "locality": "Kihnu vald",
+            "postalCode": "88999",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "a8367814-8174-4771-8b39-a01b948d07f8",
+            "name": "Tartu Kvartali Keskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu linn, Riia tn 2",
+            "locality": "Tartu linn",
+            "postalCode": "96165",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "7a927b03-94a1-4dd8-b515-01efb8d7e16c",
+            "name": "Tartu Maarjamõisa Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu linn, Ravila tn 14d",
+            "locality": "Tartu linn",
+            "postalCode": "96384",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "e266fd74-dccd-4bac-bb09-33ca889c03a4",
+            "name": "Tootsi Bussijaama pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tootsi alev, Kesk tn 8",
+            "locality": "Põhja-Pärnumaa vald",
+            "postalCode": "96339",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "9689fb2a-838c-4f1f-b27e-8aca6c8a6ccc",
+            "name": "Treimani postipunkt (Kalbuse kauplus)",
+            "type": "postOffice",
+            "streetAddress": "Treimani küla,  ",
+            "locality": "Häädemeeste vald",
+            "postalCode": "86025",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "1d9fbb7d-2e88-4d7b-9a6a-9b1df326e774",
+            "name": "Tsirguliina pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tsirguliina alevik, Nooruse tn 1",
+            "locality": "Valga vald",
+            "postalCode": "96296",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "84d107c8-dc87-4068-aac7-6582070b1bae",
+            "name": "Tsooru pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tsooru küla,  ",
+            "locality": "Antsla vald",
+            "postalCode": "96369",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "2b054f9d-cd6d-47f8-b6a5-bd55aa29465e",
+            "name": "Viimsi postkontor",
+            "type": "postOffice",
+            "streetAddress": "Haabneeme alevik, Paadi tee 3",
+            "locality": "Viimsi vald",
+            "postalCode": "74094",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "e6e5172e-5b4f-4f84-bd16-1c1840e93339",
+            "name": "Võnnu kultuurimaja pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Võnnu alevik, Tartu tn 24",
+            "locality": "Kastre vald",
+            "postalCode": "96349",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "14a40294-e136-435e-9b61-5e9f2e69d48a",
+            "name": "Võru Coop Maksimarketi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Jüri tn 83",
+            "locality": "Võru linn",
+            "postalCode": "96035",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "a7e741e9-0421-4d15-831e-4159dadee8f3",
+            "name": "Võru Maxima XX pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kooli tn 2",
+            "locality": "Võru linn",
+            "postalCode": "96064",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "63b59b27-1678-48df-8d0c-dabfea01f2e5",
+            "name": "Lepna postipunkt (Raamatukogu)",
+            "type": "postOffice",
+            "streetAddress": "Lepna alevik, Lasteaia tn 4",
+            "locality": "Rakvere vald",
+            "postalCode": "44495",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "8e8a4a25-8a93-4304-b77d-ae21583f98a2",
+            "name": "Leppneeme sadama pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Leppneeme küla, Leppneeme Sadama tee ",
+            "locality": "Viimsi vald",
+            "postalCode": "96334",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "0d91c51e-d139-45bf-9606-549b8e85f1d3",
+            "name": "Loksa postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Papli tn 2",
+            "locality": "Loksa linn",
+            "postalCode": "74895",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "1d08b36a-0839-4738-9528-4da734f9380a",
+            "name": "Muraste Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Muraste küla, Lee tee 1",
+            "locality": "Harku vald",
+            "postalCode": "96239",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "1b0b3db8-2cbc-4e9f-ba3a-b2f555792d5a",
+            "name": "Narva Kreenholmi Maxima XX pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kreenholmi tn 52",
+            "locality": "Narva linn",
+            "postalCode": "96091",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "32216345-6cf8-4859-abcb-fc14196644ec",
+            "name": "Narva Megamarketi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Rakvere tn 71",
+            "locality": "Narva linn",
+            "postalCode": "96217",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "fdf9e65d-2b5a-489b-b830-d453935c6d78",
+            "name": "Narva Optimus Mööbli pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kreenholmi tn 50",
+            "locality": "Narva linn",
+            "postalCode": "96390",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "557cef08-b7be-4ea5-8230-a76cfb74376e",
+            "name": "Narva Prisma pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kangelaste prospekt 29",
+            "locality": "Narva linn",
+            "postalCode": "96125",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "c6d1eb14-da95-4bcd-aad3-5179d13a0f99",
+            "name": "Narva-Jõesuu raamatukogu pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Narva-Jõesuu linn, Kesk tn 3",
+            "locality": "Narva-Jõesuu linn",
+            "postalCode": "96326",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "1fa1d8f9-8fcc-403e-9523-f3823c274153",
+            "name": "Nõo vallamaja pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Nõo alevik, Voika tn 23",
+            "locality": "Nõo vald",
+            "postalCode": "96152",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "7b7cadc9-c854-45a5-a96d-b91d520bd0ce",
+            "name": "Pärnu Kaubamajaka pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Pärnu linn, Papiniidu tn 8",
+            "locality": "Pärnu linn",
+            "postalCode": "96040",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "e0f50d63-6740-4a50-88f7-98b311fa4752",
+            "name": "Põlva postkontor",
+            "type": "postOffice",
+            "streetAddress": "Põlva linn, Ringtee 4",
+            "locality": "Põlva vald",
+            "postalCode": "63301",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "2b2af0ba-16d2-4c29-ac9b-baa7cad3a198",
+            "name": "Tallinna Donte Ärikeskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kesklinna linnaosa, Pärnu mnt 142",
+            "locality": "Tallinn",
+            "postalCode": "96153",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "0f216349-b487-440f-ba08-6d50c673da9e",
+            "name": "Ahtme Maxima XX pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Ahtme linnaosa, Puru tee 77",
+            "locality": "Kohtla-Järve linn",
+            "postalCode": "96123",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "116b363c-e3d9-476f-b0ce-2c539b3e825f",
+            "name": "Elva Arbimäe Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Elva linn, Kirde tn 3",
+            "locality": "Elva vald",
+            "postalCode": "96179",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "3df5d608-7c89-49f9-9a9d-3b12df3abcef",
+            "name": "Iidla postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Ahtme linnaosa, Maleva tn 23",
+            "locality": "Kohtla-Järve linn",
+            "postalCode": "31001",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "9f109c4d-cf7c-4f03-bdc7-dd2e9709bd93",
+            "name": "Jüri Grossi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Jüri alevik, Aruküla tee 7",
+            "locality": "Rae vald",
+            "postalCode": "96188",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "93540c2d-e242-44a8-893f-9e93273ba381",
+            "name": "Kuressaare Maxima XX pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kuressaare linn, Tallinna tn 64",
+            "locality": "Saaremaa vald",
+            "postalCode": "96034",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "ca975080-a2ca-415d-98f2-455bca071b3e",
+            "name": "Laagri Coop Maksimarketi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Laagri alevik, Pärnu mnt 558a",
+            "locality": "Saue vald",
+            "postalCode": "96067",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "6b6fa9ee-1faf-42dc-905b-0a9abec7903e",
+            "name": "Laagri Veskitammi Selver ABC pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Laagri alevik, Veskitammi tn 10",
+            "locality": "Saue vald",
+            "postalCode": "96200",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "52eeee0d-3772-4fcf-bfb3-18b78ffd02cf",
+            "name": "Pärnu Jannseni Rimi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Pärnu linn, J. V. Jannseni tn 3/1",
+            "locality": "Pärnu linn",
+            "postalCode": "96026",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "e67a30ca-f21d-49b6-8126-b5da681971c7",
+            "name": "Rakvere Turutare pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Laada tn 18",
+            "locality": "Rakvere linn",
+            "postalCode": "96031",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "7080ea45-8350-4a29-8ffe-e3fbff35a4c3",
+            "name": "Tallinna Magdaleena pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kesklinna linnaosa, Pärnu mnt 106",
+            "locality": "Tallinn",
+            "postalCode": "96086",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "2aca4733-4c4b-4e29-bbce-c98ea8ed7add",
+            "name": "Tallinna Magistrali Keskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Mustamäe linnaosa, Sõpruse pst 201",
+            "locality": "Tallinn",
+            "postalCode": "96056",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "bd7118e1-a98b-499a-b1a8-02e1e6c4726c",
+            "name": "Tallinna Marienthali keskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kristiine linnaosa, Mustamäe tee 16",
+            "locality": "Tallinn",
+            "postalCode": "96098",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "0691cba8-ef7b-4b54-8d87-dd4dd83b4d60",
+            "name": "Tallinna Arsenali Keskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Põhja-Tallinna linnaosa, Erika tn 14",
+            "locality": "Tallinn",
+            "postalCode": "96133",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "4f0a0a1d-6f99-4b1b-b0e3-d4bb2f4f8272",
+            "name": "Tallinna Kivila Grossi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Lasnamäe linnaosa, Kivila tn 26",
+            "locality": "Tallinn",
+            "postalCode": "96190",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "befdc646-c62d-433d-8fe6-5ab739e21bac",
+            "name": "Tallinna Vilde tee Maxima XX pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Mustamäe linnaosa, E. Vilde tee 75",
+            "locality": "Tallinn",
+            "postalCode": "96143",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "b972dd22-d325-4f6e-af3c-1a5b7f4fdc97",
+            "name": "Tallinna Nautica Keskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kesklinna linnaosa, Ahtri tn 9",
+            "locality": "Tallinn",
+            "postalCode": "96174",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "1b48243e-d29d-471b-ab0d-d58251f3eee3",
+            "name": "Tapa Grossi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tapa linn, Jaama tn 1",
+            "locality": "Tapa vald",
+            "postalCode": "96092",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "5e373558-7ec8-40dd-8b93-29a644394a07",
+            "name": "Tapa Maxima X pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tapa linn, Pikk tn 33",
+            "locality": "Tapa vald",
+            "postalCode": "96308",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "4c8c3b94-e7f9-4c9d-98dc-e7aa5d8ba36b",
+            "name": "Viljandi Coop Maksimarketi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Lääne tn 2",
+            "locality": "Viljandi linn",
+            "postalCode": "96070",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "6ab646cd-ae51-4012-af49-cf0fe1d95ed2",
+            "name": "Tallinna Paasiku Grossi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Lasnamäe linnaosa, Paasiku tn 2a",
+            "locality": "Tallinn",
+            "postalCode": "96193",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "866b2687-73b2-463c-87be-731ffd7de353",
+            "name": "Tallinna Pallasti pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Lasnamäe linnaosa, Pallasti tn 28",
+            "locality": "Tallinn",
+            "postalCode": "96146",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "c759dcc1-a456-4218-90a9-dcaf99a25441",
+            "name": "Viljandi Tallinna 60 Maxima X pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tallinna tn 60",
+            "locality": "Viljandi linn",
+            "postalCode": "96313",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "8262576c-1a13-4744-afbd-89523417f55b",
+            "name": "Tallinna Sütiste Maxima X pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Mustamäe linnaosa, J. Sütiste tee 28",
+            "locality": "Tallinn",
+            "postalCode": "96175",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "c6fab441-b973-480b-8c7f-0fe7e416014f",
+            "name": "Tallinna Tondiraba Maxima XX pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Lasnamäe linnaosa, Tondiraba tn 7",
+            "locality": "Tallinn",
+            "postalCode": "96194",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "31a4fa0c-3c7b-4cd2-a0bb-e6b50f3aedcd",
+            "name": "Tallinna Torupilli Selveri pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kesklinna linnaosa, Vesivärava tn 37",
+            "locality": "Tallinn",
+            "postalCode": "96038",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "ed6d776c-ed2a-460d-827f-408d84e012ee",
+            "name": "Tallinna Õismäe Maxima XX pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Haabersti linnaosa, Õismäe tee 46",
+            "locality": "Tallinn",
+            "postalCode": "96103",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "d5987fa9-b12a-4f59-96ca-c58f05098454",
+            "name": "Tartu Aardla Selveri pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu linn, Võru tn 77",
+            "locality": "Tartu linn",
+            "postalCode": "96310",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "1017b54f-aff9-40d9-8a6d-570e1a3f4154",
+            "name": "Tartu Kvissentali Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu linn, Aruküla tee 5",
+            "locality": "Tartu linn",
+            "postalCode": "96336",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "c5aa0388-1bb1-4f89-ae97-502ff5aa8c9a",
+            "name": "Tilsi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tilsi küla,  ",
+            "locality": "Põlva vald",
+            "postalCode": "96371",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "c79315db-9475-4182-a8c1-23bb72da3161",
+            "name": "Turba kaupluse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Turba alevik, Jaama tee 8",
+            "locality": "Saue vald",
+            "postalCode": "96223",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "bc0c29a1-c761-49ee-baf6-7e821513ed3a",
+            "name": "Tõrva Tikste Coop pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tõrva linn, Viljandi tn 28",
+            "locality": "Tõrva vald",
+            "postalCode": "96053",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "f9bf89c1-be66-4ebe-b7c6-9ae9125e7397",
+            "name": "Tõrva postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Tõrva linn, Valga tn 3",
+            "locality": "Tõrva vald",
+            "postalCode": "68695",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "0dff87a4-be76-443c-9025-3f0238fabdcf",
+            "name": "Türi Maxima X pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Türi linn, Viljandi tn 10",
+            "locality": "Türi vald",
+            "postalCode": "96052",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "7c43e2f8-c7d7-441b-ba66-bafe4062fe93",
+            "name": "Valga Kungla Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Valga linn, Kungla tn 37b",
+            "locality": "Valga vald",
+            "postalCode": "96392",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "312d1b03-263f-4a63-ab91-ef4a32b5b8fa",
+            "name": "Valga Maxima XX pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Valga linn, Jaama pst 2b",
+            "locality": "Valga vald",
+            "postalCode": "96042",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "2fb6b35e-4af4-4080-9af5-1ef7a7998cef",
+            "name": "Valjala pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Valjala alevik, Posti tn 27",
+            "locality": "Saaremaa vald",
+            "postalCode": "96275",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "60e3a625-b9a1-4b7f-8138-f7ee84ce241b",
+            "name": "Varbla pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Varbla küla,  ",
+            "locality": "Lääneranna vald",
+            "postalCode": "96263",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "bdbcbd87-16f1-4572-99b6-169030c124f4",
+            "name": "Varstu postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Varstu alevik, Kooli tn 1",
+            "locality": "Rõuge vald",
+            "postalCode": "66194",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "80fc763f-35ad-4536-b3fd-e6d9f155d04d",
+            "name": "Veriora pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Veriora alevik, Räpina mnt 2",
+            "locality": "Räpina vald",
+            "postalCode": "96272",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "823de46f-4b5b-40a1-bdbd-61b2047a1479",
+            "name": "Veskimöldre Keskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Alliku küla, Instituudi tee 132",
+            "locality": "Saue vald",
+            "postalCode": "96341",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "0d90423f-9bbd-495a-a664-7bfdba213cc9",
+            "name": "Viljandi Männimäe Maksimarketi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Puidu tn 2",
+            "locality": "Viljandi linn",
+            "postalCode": "96284",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "446fcbbd-4a3c-4a53-8b15-343fc05e6bae",
+            "name": "Vääna-Jõesuu kauplus Maksis pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Vääna-Jõesuu küla,  ",
+            "locality": "Harku vald",
+            "postalCode": "96325",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "7e74127d-04ad-4728-b424-90d724101945",
+            "name": "Väätsa pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Väätsa alevik, Pikk tn 3",
+            "locality": "Türi vald",
+            "postalCode": "96297",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "82462ab3-ad90-4e59-a45f-c11e001d11d6",
+            "name": "Tartu Ülikooli Kliinikumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu linn, L. Puusepa tn 8",
+            "locality": "Tartu linn",
+            "postalCode": "96335",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "127e15ed-b9d4-4458-8d9f-eb30b81b6021",
+            "name": "Antsla Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Antsla linn, F. R. Kreutzwaldi tn 4a",
+            "locality": "Antsla vald",
+            "postalCode": "96118",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "171462be-5e29-4764-b21a-4c9fa5f3552c",
+            "name": "Antsla postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Antsla linn, Jaani tn 4",
+            "locality": "Antsla vald",
+            "postalCode": "66494",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "84a3e607-2c94-4bed-a723-e66bb7e55816",
+            "name": "Aravete Meie kaupluse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Aravete alevik, Piibe mnt 16",
+            "locality": "Järva vald",
+            "postalCode": "96230",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "12f1eb0a-7cca-4db2-8929-1b1fff1242cc",
+            "name": "Arsenali postkontor",
+            "type": "postOffice",
+            "streetAddress": "Põhja-Tallinna linnaosa, Erika tn 14",
+            "locality": "Tallinn",
+            "postalCode": "11701",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "16ebab1f-899c-438b-bf14-7d5435a63099",
+            "name": "Imavere pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Imavere küla, Viljandi mnt 11",
+            "locality": "Järva vald",
+            "postalCode": "96364",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "f1b791b0-dff6-402d-bebe-0867a45bec34",
+            "name": "Järvakandi Kandi Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Järvakandi alev, Tallinna mnt 37",
+            "locality": "Kehtna vald",
+            "postalCode": "96224",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "82776c87-740f-43ea-a633-90e79bb0722e",
+            "name": "Järve keskuse postkontor",
+            "type": "postOffice",
+            "streetAddress": "Nõmme linnaosa, Pärnu mnt 238",
+            "locality": "Tallinn",
+            "postalCode": "11801",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "edb0de91-6c6c-439b-83f7-1aaeb1565e02",
+            "name": "Järveküla Rimi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Peetri alevik, Vana-Tartu mnt 71",
+            "locality": "Rae vald",
+            "postalCode": "96391",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "7908345b-0775-4548-88c7-d351731eb96e",
+            "name": "Jõhvi Grossi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Jõhvi linn, Tartu mnt 15a",
+            "locality": "Jõhvi vald",
+            "postalCode": "96191",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "0a3a8c3d-2412-4e27-a400-ced294447a84",
+            "name": "Keila Rõõmu kaubamaja pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Haapsalu mnt 57a",
+            "locality": "Keila linn",
+            "postalCode": "96049",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "02cc8514-4bb8-4c97-97a1-0c8c29ff585b",
+            "name": "Kiili Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kiili alev, Nabala tee 4",
+            "locality": "Kiili vald",
+            "postalCode": "96155",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "474b1795-6b94-4757-a6e6-a3e6a327f0ef",
+            "name": "Kiisa Coop kaupluse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kiisa alevik, Kurtna tee 10",
+            "locality": "Saku vald",
+            "postalCode": "96159",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "53ec505f-fb73-416c-8164-8e78e9648d02",
+            "name": "Kilingi-Nõmme Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kilingi-Nõmme linn, Pärnu tn 37",
+            "locality": "Saarde vald",
+            "postalCode": "96320",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "39fe0286-f917-4d21-8ef5-ada750a0ca99",
+            "name": "Kivi-Vigala pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kivi-Vigala küla, Kiriku tee 4",
+            "locality": "Märjamaa vald",
+            "postalCode": "96330",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "c2a72579-b814-4cc1-b5f4-41987a7a4739",
+            "name": "Jõgeva Postkontori pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Jõgeva linn, Aia tn 8",
+            "locality": "Jõgeva vald",
+            "postalCode": "96044",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "60515c60-d4a9-40b0-9dd2-e727c4911ebc",
+            "name": "Kadrina Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kadrina alevik, Viitna tee 4",
+            "locality": "Kadrina vald",
+            "postalCode": "96117",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "e397a266-0ec1-4cf2-8ad1-ae46f3d9caa5",
+            "name": "Kanepi Vallamaja pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kanepi alevik, Turu põik 1",
+            "locality": "Kanepi vald",
+            "postalCode": "96254",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "109f80bc-fbd4-457b-b380-f49b491c8f0f",
+            "name": "Kareda teeninduskeskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Peetri alevik, Kesktee 11",
+            "locality": "Järva vald",
+            "postalCode": "96332",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "ae668327-1a58-4051-afb1-ed19076bcb56",
+            "name": "Karksi-Nuia Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Karksi-Nuia linn, Rahumäe tn 1",
+            "locality": "Mulgi vald",
+            "postalCode": "96110",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "e52a1482-6bda-4794-a0f2-a4f2f2f1b809",
+            "name": "Keila Maxima X pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tallinna mnt 25",
+            "locality": "Keila linn",
+            "postalCode": "96229",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "8e134bd9-8b95-4e44-98af-6bce3abb4919",
+            "name": "Kolga-Jaani pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kolga-Jaani alevik, Viljandi mnt 6",
+            "locality": "Viljandi vald",
+            "postalCode": "96266",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "8fc2d9ae-1082-409c-a23d-c4ed9f667230",
+            "name": "Koonga pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Koonga küla,  2",
+            "locality": "Lääneranna vald",
+            "postalCode": "96267",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "80ea846d-4a2d-4481-bc8b-2846b22676b8",
+            "name": "Kose Grossi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kose alevik, Kodu tn 2",
+            "locality": "Kose vald",
+            "postalCode": "96096",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "8f42eed0-6ca4-4570-b708-86eaec06ca35",
+            "name": "Kose-Uuemõisa pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kose-Uuemõisa alevik, Kesk tn 15",
+            "locality": "Kose vald",
+            "postalCode": "96270",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "a4818f61-d9d1-4d0d-94c0-bee04f945179",
+            "name": "Kullamaa postipunkt (Vaibatuba)",
+            "type": "postOffice",
+            "streetAddress": "Kullamaa küla,  ",
+            "locality": "Lääne-Nigula vald",
+            "postalCode": "90794",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "bb781ee1-3d3e-4326-86a6-b2acde9629dd",
+            "name": "Kunda postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Kunda linn, Koidu tn 75",
+            "locality": "Viru-Nigula vald",
+            "postalCode": "44194",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "9b25c266-da77-4d13-8085-64cfd8250861",
+            "name": "Kuressaare postkontor",
+            "type": "postOffice",
+            "streetAddress": "Kuressaare linn, Tallinna tn 19a",
+            "locality": "Saaremaa vald",
+            "postalCode": "93801",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "48f13804-026d-4878-a249-38e909dde37f",
+            "name": "Kuusalu Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kuusalu alevik, Kuusalu tee 13",
+            "locality": "Kuusalu vald",
+            "postalCode": "96108",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "52e0bdd8-0d01-44c4-8bec-dc4f4d912ab8",
+            "name": "Kvartali keskuse postkontor",
+            "type": "postOffice",
+            "streetAddress": "Tartu linn, Riia tn 2",
+            "locality": "Tartu linn",
+            "postalCode": "51099",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "1a11b692-3245-43ee-b27b-38499ef9d4cb",
+            "name": "Laulasmaa Selver ABC pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Laulasmaa küla, Kloogaranna tee 26",
+            "locality": "Lääne-Harju vald",
+            "postalCode": "96245",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "0239a003-5a54-4a94-bd28-acb53ee6df58",
+            "name": "Liiva Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Liiva küla,  ",
+            "locality": "Muhu vald",
+            "postalCode": "96161",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "e117ac8a-f0ff-45c0-ae7a-0ac2c5422db1",
+            "name": "Linnamäe postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Linnamäe küla, Hansuküla tee 2/1",
+            "locality": "Lääne-Nigula vald",
+            "postalCode": "91092",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "492716fa-a0f7-4959-b2a5-67dea5c26a0a",
+            "name": "Lohkva Spordihoone pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Lohkva küla, Kabina tee 14",
+            "locality": "Luunja vald",
+            "postalCode": "96337",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "57a21aa8-e2ba-480d-b6a4-8a381ff7241a",
+            "name": "Lähte pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Lähte alevik, Poe tn 4/3",
+            "locality": "Tartu vald",
+            "postalCode": "96354",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "b2205875-6a6a-4fd9-93b7-a187aa89a06c",
+            "name": "Lõpe pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Lõpe küla,  1",
+            "locality": "Lääneranna vald",
+            "postalCode": "96265",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "2ef56b1f-dbed-4407-bc4f-55710ad39555",
+            "name": "Maardu Grossi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Keemikute tn 41",
+            "locality": "Maardu linn",
+            "postalCode": "96394",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "f6572850-1cf8-48f5-ba38-17a115267c4e",
+            "name": "Maardu Pärli Keskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Nurga tn 3",
+            "locality": "Maardu linn",
+            "postalCode": "96130",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "e12b3730-2ea8-4b39-8b79-486052b03a06",
+            "name": "Mooste pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Mooste alevik, Lasteaia tee 3",
+            "locality": "Põlva vald",
+            "postalCode": "96370",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "05aa7cee-50d6-4482-98a9-5ceaadbc3df5",
+            "name": "Mustika postkontor",
+            "type": "postOffice",
+            "streetAddress": "Mustamäe linnaosa, Karjavälja tn 4",
+            "locality": "Tallinn",
+            "postalCode": "12701",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "941f1aed-24f2-4c09-a01d-88da78e3c31d",
+            "name": "Mustla Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Mustla alevik, Posti tn 52a",
+            "locality": "Viljandi vald",
+            "postalCode": "96292",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "53de6cf9-f6d2-41e7-8c88-510617ca0dfb",
+            "name": "Paide Pärnu 55 pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Paide linn, Pärnu tn 55",
+            "locality": "Paide linn",
+            "postalCode": "96388",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "0399f7f0-cfb9-48ff-b341-d121c39e536a",
+            "name": "Paldiski Maxima X pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Paldiski linn, Rae tn 14b",
+            "locality": "Lääne-Harju vald",
+            "postalCode": "96097",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "df8ba35b-73c1-41a3-9ed7-01f99f5ce084",
+            "name": "Pirita postkontor",
+            "type": "postOffice",
+            "streetAddress": "Pirita linnaosa, Rummu tee 4",
+            "locality": "Tallinn",
+            "postalCode": "11901",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "d7fb1cf7-851f-4905-8466-a7c7cb4dac18",
+            "name": "Narva-Jõesuu postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Narva-Jõesuu linn, Kesk tn 3",
+            "locality": "Narva-Jõesuu linn",
+            "postalCode": "29094",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "e9dec411-be23-4c94-9843-3834d9e7722e",
+            "name": "Pärnu Olevi Meie kaupluse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Pärnu linn, Olevi tn 27",
+            "locality": "Pärnu linn",
+            "postalCode": "96399",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "7ffa4855-b215-4b55-900b-c656c9e5f6b0",
+            "name": "Põlva Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Põlva linn, Aasa tn 1",
+            "locality": "Põlva vald",
+            "postalCode": "96045",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "b952bccb-8f71-44f0-800f-f0679a904adf",
+            "name": "Saku postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Saku alevik, Teaduse tn 13",
+            "locality": "Saku vald",
+            "postalCode": "75595",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "161c8575-1913-45aa-aed8-d579abb448ee",
+            "name": "Saue Kaubakeskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Saue linn, Ridva tn 15",
+            "locality": "Saue vald",
+            "postalCode": "96055",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "27ac5684-aaf2-4186-a2c3-f426c7b79fe2",
+            "name": "Sillamäe Viru pst Maxima X pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Viru pst 35",
+            "locality": "Sillamäe linn",
+            "postalCode": "96222",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "ecfa8082-17ce-47f2-97bd-3a421bfe3d1c",
+            "name": "Sillamäe postkontor",
+            "type": "postOffice",
+            "streetAddress": "Viru pst 2a",
+            "locality": "Sillamäe linn",
+            "postalCode": "40201",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "d4ca00ce-1a65-43e3-b043-c128ef975f05",
+            "name": "Simuna pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Simuna alevik, Pargi tn 2",
+            "locality": "Väike-Maarja vald",
+            "postalCode": "96285",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "b4115a2c-5387-4d3d-9003-3e407ec4cc99",
+            "name": "Sindi Maxima X pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Sindi linn, Pärnu mnt 57",
+            "locality": "Tori vald",
+            "postalCode": "96316",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "e63e24ae-dce2-4e10-a822-7290aa4a0458",
+            "name": "Suure-Jaani Tervisekoja pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Suure-Jaani linn, Pärnu tn 4",
+            "locality": "Põhja-Sakala vald",
+            "postalCode": "96231",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "ee50e0d3-5e98-4741-9fbf-d795fdb9b6ff",
+            "name": "Tabasalu postkontor",
+            "type": "postOffice",
+            "streetAddress": "Tabasalu alevik, Klooga mnt 10b",
+            "locality": "Harku vald",
+            "postalCode": "76991",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "06979e6f-9449-4810-ba3e-0d43dd185b92",
+            "name": "Tabivere Saadjärve Coop kaupluse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tabivere alevik, Kalda tn 1",
+            "locality": "Tartu vald",
+            "postalCode": "96212",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "dcc10ca1-60f0-4627-81d9-d9f34e8caba7",
+            "name": "Tallinna Balti Jaama turu pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Põhja-Tallinna linnaosa, Kopli tn 1",
+            "locality": "Tallinn",
+            "postalCode": "96258",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "411428e1-59b1-4d09-b577-957587940d72",
+            "name": "Tallinna Coca-Cola Plaza pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kesklinna linnaosa, Hobujaama tn 5",
+            "locality": "Tallinn",
+            "postalCode": "96219",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "61b871cf-1070-4c35-b8ad-ff122fe72d70",
+            "name": "Tallinna Ehitajate tee Grossi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Mustamäe linnaosa, Ehitajate tee 41",
+            "locality": "Tallinn",
+            "postalCode": "96216",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "262cb3fc-bc55-4e13-a6a6-b008f05a2392",
+            "name": "Tallinna Ehitajate tee Maxima XXX pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Haabersti linnaosa, Ehitajate tee 148",
+            "locality": "Tallinn",
+            "postalCode": "96303",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "f92aa81e-43c8-4c5a-9996-382b6ee64f36",
+            "name": "Tallinna Jannseni Maxima X pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Nõmme linnaosa, Vabaduse pst 128",
+            "locality": "Tallinn",
+            "postalCode": "96400",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "2b2cc4dd-531e-422c-b74d-14aeee7341ba",
+            "name": "Tallinna Kakumäe Selveri pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Haabersti linnaosa, Rannamõisa tee 6",
+            "locality": "Tallinn",
+            "postalCode": "96015",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "8f6d7218-9dfb-45ce-b177-b37da7f97a84",
+            "name": "Tallinna Kari Grossipoe pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Põhja-Tallinna linnaosa, Kari tn 3",
+            "locality": "Tallinn",
+            "postalCode": "96237",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "4b636cf3-2ea4-4d0c-8368-6cbdf333d08d",
+            "name": "Tallinna Kärberi Keskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Lasnamäe linnaosa, K. Kärberi tn 20",
+            "locality": "Tallinn",
+            "postalCode": "96162",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "964376cc-f505-428c-9bfd-ccb83a4997c1",
+            "name": "Tallinna Lasnamäe Centrumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Lasnamäe linnaosa, Mustakivi tee 13",
+            "locality": "Tallinn",
+            "postalCode": "96041",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "0ee2745e-f914-4acc-b8a7-564ee24d6619",
+            "name": "Tallinna Lasnamäe Prisma pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Lasnamäe linnaosa, Mustakivi tee 17",
+            "locality": "Tallinn",
+            "postalCode": "96066",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "a19ee02c-ee73-40ba-b710-ab483c8b2b23",
+            "name": "Tallinna Linnamäe Maxima XXX pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Lasnamäe linnaosa, Linnamäe tee 57",
+            "locality": "Tallinn",
+            "postalCode": "96116",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "420e3e5a-33da-4940-bc64-25aa1ccedacf",
+            "name": "Tallinna Läänemere Selveri pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Lasnamäe linnaosa, Läänemere tee 28",
+            "locality": "Tallinn",
+            "postalCode": "96173",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "b026869a-4e21-4dec-8b9a-08277f794bef",
+            "name": "Tallinna Merimetsa Selveri pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Põhja-Tallinna linnaosa, Paldiski mnt 56",
+            "locality": "Tallinn",
+            "postalCode": "96129",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "5730f06e-eeda-4ef5-929c-2164f9e29635",
+            "name": "Tallinna Männiku Rimi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Nõmme linnaosa, Männiku tee 100",
+            "locality": "Tallinn",
+            "postalCode": "96236",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "98bbd438-02f0-4504-92ad-74b26c70ccd2",
+            "name": "Tallinna Nurmenuku pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Haabersti linnaosa, Ehitajate tee 107",
+            "locality": "Tallinn",
+            "postalCode": "96004",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "3e68394b-f91e-44a1-89bb-1febef1212ae",
+            "name": "Tallinna Nõmme tee 23 Maxima X pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kristiine linnaosa, Nõmme tee 23",
+            "locality": "Tallinn",
+            "postalCode": "96327",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "856bdf40-835f-4079-aed2-e73b92fc9861",
+            "name": "Tallinna Paepargi Maxima XX pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Lasnamäe linnaosa, Paepargi tn 57",
+            "locality": "Tallinn",
+            "postalCode": "96131",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "cd150156-bc0b-4295-baf0-00dcedf17ad5",
+            "name": "Tallinna Pelgulinna Selveri pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Põhja-Tallinna linnaosa, Sõle tn 51",
+            "locality": "Tallinn",
+            "postalCode": "96017",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "ad403c3b-fd35-495c-acd3-100344efcc68",
+            "name": "Tallinna Punane 50 pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Lasnamäe linnaosa, Punane tn 50",
+            "locality": "Tallinn",
+            "postalCode": "96083",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "cad41b58-9f31-49da-98bd-bf8eadbc0d8b",
+            "name": "Tallinna Pärnu mnt 390b Maxima X pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Nõmme linnaosa, Pärnu mnt 390",
+            "locality": "Tallinn",
+            "postalCode": "96304",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "e24a5462-a279-4ded-8bd2-5ecab54dd751",
+            "name": "Tallinna Pääsküla RIMI pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Nõmme linnaosa, Pärnu mnt 453e",
+            "locality": "Tallinn",
+            "postalCode": "96008",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "a265180b-d5ea-42cc-aee6-816848253753",
+            "name": "Tallinna Põhja pst Neste pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Põhja-Tallinna linnaosa, Põhja pst 17a",
+            "locality": "Tallinn",
+            "postalCode": "96181",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "7ec817ea-aac8-4060-aa93-2eea06e08d53",
+            "name": "Tallinna Rannamõisa Lidl pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Haabersti linnaosa, Rannamõisa tee 12a",
+            "locality": "Tallinn",
+            "postalCode": "96373",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "da0f7137-1523-43b5-a4c4-50678218b1fb",
+            "name": "Tallinna Raudalu Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Nõmme linnaosa, Viljandi mnt 41a",
+            "locality": "Tallinn",
+            "postalCode": "96084",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "85a6ced0-a208-46b9-948e-2c4938eef347",
+            "name": "Aseri Grossi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Aseri alevik, Tehase tn 23",
+            "locality": "Viru-Nigula vald",
+            "postalCode": "96211",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "ffb791e9-1de3-454c-857b-a60ee80ff5f3",
+            "name": "Narva Astri Keskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tallinna mnt 41",
+            "locality": "Narva linn",
+            "postalCode": "96028",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "d5955530-fd93-42c0-b67f-a36fc2c592aa",
+            "name": "Nõva pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Nõva küla,  ",
+            "locality": "Lääne-Nigula vald",
+            "postalCode": "96295",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "308250fc-ca7c-4667-83de-b696f2faf1a0",
+            "name": "Tallinna Valdeku Maxima X pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Nõmme linnaosa, Valdeku tn 114",
+            "locality": "Tallinn",
+            "postalCode": "96145",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "0c86d9c5-7a71-4b0d-af47-1d970ca1fb31",
+            "name": "Tallinna Valdeku Selver ABC pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Nõmme linnaosa, Vabaduse pst 54b",
+            "locality": "Tallinn",
+            "postalCode": "96132",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "48e57c9c-265f-40aa-9e26-ff23d736464b",
+            "name": "Otepää postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Otepää linn, Pühajärve tee 2",
+            "locality": "Otepää vald",
+            "postalCode": "67495",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "c20328ad-25c7-42fe-bf8d-90bf346cebaf",
+            "name": "Padise Keskuse tee pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Padise küla,  ",
+            "locality": "Lääne-Harju vald",
+            "postalCode": "96250",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "3952fda4-9889-499d-8c4a-7eb5c4e2cfb4",
+            "name": "Paide Selveri pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Paide linn, Aiavilja tn 4",
+            "locality": "Paide linn",
+            "postalCode": "96037",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "b267ebb4-0ba0-4439-a8b7-98a7e9bb179d",
+            "name": "Paide postkontor",
+            "type": "postOffice",
+            "streetAddress": "Paide linn, Pärnu tn 55",
+            "locality": "Paide linn",
+            "postalCode": "72701",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "bdeb3e32-4ad7-4845-b2b9-70049eba3539",
+            "name": "Paldiski Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Paldiski linn, Rae tn 38",
+            "locality": "Lääne-Harju vald",
+            "postalCode": "96203",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "e5466aa0-957c-48dc-a333-bbea988bc2d4",
+            "name": "Peetri Keskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Peetri alevik, Küti tee 4",
+            "locality": "Rae vald",
+            "postalCode": "96234",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "077a3452-7e50-453a-8aa8-18c6b51cd98d",
+            "name": "Prangli väljastuspunkt",
+            "type": "postOffice",
+            "streetAddress": "Idaotsa küla,  ",
+            "locality": "Viimsi vald",
+            "postalCode": "74002",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "8e558818-ef02-469a-8ed0-70008e75ab59",
+            "name": "Puhja Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Puhja alevik, Nooruse tn 2",
+            "locality": "Elva vald",
+            "postalCode": "96150",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "ef000a62-5cb6-4acc-abf8-5c086dc73e9d",
+            "name": "Tammiste Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tammiste küla, Kellukese tee 2",
+            "locality": "Tori vald",
+            "postalCode": "96252",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "ec3b4df4-fae9-4675-aa72-dcc276568c6b",
+            "name": "Tamsalu Grossi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tamsalu linn, Tehnika tn 24",
+            "locality": "Tapa vald",
+            "postalCode": "96120",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "c30de0d3-84d4-45f2-888a-07f63b9b4382",
+            "name": "Tamsalu postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Tamsalu linn, Raudtee tn 5",
+            "locality": "Tapa vald",
+            "postalCode": "46194",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "81df30b8-203a-4970-9e05-808c441f1241",
+            "name": "Räpina Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Räpina linn, Kooli tn 14a",
+            "locality": "Räpina vald",
+            "postalCode": "96186",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "b74a8baa-34ba-408d-83a0-a4a4580a5e01",
+            "name": "Tabasalu Keskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tabasalu alevik, Kallaste tn 7",
+            "locality": "Harku vald",
+            "postalCode": "96346",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "dbd64860-7a5e-43a3-8342-7ea7599677bc",
+            "name": "Tartu Raadi Maxima XX pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu linn, Narva mnt 112",
+            "locality": "Tartu linn",
+            "postalCode": "96127",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "54ad33f2-626a-41a4-a76f-6353f926e4ca",
+            "name": "Tallinna Juhkentali Rimi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kesklinna linnaosa, Juhkentali tn 35",
+            "locality": "Tallinn",
+            "postalCode": "96195",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "6e0e6cdf-8988-486a-8351-ea7f2ec9fc80",
+            "name": "Tallinna Kadaka Selveri pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Mustamäe linnaosa, Kadaka tee 56a",
+            "locality": "Tallinn",
+            "postalCode": "96018",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "e5d9d983-8af3-483d-aed8-55c3cbc22056",
+            "name": "Tallinna Kolde Rimi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Põhja-Tallinna linnaosa, Sõle tn 27",
+            "locality": "Tallinn",
+            "postalCode": "96069",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "a614b707-c5c3-4096-92c9-13aea136dd97",
+            "name": "Tallinna Mustika Keskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Mustamäe linnaosa, Karjavälja tn 4",
+            "locality": "Tallinn",
+            "postalCode": "96115",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "5da2bb9a-1dcf-44c4-bcbf-84e53f59af2d",
+            "name": "Tallinna Sõpruse Rimi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kristiine linnaosa, Sõpruse pst 174",
+            "locality": "Tallinn",
+            "postalCode": "96014",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "fbbc7fe2-4bc7-4cc8-b4a3-8b84dfac475a",
+            "name": "Tallinna Viru Bussiterminali pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kesklinna linnaosa, Viru väljak 4",
+            "locality": "Tallinn",
+            "postalCode": "96104",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "c371a3ad-abc1-4859-b933-9468d14b954d",
+            "name": "Tartu Lembitu Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu linn, Lembitu tn 2",
+            "locality": "Tartu linn",
+            "postalCode": "96074",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "a130bc51-cb79-4213-a3d6-bb9f69269072",
+            "name": "Tartu Raadimõisa Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Raadi alev, Kaupmehe tn 2",
+            "locality": "Tartu vald",
+            "postalCode": "96357",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "6667f4ad-e9a5-4655-934e-71646dfc7438",
+            "name": "Toila Meie kaupluse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Toila alevik, Pikk tn 18a",
+            "locality": "Toila vald",
+            "postalCode": "96299",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "5bdbc97b-32d0-4501-a9b4-5d22b0265fb0",
+            "name": "Tõstamaa pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tõstamaa alevik, Varbla mnt 2",
+            "locality": "Pärnu linn",
+            "postalCode": "96269",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "2bdc7ec5-f1f8-46f1-8105-41278170804b",
+            "name": "Uhtna kaupluse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Uhtna alevik, Mõisa tn 1",
+            "locality": "Rakvere vald",
+            "postalCode": "96333",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "bf25ab8c-6007-46d4-ad0c-08b0bb43900b",
+            "name": "Uuemõisa Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Uuemõisa alevik, Tallinna mnt 84",
+            "locality": "Haapsalu linn",
+            "postalCode": "96164",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "27ba3c96-edbf-44d9-9138-dd33cab65276",
+            "name": "Valga Siili Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Valga linn, A. Neulandi tn 2",
+            "locality": "Valga vald",
+            "postalCode": "96227",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "7f29ae02-b31d-49e6-8bbd-05263aca7f6b",
+            "name": "Vastseliina Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Vastseliina alevik, Võidu tn 21",
+            "locality": "Võru vald",
+            "postalCode": "96358",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "d6c472a7-339c-412f-935c-1d184e8cf4df",
+            "name": "Viljandi Kaare Meie kaupluse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Suur-Kaare tn 68",
+            "locality": "Viljandi linn",
+            "postalCode": "96398",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "37e2c936-9a8b-40cd-87b0-2c0a54f9687b",
+            "name": "Viljandi Vaksali Maxima X pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Vaksali tn 11b",
+            "locality": "Viljandi linn",
+            "postalCode": "96312",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "4cc63119-96c1-45a9-8762-7b7bf6a1ab30",
+            "name": "Viljandi postkontor",
+            "type": "postOffice",
+            "streetAddress": "Tallinna tn 41",
+            "locality": "Viljandi linn",
+            "postalCode": "71098",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "3ea90dea-7740-4974-a2bc-b2773c2b901e",
+            "name": "Virtsu pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Virtsu alevik, Tallinna mnt 13",
+            "locality": "Lääneranna vald",
+            "postalCode": "96264",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "f381d9dc-048d-4ae5-9ee1-a8ff7a5734b9",
+            "name": "Fama postkontor",
+            "type": "postOffice",
+            "streetAddress": "Fama tn 10",
+            "locality": "Narva linn",
+            "postalCode": "20399",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "b962d1d4-5890-4695-aea7-ea7f15ec9874",
+            "name": "Haljala Grossi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Haljala alevik, Võsu mnt 5",
+            "locality": "Haljala vald",
+            "postalCode": "96324",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "8e209f60-f039-4009-9c5b-575ec68860a2",
+            "name": "Tartu Rebase Rimi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu linn, Rebase tn 10",
+            "locality": "Tartu linn",
+            "postalCode": "96087",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "d7adcde4-5933-4d59-9e58-ae91fb2712bd",
+            "name": "Haabneeme Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Haabneeme alevik, Rohuneeme tee 32",
+            "locality": "Viimsi vald",
+            "postalCode": "96206",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "93b51970-bc0d-4cf1-bd2c-6b228cd68d41",
+            "name": "Haanja pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Haanja küla, Võru tee 15",
+            "locality": "Rõuge vald",
+            "postalCode": "96362",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "b591fd6c-064a-45fa-aa23-0079831463ff",
+            "name": "Haapsalu Kastani pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Haapsalu linn, Kuuse tn 28",
+            "locality": "Haapsalu linn",
+            "postalCode": "96128",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "c2612cfa-f6fc-4870-8daa-133401023d05",
+            "name": "Haapsalu Kaubamaja pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Haapsalu linn, Tallinna mnt 1",
+            "locality": "Haapsalu linn",
+            "postalCode": "96033",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "45b89954-03ea-46b0-8af3-941a0902c921",
+            "name": "Haaslava Meie kaupluse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Haaslava küla, Jõe tn 1",
+            "locality": "Kastre vald",
+            "postalCode": "96382",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "bdf21056-4365-4ccf-ab97-9c3a3d266188",
+            "name": "Kõmsi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kõmsi küla, Keskuse tee 3",
+            "locality": "Lääneranna vald",
+            "postalCode": "96247",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "39a0fc5c-9824-4203-a67c-936ea1342c7c",
+            "name": "Hagudi postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Hagudi alevik, Kooli tn 1",
+            "locality": "Rapla vald",
+            "postalCode": "79697",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "c4ac82d3-bb35-417e-aeb8-846b7f1f405b",
+            "name": "Põlva Selveri pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Põlva linn, Jaama tn 12",
+            "locality": "Põlva vald",
+            "postalCode": "96073",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "8337d4c2-8bc5-462f-acf3-fc961b1ae0df",
+            "name": "Pürksi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Pürksi küla / Birkas,  ",
+            "locality": "Lääne-Nigula vald",
+            "postalCode": "96286",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "7eb9002f-f858-4b49-abb8-56d5df86e481",
+            "name": "Raasiku Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Raasiku alevik, Tallinna mnt 19",
+            "locality": "Raasiku vald",
+            "postalCode": "96105",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "d2e603c5-56cd-4b58-99c5-f9506823820c",
+            "name": "Rakke pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Rakke alevik, F. R. Faehlmanni tee 15",
+            "locality": "Väike-Maarja vald",
+            "postalCode": "96268",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "3cc7e079-9f14-4142-a5bd-b446e463af86",
+            "name": "Haiba Bussijaama pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Haiba küla, Riisipere tee 8",
+            "locality": "Saue vald",
+            "postalCode": "96249",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "5e856040-af14-4e62-8863-467c7c158efa",
+            "name": "Luunja pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Luunja alevik, Puiestee tn 4",
+            "locality": "Luunja vald",
+            "postalCode": "96271",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "6ffaea82-9c5a-40ae-97b9-4fcfe628bb15",
+            "name": "Salme Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Salme alevik, Sõrve mnt 2",
+            "locality": "Saaremaa vald",
+            "postalCode": "96318",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "372eacbf-1c16-42fa-8c14-ded23407dee6",
+            "name": "Salme postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Salme alevik, Sõrve mnt 5",
+            "locality": "Saaremaa vald",
+            "postalCode": "93294",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "8f6ca269-3926-473c-9931-4ced040cb179",
+            "name": "Suure-Jaani postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Suure-Jaani linn, Pärnu tn 3",
+            "locality": "Põhja-Sakala vald",
+            "postalCode": "71594",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "3b396def-7ff3-4194-a6ca-9707744fa93b",
+            "name": "Tallinna Akadeemia Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Mustamäe linnaosa, Akadeemia tee 35",
+            "locality": "Tallinn",
+            "postalCode": "96003",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "47549a03-21f6-428f-a171-109322629044",
+            "name": "Halliste Coop Kaupluse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Halliste alevik, Viljandi mnt 11",
+            "locality": "Mulgi vald",
+            "postalCode": "96352",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "f9f5c412-bed7-4c18-9bec-1189eff5264a",
+            "name": "Tallinna Kristiine Keskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kristiine linnaosa, Endla tn 45",
+            "locality": "Tallinn",
+            "postalCode": "96007",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "af5bca23-ed84-4f7a-9748-e4b6e62440f5",
+            "name": "1. eelistus/Picapac pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "1. eelistus Omnivas ",
+            "locality": "1. eelistus Omnivas",
+            "postalCode": "96331",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "d9017ff7-035e-40b9-b100-e5b5c12da5b9",
+            "name": "Abja Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Abja-Paluoja linn, Pärnu mnt 13",
+            "locality": "Mulgi vald",
+            "postalCode": "96243",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "058060cd-0cab-4dd8-bfb2-bc9f51af3423",
+            "name": "Abja-Paluoja postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Abja-Paluoja linn, Pärnu mnt 21",
+            "locality": "Mulgi vald",
+            "postalCode": "69494",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "0f35dec5-b8e7-41ec-aeae-7dabb921dbe4",
+            "name": "Ahtme Estonia pst Grossi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Ahtme linnaosa, Estonia pst 30a",
+            "locality": "Kohtla-Järve linn",
+            "postalCode": "96389",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "34b8fb9f-1cfd-48de-9c92-e675fb8ac370",
+            "name": "Pärnu Port Artur 2 pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Pärnu linn, Lai tn 11",
+            "locality": "Pärnu linn",
+            "postalCode": "96062",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "438f08c5-ea65-4181-a009-19f5e9402b17",
+            "name": "Pärnu Tiina Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Pärnu linn, Riia mnt 74",
+            "locality": "Pärnu linn",
+            "postalCode": "96197",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "bd036186-3671-44f3-8b42-e9eca63b3063",
+            "name": "Tartu Saare Maxima X pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu linn, Anne tn 57",
+            "locality": "Tartu linn",
+            "postalCode": "96136",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "d8db1cea-ea79-49dd-b72f-1c466ad6c119",
+            "name": "Tartu Tuglase Rimi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu linn, F. Tuglase tn 19",
+            "locality": "Tartu linn",
+            "postalCode": "96321",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "43caea6c-4ca8-4e53-9ed5-414976708cb8",
+            "name": "Tartu Vahi Selveri pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu linn, Vahi tn 62",
+            "locality": "Tartu linn",
+            "postalCode": "96309",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "3448a19a-7d3b-4bb3-8e48-798fc45da9a7",
+            "name": "Kiviõli Maxima X pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kiviõli linn, Viru tn 5",
+            "locality": "Lüganuse vald",
+            "postalCode": "96090",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "32d11edc-ce0a-482c-9372-0faa0585cb71",
+            "name": "Loksa Grossi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Rohuaia tn 6",
+            "locality": "Loksa linn",
+            "postalCode": "96134",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "d41d5f01-6758-483a-9818-85252ec92bb8",
+            "name": "Tallinna Järveotsa Grossi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Haabersti linnaosa, Järveotsa tee 35b",
+            "locality": "Tallinn",
+            "postalCode": "96138",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "29c5e7fa-c4bd-462e-9d22-60686c703f96",
+            "name": "Toompea postkontor",
+            "type": "postOffice",
+            "streetAddress": "Kesklinna linnaosa, Lossi plats 4",
+            "locality": "Tallinn",
+            "postalCode": "10201",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "61dffda6-abe1-4f84-9a6f-6b015c645cf1",
+            "name": "Aruküla Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Aruküla alevik, Tallinna mnt 8",
+            "locality": "Raasiku vald",
+            "postalCode": "96204",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "fefaeea7-df62-491f-a6e8-51a3b189b927",
+            "name": "Aseri postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Aseri alevik, Keskpõik 2",
+            "locality": "Viru-Nigula vald",
+            "postalCode": "43494",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "0f3a10d5-7c8d-4657-9d3c-750071f5d23b",
+            "name": "Audru osavallakeskuse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Audru alevik, Pärna allee 7",
+            "locality": "Pärnu linn",
+            "postalCode": "96238",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "0f788584-9b45-42a6-8013-4dcadd37dcd5",
+            "name": "Eedeni postkontor",
+            "type": "postOffice",
+            "streetAddress": "Tartu linn, Kalda tee 1c",
+            "locality": "Tartu linn",
+            "postalCode": "50600",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "73e47247-6980-4771-bf58-d49f1e2e92d1",
+            "name": "Koeru Vallamaja pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Koeru alevik, Paide tee 5",
+            "locality": "Järva vald",
+            "postalCode": "96147",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "2b158195-1c0e-4371-988d-c591950ac220",
+            "name": "Käina postipunkt",
+            "type": "postOffice",
+            "streetAddress": "Käina alevik, Spordi tn 9",
+            "locality": "Hiiumaa vald",
+            "postalCode": "92194",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "5ad4d482-1e65-4100-97b3-f0be5757e388",
+            "name": "Kärdla Hiiu Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Kärdla linn, Keskväljak 1",
+            "locality": "Hiiumaa vald",
+            "postalCode": "96046",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "fb611243-1b7c-4728-822b-f0d0194db538",
+            "name": "Lasva Coop kaupluse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Lasva küla, Pässä põik 6",
+            "locality": "Võru vald",
+            "postalCode": "96385",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "5ddee99c-b658-4bef-9ea6-966b90f7b362",
+            "name": "Märja Coop Konsumi pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Märja alevik, Aisa tn 2",
+            "locality": "Tartu linn",
+            "postalCode": "96338",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "f8bd3b3a-261e-4169-8b22-3bf942c99aad",
+            "name": "Märjamaa Maxima X pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Märjamaa alev, Kasti tee 1",
+            "locality": "Märjamaa vald",
+            "postalCode": "96051",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "4b271044-b204-4bdb-a02d-743e82e70724",
+            "name": "Mõisaküla Coop kaupluse pakiautomaat",
+            "type": "parcelMachine",
+            "streetAddress": "Mõisaküla linn, Kesk tn 8",
+            "locality": "Mulgi vald",
+            "postalCode": "96343",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "f6dabe15-0cd5-41bb-a27e-127527f53ced",
+            "name": "Ruhnu pakiväljastus",
+            "type": "parcelMachine",
+            "streetAddress": "Ruhnu küla,  ",
+            "locality": "Ruhnu vald",
+            "postalCode": "93999",
+            "carrierCode": "omniva"
+        },
+        {
+            "id": "c2125e47-cd1a-4a2a-9597-a3236b18a512",
+            "name": "Võru postkontor",
+            "type": "postOffice",
+            "streetAddress": "Kooli tn 6",
+            "locality": "Võru linn",
+            "postalCode": "65601",
+            "carrierCode": "omniva"
+        }
+    ],
+    "countryCode": "EE"
+}

@@ -1,0 +1,3245 @@
+{
+    "pickupPoints": [
+        {
+            "id": "cd548145-8a42-49aa-9943-4b6915c43267",
+            "name": "Tallinna Pae keskus (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Pae 80",
+            "locality": "Tallinn",
+            "postalCode": "13620",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "b7a13d2b-e1e6-4b99-b113-4d516269ad33",
+            "name": "Tallinna Pirita Selver",
+            "type": "parcelMachine",
+            "streetAddress": "Rummu tee 4",
+            "locality": "Tallinn",
+            "postalCode": "11911",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "482f0932-6322-4fbb-b450-2e2e9a73755a",
+            "name": "Tallinna Rocca Al Mare Keskus",
+            "type": "parcelMachine",
+            "streetAddress": "Paldiski mnt 102",
+            "locality": "Tallinn",
+            "postalCode": "13522",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "252a6de8-cf3f-49ac-a534-72fda7f9e7eb",
+            "name": "Tartu Lembitu Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "Lembitu tn. 2",
+            "locality": "Tartu",
+            "postalCode": "50406",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "b60a5895-4530-40b9-aafd-65c0b005f12b",
+            "name": "Keila Selver",
+            "type": "parcelMachine",
+            "streetAddress": "Piiri 12",
+            "locality": "Keila",
+            "postalCode": "76610",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "98a1178a-5352-4a3d-994b-281f6bcd5657",
+            "name": "Kiili Maxima",
+            "type": "parcelMachine",
+            "streetAddress": "Vaela tee 4",
+            "locality": "Kiili",
+            "postalCode": "75401",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "e8626af9-9d0f-4db5-b7b6-29c1ebd26477",
+            "name": "Kiisa Grossi kpl",
+            "type": "parcelMachine",
+            "streetAddress": "Kurtna tee 2",
+            "locality": "Kiisa",
+            "postalCode": "75503",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "2bd39682-e8de-4e45-9090-2ad4372389f0",
+            "name": "Laulasmaa Selver ABC (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Kloogaranna tee 26",
+            "locality": "Laulasmaa",
+            "postalCode": "76702",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "91f86aea-e73a-4bcb-a031-31f478c7c016",
+            "name": "Loo Grossi kpl",
+            "type": "parcelMachine",
+            "streetAddress": "Saha tee 9",
+            "locality": "Loo",
+            "postalCode": "74201",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "f4350e29-ba60-42d3-8cab-6abc4c64f5a9",
+            "name": "Luige kaubanduskeskus (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Viljandi maantee 168",
+            "locality": "Luige alevik",
+            "postalCode": "75404",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "9ecd5be4-b1a3-43c7-a97a-4de40539f090",
+            "name": "PAKIPUNKT Kaalepi kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "Kaalepi küla",
+            "locality": "Kaalepi",
+            "postalCode": "73403",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "c62710c8-3063-49f2-bba9-b98b5a93a2cc",
+            "name": "PAKIPUNKT Haljala Sämmi Grill",
+            "type": "parcelMachine",
+            "streetAddress": "Metsvindi tee 2",
+            "locality": "Haljala",
+            "postalCode": "45301",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "5da09471-1ba6-4259-a712-b609d4b29650",
+            "name": "Rakvere Kroonikeskus",
+            "type": "parcelMachine",
+            "streetAddress": "F. G. Adoffi 11",
+            "locality": "Rakvere",
+            "postalCode": "44310",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "431881ec-153d-4f58-8041-30df7192901d",
+            "name": "Järvakandi Grossi kpl (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Turu 1",
+            "locality": "Järvakandi",
+            "postalCode": "79101",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "1ddab8b7-ab98-4e54-a604-e6776d9eb792",
+            "name": "Kehtna Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Lasteaia 12",
+            "locality": "Kehtna",
+            "postalCode": "79001",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "8c4c92eb-a1ec-4134-96d6-9ae2dc7f63e0",
+            "name": "Valtu Spordimaja (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Saare 11",
+            "locality": "Kaerepere",
+            "postalCode": "79520",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "079f02db-b090-43dc-bbed-4efcb98e29c8",
+            "name": "Kuressaare Wow keskus (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Merikotka 1",
+            "locality": "Kuressaare",
+            "postalCode": "93810",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "49e378e3-132f-4854-b77a-7cbfc43e4f18",
+            "name": "Ihaste Konsumi pakimajake (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Kasesalu tee 51",
+            "locality": "Ihaste",
+            "postalCode": "62220",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "2a64e896-5d21-4beb-96c3-9805358fb465",
+            "name": "Kaasiku Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Kaasiku 35",
+            "locality": "Ülenurme",
+            "postalCode": "61714",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "6145bf96-fb4c-46d6-b53f-866c707e3be8",
+            "name": "Mustla Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Posti 52a",
+            "locality": "Mustla",
+            "postalCode": "69701",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "206cfd3f-222d-4888-89b9-314db1a5f1e8",
+            "name": "Tallinna Kakumäe Selver",
+            "type": "parcelMachine",
+            "streetAddress": "Rannamõisa tee 6e",
+            "locality": "Tallinn",
+            "postalCode": "13516",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "f9253c42-7933-4321-a093-5c873b2b16a5",
+            "name": "Tallinna Kari Gross (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Kari tänav",
+            "locality": "Tallinn",
+            "postalCode": "10311",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "8851e449-d43d-4080-aef7-752724121be0",
+            "name": "Tallinna Kivila Gross (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Kivila 26",
+            "locality": "Tallinn",
+            "postalCode": "13917",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "dcad89cd-20bc-45b2-a148-43d34f297d2a",
+            "name": "Tallinna Kollane keskus (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Õismäe tee 107a",
+            "locality": "Tallinn",
+            "postalCode": "13515",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "861c29c6-1a90-4c83-9def-71405fc94736",
+            "name": "Tallinna Kotka Selver (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Kotka 12",
+            "locality": "Tallinn",
+            "postalCode": "11315",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "c51aefd5-553f-4c1d-a90e-03f689ccc07a",
+            "name": "Tallinna Kärberi Selver",
+            "type": "parcelMachine",
+            "streetAddress": "K. Kärberi 20/20a",
+            "locality": "Tallinn",
+            "postalCode": "13812",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "852ac9c4-f4c5-48df-a55c-c5badf605d72",
+            "name": "Tallinna Laagri Selver",
+            "type": "parcelMachine",
+            "streetAddress": "Pärnu mnt. 554",
+            "locality": "Tallinn",
+            "postalCode": "10916",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "1715b239-7e77-4911-8e0b-2b3aa170047e",
+            "name": "Tallinna Lasnamäe Centrum (RIMI)",
+            "type": "parcelMachine",
+            "streetAddress": "Mustakivi tee 13",
+            "locality": "Tallinn",
+            "postalCode": "13912",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "a748518f-d05e-4cb0-9bcc-5564ed6dfa3c",
+            "name": "Tallinna Lasnamäe Maksimarket",
+            "type": "parcelMachine",
+            "streetAddress": "J. Smuuli tee 43",
+            "locality": "Tallinn",
+            "postalCode": "11415",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "d63b6982-9baa-44ee-a5c4-dfe804aa1d69",
+            "name": "Tallinna Lasnamäe Prisma",
+            "type": "parcelMachine",
+            "streetAddress": "Mustakivi tee 17",
+            "locality": "Tallinn",
+            "postalCode": "13912",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "d0c17d68-03cc-4361-8865-3ef7c40af99e",
+            "name": "Tallinna Linnamäe Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Linnamäe tee 3",
+            "locality": "Tallinn",
+            "postalCode": "13912",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "c272bc40-7d1f-4b4a-beab-dca90605aa4f",
+            "name": "Tallinna Läänemere Selver",
+            "type": "parcelMachine",
+            "streetAddress": "Läänemere tee 28",
+            "locality": "Tallinn",
+            "postalCode": "13913",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "4768bf68-ca6c-492b-bd7d-1fcd1a940f27",
+            "name": "Tallinna Magistrali Keskus",
+            "type": "parcelMachine",
+            "streetAddress": "Sõpruse pst 201/203",
+            "locality": "Tallinn",
+            "postalCode": "13419",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "84cc4ed5-2997-4a76-9472-3f0a5f6cde56",
+            "name": "Tallinna Marienthali Selver (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Mustamäe tee 16",
+            "locality": "Tallinn",
+            "postalCode": "10617",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "27ba610a-10f4-4f75-8233-da06d5537c09",
+            "name": "Tallinna Marja Grossi kpl",
+            "type": "parcelMachine",
+            "streetAddress": "Mustamäe tee 41",
+            "locality": "Tallinn",
+            "postalCode": "10616",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "d304b46e-8a0d-4341-bcda-4e525f209ba1",
+            "name": "Tallinna Merimetsa Selver",
+            "type": "parcelMachine",
+            "streetAddress": "Paldiski mnt 56",
+            "locality": "Tallinn",
+            "postalCode": "10614",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "8b0198e4-6089-4b1e-a41f-3f5f07b35bb1",
+            "name": "Tallinna Mustakivi Keskus (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Mahtra 7",
+            "locality": "Tallinn",
+            "postalCode": "13811",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "caf441b2-5798-4fe8-9c58-4947ce6d19a7",
+            "name": "Tallinna Männiku Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "Männiku tee 100",
+            "locality": "Tallinn",
+            "postalCode": "11215",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "a2dfdd1f-54fc-47b8-8d90-b4024b9f5888",
+            "name": "Tallinna Pelgulinna Selver (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Sõle 51",
+            "locality": "Tallinn",
+            "postalCode": "10318",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "2e2c7c86-cdf2-4306-8379-f69deb9ba3fb",
+            "name": "Tallinna Fahle Galeriitänav (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu mnt 80",
+            "locality": "Tallinn",
+            "postalCode": "10112",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "39da93d9-26a4-4932-8e77-50c963097c0e",
+            "name": "Tallinna Priisle Maxima XXX",
+            "type": "parcelMachine",
+            "streetAddress": "Linnamäe tee 57",
+            "locality": "Tallinn",
+            "postalCode": "13911",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "b63f91cf-7d86-4816-9b6f-bd5a7feca493",
+            "name": "Tallinna Regionaalhaigla (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Sütiste tee 19",
+            "locality": "Tallinn",
+            "postalCode": "13419",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "65ab6f83-9061-427b-99ce-8db35a101443",
+            "name": "Tallinna Pääsküla Maxima (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Pärnu mnt 536b",
+            "locality": "Tallinn",
+            "postalCode": "10915",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "37908838-97e8-486c-b90d-bc67071e9b50",
+            "name": "Tallinna Raudalu Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "Viljandi mnt. 41a",
+            "locality": "Tallinn",
+            "postalCode": "11218",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "891ce931-0495-428a-8c7e-634f07b6d6d3",
+            "name": "Tallinna Solaris Keskus",
+            "type": "parcelMachine",
+            "streetAddress": "Estonia pst. 9",
+            "locality": "Tallinn",
+            "postalCode": "10143",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "54e95d30-54c6-415b-ae8a-a671a74f3110",
+            "name": "Tallinna Stroomi Keskus",
+            "type": "parcelMachine",
+            "streetAddress": "Tuulemaa 20",
+            "locality": "Tallinn",
+            "postalCode": "10315",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "bdc1780c-0140-4788-aca4-3977e4f5624d",
+            "name": "Tallinna Sõpruse pst Maxima (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Sõpruse pst. 171",
+            "locality": "Tallinn",
+            "postalCode": "13413",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "73c5aab2-00d5-47c0-b4be-5b6febf1ac2a",
+            "name": "Tallinna Sõpruse Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "Sõpruse pst. 174",
+            "locality": "Tallinn",
+            "postalCode": "13424",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "22e28e3d-450e-4297-8fde-09aad836a7d3",
+            "name": "Tallinna Tööstuse Rimi (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Tööstuse 103",
+            "locality": "Tallinn",
+            "postalCode": "10416",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "8d8161dd-345b-44aa-b7e1-d6ae85318fc1",
+            "name": "Tartu Aardla Selver",
+            "type": "parcelMachine",
+            "streetAddress": "Võru 77",
+            "locality": "Tartu",
+            "postalCode": "50112",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "0e9825a9-aa23-4d78-9b49-1be6ee5ecde2",
+            "name": "Tallinna Linnamäe Prisma (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Linnamäe tee 95",
+            "locality": "Tallinn",
+            "postalCode": "13911",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "0f0bc70d-499d-4b9e-9fb7-9468a0782c4a",
+            "name": "Järveküla Rimi (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Vana-Tartu maantee 71",
+            "locality": "Järveküla",
+            "postalCode": "75312",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "0c115cfe-56ae-4a9c-957c-6728ca258a4a",
+            "name": "Tallinna Priisle Selver (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Priisle tee 1",
+            "locality": "Tallinn",
+            "postalCode": "13914",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "9e6419f4-7af7-4011-8358-47f2035fb6e1",
+            "name": "Tallinna Rotermanni 8 Galerii (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Rotermanni 8",
+            "locality": "Tallinn",
+            "postalCode": "10111",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "7e680b9b-e1d3-4c27-a46b-114466af6640",
+            "name": "Tartu Raatuse Selver ABC (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Raatuse 20",
+            "locality": "Tartu",
+            "postalCode": "50603",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "e736060c-9325-4193-ba5b-8007b7bb0d2b",
+            "name": "Tartu Rebase Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "Rebase 10",
+            "locality": "Tartu",
+            "postalCode": "50104",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "0f46fa25-8fa7-44bb-8252-b603cb515872",
+            "name": "Tallinna Tammsaare Grossi kpl (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "A. H. Tammsaare tee 93",
+            "locality": "Tallinn",
+            "postalCode": "12913",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "a00b7615-6b2b-4f14-960a-19249db190d4",
+            "name": "Tartu Sepa Rimi (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Sepa 21",
+            "locality": "Tartu",
+            "postalCode": "50105",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "878a355f-e0cc-4bb1-8fff-2fa7391a3e42",
+            "name": "Tartu Sõbra Selver (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Sõbra 41",
+            "locality": "Tartu",
+            "postalCode": "50106",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "cb99d684-c2a0-458a-92b4-0a176155021c",
+            "name": "Tartu Sõbra Maxima XX",
+            "type": "parcelMachine",
+            "streetAddress": "Võru 55F",
+            "locality": "Tartu",
+            "postalCode": "50111",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "d028dd86-28d1-4718-99b6-058a39360a50",
+            "name": "Tartu Kaubamaja 0 korrus",
+            "type": "parcelMachine",
+            "streetAddress": "Riia 1",
+            "locality": "Tartu",
+            "postalCode": "51004",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "50cb518f-c5e7-42af-9b60-b41ed9f51de9",
+            "name": "Tartu Kvartal",
+            "type": "parcelMachine",
+            "streetAddress": "Riia 2",
+            "locality": "Tartu",
+            "postalCode": "51004",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "57d8eec8-47a7-42a7-948a-c65cbe49ccc8",
+            "name": "Tartu Tasku Keskus",
+            "type": "parcelMachine",
+            "streetAddress": "Turu 2",
+            "locality": "Tartu",
+            "postalCode": "51004",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "f013db1b-df72-42fe-a73c-965f84f07929",
+            "name": "Kehra Grossi kpl",
+            "type": "parcelMachine",
+            "streetAddress": "Kose maantee 7",
+            "locality": "Kehra",
+            "postalCode": "74307",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "f681a96b-f901-4bd1-97c6-d265c7c52a54",
+            "name": "Tartu Lõunakeskuse Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "Lääneringtee 39",
+            "locality": "Tartu",
+            "postalCode": "50501",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "273ba085-8860-4117-89e6-66750f798a41",
+            "name": "Tartu Maarjamõisa Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Ravila 14d",
+            "locality": "Tartu",
+            "postalCode": "50411",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "6f24ae21-26b5-4f39-ac65-ef09472ee91a",
+            "name": "Tartu Mõisavahe Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Mõisavahe 34c",
+            "locality": "Tartu",
+            "postalCode": "50708",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "3f54e3d0-3872-4dc9-b0fc-2ec195e7e479",
+            "name": "Tartu Raadi Maxima",
+            "type": "parcelMachine",
+            "streetAddress": "Narva mnt 112/Peetri 26B",
+            "locality": "Tartu",
+            "postalCode": "50303",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "43a2a9e8-f3ee-4460-8157-f8cb131c0187",
+            "name": "Tartu Saare Maxima",
+            "type": "parcelMachine",
+            "streetAddress": "Anne 57",
+            "locality": "Tartu",
+            "postalCode": "50703",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "098db303-f747-494f-a3de-72333e4f6d0e",
+            "name": "Keila Jaama kauplus (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Jaama 1",
+            "locality": "Keila",
+            "postalCode": "76605",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "74026de9-d35c-4ee6-977f-19a52d2bff2e",
+            "name": "Leesi poemaja (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Poe",
+            "locality": "Leesi",
+            "postalCode": "74704",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "5f38cc1e-cbcf-4ad2-a6dd-decb5b3476f1",
+            "name": "Maardu Maxima XX",
+            "type": "parcelMachine",
+            "streetAddress": "Keemikute 2",
+            "locality": "Maardu",
+            "postalCode": "74116",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "4b68b170-9c90-4cad-adb5-795264995a53",
+            "name": "Maardu Pärli Keskus",
+            "type": "parcelMachine",
+            "streetAddress": "Nurga 3",
+            "locality": "Maardu",
+            "postalCode": "74113",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "000659f2-98fc-4f48-813f-9e25c1820899",
+            "name": "Miiduranna Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Ranna tee 46a",
+            "locality": "Viimsi",
+            "postalCode": "12111",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "93d4d9dd-57e0-4d9b-b621-cf7f1693ff8a",
+            "name": "Muuga Maxima",
+            "type": "parcelMachine",
+            "streetAddress": "Altmetsa 1",
+            "locality": "Muuga",
+            "postalCode": "74117",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "f3d10ac3-60fa-4186-96de-c92b287bab27",
+            "name": "PAKIPUNKT Soodla kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "Soodla küla",
+            "locality": "Soodla",
+            "postalCode": "74402",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "31c2b992-d47a-46e1-88f9-1f0905782479",
+            "name": "Tabasalu Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "Klooga mnt 10b",
+            "locality": "Tabasalu",
+            "postalCode": "76901",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "85468d7f-ab2f-4e2e-8c67-c130e161bc15",
+            "name": "Ahtme Maxima",
+            "type": "parcelMachine",
+            "streetAddress": "Puru tee 77",
+            "locality": "Kohtla-Järve",
+            "postalCode": "31023",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "717b8a33-ab2c-4bed-8310-e9f7f7b0442b",
+            "name": "Jõhvi Grossi kpl",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu mnt 15a",
+            "locality": "Jõhvi",
+            "postalCode": "41538",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "a704178b-0372-4432-b1b7-0d459b65e9b6",
+            "name": "Jõhvi Maxima XX (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Rakvere 29",
+            "locality": "Jõhvi",
+            "postalCode": "41533",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "90fd23d2-134c-4d79-8b3a-7580df86b65a",
+            "name": "Avinurme Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Võidu 18",
+            "locality": "Avinurme",
+            "postalCode": "42101",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "727220f6-7d3c-437e-babd-6e31919bb32f",
+            "name": "Jõhvi Pargi keskus (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Puru tee 1",
+            "locality": "Jõhvi",
+            "postalCode": "41534",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "e29460b1-37a0-4113-a89f-4f6a2fe15150",
+            "name": "Jõhvi Tsentraal",
+            "type": "parcelMachine",
+            "streetAddress": "Keskväljak 4",
+            "locality": "Jõhvi",
+            "postalCode": "41531",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "f96fe11d-5ab4-4f3e-9c28-6b750bdfe54a",
+            "name": "Narva Mõisa Maxima X (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Mõisa 8",
+            "locality": "Narva",
+            "postalCode": "21007",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "ef09dbd7-28dc-4248-9ea3-c92eb2058024",
+            "name": "Sillamäe Maxima XX",
+            "type": "parcelMachine",
+            "streetAddress": "Pavlovi tn 1a",
+            "locality": "Sillamäe",
+            "postalCode": "40232",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "db0e77e9-c0be-4dec-85c6-7238377ee0bc",
+            "name": "PAKIPUNKT Tudulinna Aldar Market",
+            "type": "parcelMachine",
+            "streetAddress": "Pikk 8",
+            "locality": "Tudulinna",
+            "postalCode": "42202",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "d4b0ec6e-f2ec-4058-9531-04de51bfa695",
+            "name": "Jõgeva Kaubahall",
+            "type": "parcelMachine",
+            "streetAddress": "Aia 3",
+            "locality": "Jõgeva",
+            "postalCode": "48306",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "6f7d1dc2-1807-4529-9b08-8a3fae6759ee",
+            "name": "Põltsamaa Grossi kpl pakimajake (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu mnt 1a",
+            "locality": "Põltsamaa",
+            "postalCode": "48105",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "5205144f-b7cd-493d-918b-c45d7a7e2707",
+            "name": "Imavere Alexela",
+            "type": "parcelMachine",
+            "streetAddress": "Paiaristi",
+            "locality": "Imavere",
+            "postalCode": "72401",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "0a8e2a62-16ee-4872-ac15-65cb4dcbeb4e",
+            "name": "Pärnu Kaubamajakas",
+            "type": "parcelMachine",
+            "streetAddress": "Papiniidu 8",
+            "locality": "Pärnu",
+            "postalCode": "80042",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "ec046a71-37be-479f-9654-ee815fd63e57",
+            "name": "Haapsalu Kaubamaja Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Tallinna maantee 1",
+            "locality": "Haapsalu",
+            "postalCode": "90507",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "0771ef56-580b-460c-bd3f-adb45a2dc8ab",
+            "name": "Haapsalu Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "Jaama 32",
+            "locality": "Haapsalu",
+            "postalCode": "90507",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "11dc85ef-5e5e-408a-8599-d757db4ac7be",
+            "name": "Pärnu Port Artur 2",
+            "type": "parcelMachine",
+            "streetAddress": "Lai 11",
+            "locality": "Pärnu",
+            "postalCode": "80010",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "36753dbc-f92c-4b5c-8ae7-ae03eaf77c45",
+            "name": "Haapsalu Uuemõisa Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Tallinna maantee 84",
+            "locality": "Haapsalu",
+            "postalCode": "90401",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "306ca550-db10-476e-98ca-578540b25589",
+            "name": "PAKIPUNKT Noarootsi pood",
+            "type": "parcelMachine",
+            "streetAddress": "Pürksi keskus 8",
+            "locality": "Pürksi",
+            "postalCode": "91201",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "648458a9-108c-499f-9225-0b4295ca9e62",
+            "name": "Tapa Grossi kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "Jaama 1",
+            "locality": "Tapa",
+            "postalCode": "45106",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "bb53ec28-841e-493e-8b6c-ec39e3cd345e",
+            "name": "PAKIPUNKT Krootuse kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "Krootuse tee 6",
+            "locality": "Krootuse küla",
+            "postalCode": "63514",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "d9119757-626a-4327-8904-841efa3e0849",
+            "name": "PAKIPUNKT Leevi pood",
+            "type": "parcelMachine",
+            "streetAddress": "Posti tee 2b",
+            "locality": "Leevi",
+            "postalCode": "64231",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "d5fac686-0e8a-46e7-9e24-70ed366781e4",
+            "name": "PAKIPUNKT Põlgaste Sinikalda pood",
+            "type": "parcelMachine",
+            "streetAddress": "Keskuse 1",
+            "locality": "Põlgaste",
+            "postalCode": "63123",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "9ac28a29-9b21-497b-8d7a-ee39dab783f7",
+            "name": "PAKIPUNKT Saverna Buffik",
+            "type": "parcelMachine",
+            "streetAddress": "Suure-Tammiku",
+            "locality": "Saverna",
+            "postalCode": "63418",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "7a7ea093-b06f-4ad1-aa0c-2b7917b76ea8",
+            "name": "PAKIPUNKT Värska setoman",
+            "type": "parcelMachine",
+            "streetAddress": "Silla 6",
+            "locality": "Värska",
+            "postalCode": "64001",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "33f7777f-f1d2-4808-adde-6ea4b2a51b82",
+            "name": "Pärnu Mai Selver",
+            "type": "parcelMachine",
+            "streetAddress": "Papiniidu 42",
+            "locality": "Pärnu",
+            "postalCode": "80042",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "303236f3-6b20-441e-ab67-abdcc363920e",
+            "name": "Pärnu Maksimarket",
+            "type": "parcelMachine",
+            "streetAddress": "Haapsalu mnt 43",
+            "locality": "Pärnu",
+            "postalCode": "88300",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "b4a0ec4f-5fe8-4c72-bcf2-4790541b6c8b",
+            "name": "Pärnu Maxima XXX",
+            "type": "parcelMachine",
+            "streetAddress": "Riia mnt 131",
+            "locality": "Pärnu",
+            "postalCode": "80011",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "05f5b3b2-fe45-401f-b3ff-315dc41425fd",
+            "name": "Pärnu Niidu Rimi (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Niidu 18b",
+            "locality": "Pärnu",
+            "postalCode": "80047",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "08126638-cbd2-4902-8d54-af3c413828f4",
+            "name": "Are Huvikeskus (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Pärivere tee 17",
+            "locality": "Are",
+            "postalCode": "87301",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "c1056b2d-0b55-498f-b037-803ddde5b493",
+            "name": "Audru bussiterminal (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Lihula mnt 10//12",
+            "locality": "Audru",
+            "postalCode": "88301",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "60bb14b3-d9b7-4684-ae63-f9c268191cb5",
+            "name": "Häädemeeste Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Pärnu mnt 40",
+            "locality": "Häädemeeste",
+            "postalCode": "86001",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "2119689c-68f3-4a82-98c1-456da19fbd72",
+            "name": "PAKIPUNKT Häädemeeste ehitusmaterjalide kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "Pärnu mnt",
+            "locality": "Häädemeeste",
+            "postalCode": "86001",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "dfd9eaf7-c57a-4590-9d8d-4dca8960f5a0",
+            "name": "Tammiste Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Kellukese tee 2",
+            "locality": "Tammiste",
+            "postalCode": "85009",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "5e35efc0-17b7-4d8d-a2da-d27e714831c9",
+            "name": "PAKIPUNKT Kivi-Vigala kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "Kiriku tee",
+            "locality": "Kivi-Vigala",
+            "postalCode": "78001",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "59a4a92d-89df-4600-b4c9-633deaec2240",
+            "name": "PAKIPUNKT Laukna HEPA",
+            "type": "parcelMachine",
+            "streetAddress": "Laukna",
+            "locality": "Laukna",
+            "postalCode": "78101",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "845dcc64-af8d-473d-b1fe-f54c6d426d8a",
+            "name": "PAKIPUNKT Lokuta kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "Lokuta küla",
+            "locality": "Lokuta",
+            "postalCode": "79006",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "5849bb94-fe85-4933-8693-3848633876a0",
+            "name": "Märjamaa Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "Pärnu mnt 62",
+            "locality": "Märjamaa",
+            "postalCode": "78304",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "4bdfa58a-b8c5-4342-9582-bb3b3f43c1fd",
+            "name": "Rapla Maxima",
+            "type": "parcelMachine",
+            "streetAddress": "Tallinna mnt 50a",
+            "locality": "Rapla",
+            "postalCode": "79514",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "05e87a65-8fc3-409c-8c71-c33018901fad",
+            "name": "Rapla Prisma (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Risti 1",
+            "locality": "Rapla",
+            "postalCode": "79530",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "24e07f71-14fb-4c4e-a7c2-c742307bf0f6",
+            "name": "Rapla Selver",
+            "type": "parcelMachine",
+            "streetAddress": "Tallinna maantee 4",
+            "locality": "Rapla",
+            "postalCode": "79511",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "cfa9cd7c-18f9-4bf4-93b4-c35ec0965bde",
+            "name": "PAKIPUNKT Tilsi Pood",
+            "type": "parcelMachine",
+            "streetAddress": "Järvepoe",
+            "locality": "Tilsi küla",
+            "postalCode": "63012",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "7c15ace7-f862-48bb-a243-28f0b8e6f5b8",
+            "name": "PAKIPUNKT Valgu Kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "Valgu",
+            "locality": "Valgu",
+            "postalCode": "78204",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "059a3c78-7314-4929-974c-744313cdd25f",
+            "name": "Auriga Keskus",
+            "type": "parcelMachine",
+            "streetAddress": "Tallinna 88",
+            "locality": "Kuressaare",
+            "postalCode": "93851",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "25132a5a-a141-45c6-b1ae-c8424caafdfa",
+            "name": "Kuressaare Kihelkonna mini-Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "Kihelkonna mnt. 3",
+            "locality": "Kuressaare",
+            "postalCode": "93810",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "09dcb055-e432-4e70-8040-98a8a43f6b21",
+            "name": "Kuressaare Rae Maxima (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Raekoja 10",
+            "locality": "Kuressaare",
+            "postalCode": "93814",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "8c474909-a54b-4794-a34e-94974b226ada",
+            "name": "Kuressaare Saare Selver",
+            "type": "parcelMachine",
+            "streetAddress": "Tallinna 67",
+            "locality": "Kuressaare",
+            "postalCode": "93815",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "870f8590-010f-41bf-934c-ed254dc64e48",
+            "name": "PAKIPUNKT Sandla pood",
+            "type": "parcelMachine",
+            "streetAddress": "Keskuse",
+            "locality": "Sandla küla",
+            "postalCode": "94121",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "3273d2a3-bde3-464b-9aae-812912e256d1",
+            "name": "Alatskivi Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Lossi 1a",
+            "locality": "Alatskivi",
+            "postalCode": "60218",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "64afe7f0-bca6-4f40-999e-a7d0d6f32edb",
+            "name": "Elva Maxima",
+            "type": "parcelMachine",
+            "streetAddress": "Valga maantee 5",
+            "locality": "Elva",
+            "postalCode": "61504",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "aef86e2c-34a0-4917-be01-361c0ddc09ad",
+            "name": "Kallaste AjaO (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Oja 16",
+            "locality": "Kallaste",
+            "postalCode": "60103",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "a9c30336-ed71-45ab-9ad6-c64f5d82ad79",
+            "name": "Koosa Teeninduskeskus (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Keskuse",
+            "locality": "Koosa",
+            "postalCode": "60432",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "b9c3a0cd-603d-4d4a-9254-df055275c299",
+            "name": "Külitse Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Kiigemäe tee 2",
+            "locality": "Külitse",
+            "postalCode": "61702",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "3d04efea-1034-4e83-b4c1-bc1644a4f2b5",
+            "name": "PAKIPUNKT Elva Ökopesa",
+            "type": "parcelMachine",
+            "streetAddress": "Puiestee 1",
+            "locality": "Elva",
+            "postalCode": "61501",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "8d1bfb2a-0410-4db6-ba93-35d110c57739",
+            "name": "Tallinna Kadaka Selver",
+            "type": "parcelMachine",
+            "streetAddress": "Kadaka tee 56A",
+            "locality": "Tallinn",
+            "postalCode": "12915",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "7b6e2dd3-099c-4eba-beee-30f6666cb2f9",
+            "name": "Tallinna Kristiine Keskus 1.korrus",
+            "type": "parcelMachine",
+            "streetAddress": "Endla 45",
+            "locality": "Tallinn",
+            "postalCode": "10615",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "03e6067b-a66b-45a0-8121-e66feea95bf0",
+            "name": "Tallinna Kristiine Keskus 2.korrus",
+            "type": "parcelMachine",
+            "streetAddress": "Endla 45",
+            "locality": "Tallinn",
+            "postalCode": "10615",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "e61bef79-cfdc-462e-8d57-a77a0c54abba",
+            "name": "Tallinna Mustika Prisma",
+            "type": "parcelMachine",
+            "streetAddress": "Tammsaare tee 116",
+            "locality": "Tallinn",
+            "postalCode": "12918",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "5145d40e-55b1-4510-9ce5-18979ac6295d",
+            "name": "Tallinna Nautica Keskus",
+            "type": "parcelMachine",
+            "streetAddress": "Ahtri 9",
+            "locality": "Tallinn",
+            "postalCode": "10151",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "4260b35c-9f48-40a1-b9f3-96257c2bf039",
+            "name": "Tallinna Nurmenuku Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "Ehitajate tee 107",
+            "locality": "Tallinn",
+            "postalCode": "13511",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "27a9c8bd-bbd0-4259-811b-63d11c2f1769",
+            "name": "Tallinna Nõmme keskus (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Jaama 2",
+            "locality": "Tallinn",
+            "postalCode": "11621",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "b3aec054-c86d-44e3-be63-85a5c41fa6b7",
+            "name": "Tallinna Paasiku Grossi kpl (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Paasiku 2a",
+            "locality": "Tallinn",
+            "postalCode": "13915",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "9d9cf248-f927-4200-afdd-5a3949d0866c",
+            "name": "Tallinna Sikupilli Prisma",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu mnt 87",
+            "locality": "Tallinn",
+            "postalCode": "10112",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "0ff8a1de-4fb5-4775-8c45-5c796d62287b",
+            "name": "Tallinna Smuuli Maxima",
+            "type": "parcelMachine",
+            "streetAddress": "J.Smuuli tee 9",
+            "locality": "Tallinn",
+            "postalCode": "13628",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "baa89d0f-df46-46f9-a889-a38c3863f2a2",
+            "name": "Tallinna Stockmann (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Liivalaia 53",
+            "locality": "Tallinn",
+            "postalCode": "10145",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "5545ebfc-7451-40df-93d0-365cb4dcbcf0",
+            "name": "Tallinna Sütiste tee Maxima X",
+            "type": "parcelMachine",
+            "streetAddress": "J. Sütiste tee 28",
+            "locality": "Tallinn",
+            "postalCode": "13411",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "a796dba4-7b9b-42cb-8516-91db729c9d54",
+            "name": "Tallinna T1 Kaubanduskeskus",
+            "type": "parcelMachine",
+            "streetAddress": "Peterburi tee 2",
+            "locality": "Tallinn",
+            "postalCode": "11415",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "ef1d96c4-e2f6-4e36-8a97-2a64db806c72",
+            "name": "Tallinna Kaubamaja",
+            "type": "parcelMachine",
+            "streetAddress": "Gonsiori 2",
+            "locality": "Tallinn",
+            "postalCode": "10143",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "b1c019a8-6ef5-4fe1-b3ac-5ef93d6579d2",
+            "name": "Tallinna Sadam D-terminal (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Lootsi 13",
+            "locality": "Tallinn",
+            "postalCode": "10151",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "5906e347-369e-4371-969e-2fcbe2aac73a",
+            "name": "Tallinna Tondi Selver",
+            "type": "parcelMachine",
+            "streetAddress": "Tammsaare tee 62",
+            "locality": "Tallinn",
+            "postalCode": "11316",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "2e1500fc-5195-40a6-b9bd-ae90f00e1c75",
+            "name": "Tallinna Tondiraba Maxima XX",
+            "type": "parcelMachine",
+            "streetAddress": "Tondiraba 7",
+            "locality": "Tallinn",
+            "postalCode": "71391",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "3603c895-e4f2-47cd-9334-e3d73ef90767",
+            "name": "Tallinna Torupilli Selver",
+            "type": "parcelMachine",
+            "streetAddress": "Vesivärava 37",
+            "locality": "Tallinn",
+            "postalCode": "10152",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "5b95503c-70da-44e6-9e56-1effc2974d51",
+            "name": "Tallinna Tähesaju Selver",
+            "type": "parcelMachine",
+            "streetAddress": "Tähesaju tee 1",
+            "locality": "Tallinn",
+            "postalCode": "13917",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "99cd96af-8965-4e88-8ae2-52412cc650bc",
+            "name": "Tartu Annelinna Prisma",
+            "type": "parcelMachine",
+            "streetAddress": "Nõlvaku tee 2",
+            "locality": "Tartu",
+            "postalCode": "50708",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "db16ae9a-f0ab-4a3e-bc1d-6f9763095592",
+            "name": "Tartu Anne Selver",
+            "type": "parcelMachine",
+            "streetAddress": "Kalda tee 43",
+            "locality": "Tartu",
+            "postalCode": "50703",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "af5bdf3d-efa9-4a4d-a138-9cea633a35b6",
+            "name": "Tartu Eeden",
+            "type": "parcelMachine",
+            "streetAddress": "Kalda tee 1c",
+            "locality": "Tartu",
+            "postalCode": "50703",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "7ae89a5d-1eff-4596-9b8b-81412f0193d0",
+            "name": "Tartu Kivilinna Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Jaama 173",
+            "locality": "Tartu",
+            "postalCode": "50605",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "eeb69a93-f791-462f-9273-df8e76c540f5",
+            "name": "Tartu Kvissentali Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Aruküla tee 5",
+            "locality": "Tartu",
+            "postalCode": "50303",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "4df49a70-e784-4fc1-9a35-029da6bd967e",
+            "name": "Tartu Märja Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Aisa tn 2",
+            "locality": "Tartu",
+            "postalCode": "61406",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "aa9bfabc-3b9e-4af4-9577-2e0d13298e77",
+            "name": "Tartu Puiestee Rimi (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Puiestee 2",
+            "locality": "Tartu",
+            "postalCode": "50303",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "39bc74f1-0a71-4566-bfbb-81b6a42e8be0",
+            "name": "Tartu Raadi Grossi kpl (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Keskuse tee 2, Tila küla",
+            "locality": "Tartu",
+            "postalCode": "60532",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "a3f97f94-5d49-4805-a22d-08a0ffd1de48",
+            "name": "Tartu Raadimõisa Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Kaupmehe 2",
+            "locality": "Tartu",
+            "postalCode": "60532",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "0fb5f6c4-c261-44ea-b485-9d263588e16d",
+            "name": "Tartu Ringtee Selver",
+            "type": "parcelMachine",
+            "streetAddress": "Aardla 114",
+            "locality": "Tartu",
+            "postalCode": "50415",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "e6b84360-aef5-4e69-ad20-bbf879092840",
+            "name": "Keila Grossi kpl",
+            "type": "parcelMachine",
+            "streetAddress": "Piiri 5",
+            "locality": "Keila",
+            "postalCode": "76610",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "47588091-ef8e-4a1c-83f4-18378c496dec",
+            "name": "Kose Grossi kpl pakimajake (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Kodu 2",
+            "locality": "Kose",
+            "postalCode": "75101",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "30f96dd3-8c58-414c-ada1-45dc276561d1",
+            "name": "Kose-Uuemõisa Grossi kpl pakimajake (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Kesk 1",
+            "locality": "Kose-Uuemõisa",
+            "postalCode": "75102",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "6600e248-87dd-4a2b-9b76-d42ff3d6a777",
+            "name": "Kurna Park (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Kangrumetsa tee 3",
+            "locality": "Kurna",
+            "postalCode": "75307",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "586de0cb-2162-41b6-88e1-ea14f088a4b0",
+            "name": "Kuusalu Grossi kpl",
+            "type": "parcelMachine",
+            "streetAddress": "Mäe 1",
+            "locality": "Kuusalu",
+            "postalCode": "74619",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "2f4b6e5f-ab03-4f94-883b-e40107bb92a3",
+            "name": "Kuusalu Meie pood (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Kuusalu tee 39",
+            "locality": "Kuusalu",
+            "postalCode": "74601",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "da7f7096-3c55-4a7a-9426-91f441d3ff98",
+            "name": "Laagri Maksimarket",
+            "type": "parcelMachine",
+            "streetAddress": "Pärnu mnt 558a",
+            "locality": "Laagri",
+            "postalCode": "76401",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "47201259-0e98-4a7a-ad0e-54aaf679a570",
+            "name": "Laagri Rimi (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Pärnu mnt 556a",
+            "locality": "Laagri",
+            "postalCode": "76401",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "d2ec168a-7a68-4c7f-b459-b16bc0add9e5",
+            "name": "PAKIPUNKT Lagedi Sinu pood",
+            "type": "parcelMachine",
+            "streetAddress": "Kuuse tn 2a",
+            "locality": "Lagedi",
+            "postalCode": "75303",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "49e721e0-a7f2-4e7c-8062-e4db1e8f9e1e",
+            "name": "Loksa Grossi kpl pakimajake (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Rohuaia 6",
+            "locality": "Loksa",
+            "postalCode": "74806",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "26b8b005-a310-48f0-acc2-9ecd343a4910",
+            "name": "Maardu Prisma (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Keemikute 43",
+            "locality": "Maardu",
+            "postalCode": "74111",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "150c6363-47d8-45b7-a701-c7e657395900",
+            "name": "PAKIPUNKT Oru Hiie pood",
+            "type": "parcelMachine",
+            "streetAddress": "Oru",
+            "locality": "Oru",
+            "postalCode": "75103",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "7abb2cbe-4ee0-47cc-88fc-d7337b78acb9",
+            "name": "PAKIPUNKT Padise kruvipood",
+            "type": "parcelMachine",
+            "streetAddress": "Suitsu",
+            "locality": "Padise",
+            "postalCode": "76001",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "81b50bc2-3ded-4c28-83e8-f1d1e3452e49",
+            "name": "Paldiski Grossi kpl pakimajake (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Rae 26",
+            "locality": "Paldiski",
+            "postalCode": "76805",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "fb561a89-ba61-485a-8bf2-6efcc75397eb",
+            "name": "Peetri Keskus (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Küti tee 4",
+            "locality": "Peetri",
+            "postalCode": "75312",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "47f6e902-02e0-4156-b225-564436001feb",
+            "name": "Peetri Selver",
+            "type": "parcelMachine",
+            "streetAddress": "Veesaare tee 2",
+            "locality": "Peetri",
+            "postalCode": "75312",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "d5d97881-7430-4c0e-b8b5-caaeb9eef1fd",
+            "name": "Raasiku Meierei kpl pakimajake (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Meierei 1",
+            "locality": "Raasiku",
+            "postalCode": "75203",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "f56b44b8-06eb-43df-ae9a-89d990928bea",
+            "name": "Saku Selver",
+            "type": "parcelMachine",
+            "streetAddress": "Üksnurme tee 2",
+            "locality": "Saku",
+            "postalCode": "75501",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "d7347229-2a70-4762-8a81-0f83124e449e",
+            "name": "Saue Maxima",
+            "type": "parcelMachine",
+            "streetAddress": "Ladva 1a",
+            "locality": "Saue",
+            "postalCode": "76506",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "33fd46a3-cbd8-4068-95e0-7320a411bfae",
+            "name": "Saue Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "Keskuse 11",
+            "locality": "Saue",
+            "postalCode": "76505",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "ccf3281a-f4a5-4db9-93a9-52066456b08c",
+            "name": "Tiskre Prisma (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Liiva tee 61",
+            "locality": "Tiskre",
+            "postalCode": "76916",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "196f6f92-5a98-4f9b-bb14-8201e618d53f",
+            "name": "Viimsi Kaubanduskeskus (Delice)",
+            "type": "parcelMachine",
+            "streetAddress": "Randvere tee 6",
+            "locality": "Viimsi",
+            "postalCode": "74001",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "738a1e9a-76da-4d6b-b99d-ee6779bec267",
+            "name": "Viimsi Keskus (Selver)",
+            "type": "parcelMachine",
+            "streetAddress": "Sõpruse tee 15",
+            "locality": "Viimsi",
+            "postalCode": "74001",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "0fa9745a-2438-4bc5-bd5e-550acae76ffe",
+            "name": "Viimsi Rimi Market (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Randvere tee 7a",
+            "locality": "Viimsi",
+            "postalCode": "74001",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "4e4eeab9-acd4-4aa8-a611-64d3c20cc7b7",
+            "name": "PAKIPUNKT Ämari Alfa kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "Lennu 9",
+            "locality": "Ämari",
+            "postalCode": "76102",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "9d286b27-f89b-4cc6-923d-9b8f17541fcb",
+            "name": "Ääsmäe Meie kpl pakimajake (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Kopli tee 1",
+            "locality": "Ääsmäe",
+            "postalCode": "76402",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "fc7edfe7-e5ba-4c2e-a41c-f950782a54e0",
+            "name": "Kärdla Hiiu Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Keskväljak 1",
+            "locality": "Kärdla",
+            "postalCode": "92413",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "29e124d1-c9ec-4251-a7a4-7d151ddf3723",
+            "name": "Kärdla Selver",
+            "type": "parcelMachine",
+            "streetAddress": "Rehemäe, Linnumäe küla, Pühalepa vald",
+            "locality": "Kärdla",
+            "postalCode": "92420",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "f50d38f6-fb07-4a1c-8dae-4df2bb1ea1e3",
+            "name": "Käina Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Spordi tn 9",
+            "locality": "Käina",
+            "postalCode": "92101",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "04234541-5b86-4566-88b9-3745df8975a1",
+            "name": "PAKIPUNKT Emmaste Muku Tare",
+            "type": "parcelMachine",
+            "streetAddress": "Tankla",
+            "locality": "Emmaste",
+            "postalCode": "92001",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "3c617ad2-f351-49d1-8ff7-dfead6a4f76c",
+            "name": "Ahtme Grossi kpl Maleva (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Maleva 23",
+            "locality": "Kohtla-Järve",
+            "postalCode": "31025",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "83648295-cbf2-4079-a4ec-6e9d40f7f992",
+            "name": "Ahtme Grossi kpl Estonia pst (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Estonia pst 30a",
+            "locality": "Ahtme",
+            "postalCode": "31021",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "3877505f-b64e-4500-a8a4-61124876bec8",
+            "name": "Kiviõli K5 keskus",
+            "type": "parcelMachine",
+            "streetAddress": "Metsa 3",
+            "locality": "Kiviõli",
+            "postalCode": "43125",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "1528fe72-1b36-4b99-86be-d174274f4633",
+            "name": "Kohtla-Järve Keskallee Maxima X (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Keskallee 12",
+            "locality": "Kohtla-Järve",
+            "postalCode": "30322",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "a5d40a42-47ae-4eaa-b5dc-80bbe9052363",
+            "name": "Kohtla-Järve mini-Rimi (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Põhja allee 4",
+            "locality": "Kohtla-Järve",
+            "postalCode": "30323",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "71ef09e6-a0a1-4312-9949-f8f28ab1ae57",
+            "name": "Kohtla-Järve Vironia Keskus",
+            "type": "parcelMachine",
+            "streetAddress": "Järveküla tee 50",
+            "locality": "Kohtla-Järve",
+            "postalCode": "30321",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "8fa7f2b4-439c-4475-9ba6-5375301eb983",
+            "name": "PAKIPUNKT Kohtla-Nõmme kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "Kooli 2",
+            "locality": "Kohtla-Nõmme",
+            "postalCode": "30503",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "04461670-e797-4cbe-a6ab-12fe3d9918b4",
+            "name": "Mäetaguse Meie pood (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Kooli tee 7",
+            "locality": "Mäetaguse",
+            "postalCode": "41301",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "7a13f4e6-62f0-4d7d-bb79-0475dd808419",
+            "name": "Narva A1000 market (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Albert-August Tiimani 1c",
+            "locality": "Narva",
+            "postalCode": "21004",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "12b4e3fc-81bc-423d-8a12-f854e520bb03",
+            "name": "Narva Astri Keskus",
+            "type": "parcelMachine",
+            "streetAddress": "Tallinna mnt 41",
+            "locality": "Narva",
+            "postalCode": "20605",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "cb8a8a50-efc7-4fa5-b4de-e2746adf1876",
+            "name": "Narva Fama Keskus (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Fama põik 10",
+            "locality": "Narva",
+            "postalCode": "20303",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "38773396-0302-42b5-ad6d-d5dedcd73672",
+            "name": "Narva Kerese Keskus (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Paul Kerese 3",
+            "locality": "Narva",
+            "postalCode": "20309",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "8e1cce2e-1c1c-4219-a2a8-fb557590c683",
+            "name": "Narva Prisma",
+            "type": "parcelMachine",
+            "streetAddress": "Kangelaste prospekt 29",
+            "locality": "Narva",
+            "postalCode": "20607",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "8c52d91d-77ec-4de2-9cd7-1c04805e1999",
+            "name": "Narva Tiimani Maxima (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Albert-August Tiimani 20",
+            "locality": "Narva",
+            "postalCode": "21004",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "0ba1df98-2e00-4010-a74d-234c7d7fa4e2",
+            "name": "Sillamäe Maxima X Viru pst (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Viru puiestee 35",
+            "locality": "Sillamäe",
+            "postalCode": "40233",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "03f3f163-2504-440b-a80b-7970109fb2cf",
+            "name": "Jõgeva Pae Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "Aia 33",
+            "locality": "Jõgeva",
+            "postalCode": "48304",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "01c60764-9f68-4255-8017-1b30d24e4849",
+            "name": "Jõgeva Selver (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Kesk 4",
+            "locality": "Jõgeva",
+            "postalCode": "48305",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "9a9f96f7-2f5f-49b7-9597-a76020f643d5",
+            "name": "Palamuse Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Uus 14",
+            "locality": "Palamuse",
+            "postalCode": "49226",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "a02047d0-61c0-44da-9c8f-5a9e750047ac",
+            "name": "Puurmani Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Jõgeva mnt 1",
+            "locality": "Puurmani",
+            "postalCode": "49014",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "e7d2a12e-eeea-4ad9-889c-a9e0c46f18b6",
+            "name": "Siimusti kauplus (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Toominga tn 9",
+            "locality": "Siimusti",
+            "postalCode": "48444",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "033b5c6a-8e5a-45fc-a093-1e2d6723144a",
+            "name": "PAKIPUNKT Vaiatu pood",
+            "type": "parcelMachine",
+            "streetAddress": "Vaiatu, Jõgeva-Mustvee",
+            "locality": "Vaiatu",
+            "postalCode": "48522",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "f003234c-d7e3-4aaa-aa37-71cd0b9403e3",
+            "name": "Paide Maxima (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Pärnu 63",
+            "locality": "Paide",
+            "postalCode": "72712",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "1a03f192-2fa8-4465-bade-c0cc84748d15",
+            "name": "Paide Selver",
+            "type": "parcelMachine",
+            "streetAddress": "Aiavilja 4",
+            "locality": "Paide",
+            "postalCode": "72712",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "8db5b860-db5a-41ba-97f4-c27c35f8b676",
+            "name": "Türi Grossi kpl pakimajake (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Viljandi 13a",
+            "locality": "Türi",
+            "postalCode": "72212",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "d99aa1e1-c4cc-4ffb-a40d-0735552462fa",
+            "name": "Türi mini-Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "Paide 26",
+            "locality": "Türi",
+            "postalCode": "72211",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "4a6aaa64-e251-485b-972b-409094639a6d",
+            "name": "PAKIPUNKT Ahula kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "Ahula küla",
+            "locality": "Ahula",
+            "postalCode": "73416",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "92938f22-2c01-455a-935e-e805c28e2a8e",
+            "name": "PAKIPUNKT Albu kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "Albu küla",
+            "locality": "Albu",
+            "postalCode": "73402",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "1a9978ee-80a0-4c7f-b4fb-3498a7fb6973",
+            "name": "PAKIPUNKT Ambla Kirsimari",
+            "type": "parcelMachine",
+            "streetAddress": "Pikk 16",
+            "locality": "Ambla",
+            "postalCode": "73502",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "b9faa613-ae37-42bb-9356-5621b5326551",
+            "name": "PAKIPUNKT Anna Kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "Bensiinijaama",
+            "locality": "Anna",
+            "postalCode": "72601",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "17af23fa-3dc4-4b3c-94af-325c6e9e6ad4",
+            "name": "PAKIPUNKT Koeru lillepood",
+            "type": "parcelMachine",
+            "streetAddress": "Paide tee 2",
+            "locality": "Koeru",
+            "postalCode": "73001",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "ba3fa01b-ac65-4e54-ad71-116d1f1840fd",
+            "name": "PAKIPUNKT Mäeküla Pizzakiosk",
+            "type": "parcelMachine",
+            "streetAddress": "Mäeküla",
+            "locality": "Mäeküla",
+            "postalCode": "72604",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "30b28472-3948-4fff-bed3-bf081ab995c8",
+            "name": "PAKIPUNKT Mäo Sämmi Grill",
+            "type": "parcelMachine",
+            "streetAddress": "Keskuse 1",
+            "locality": "Mäo küla",
+            "postalCode": "72751",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "de601b82-c461-4cb7-9dfa-7591f80fd0f5",
+            "name": "Rannarootsi Keskus",
+            "type": "parcelMachine",
+            "streetAddress": "Rannarootsi tee 1",
+            "locality": "Haapsalu",
+            "postalCode": "90404",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "d49766ba-83fb-4f22-b9c9-57854267ae20",
+            "name": "Risti Bussijaam (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Tallinna mnt 3a",
+            "locality": "Risti",
+            "postalCode": "90901",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "4c776bbb-33d9-4e3b-9af7-b90d21b50dc7",
+            "name": "PAKIPUNKT Rõude kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "Rõude küla",
+            "locality": "Rõude",
+            "postalCode": "90602",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "884a2afa-1e6f-4e14-a937-29baa619c105",
+            "name": "Aseri Vabaajakeskus (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Kesktänav 22",
+            "locality": "Aseri",
+            "postalCode": "43401",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "c66a23bd-cef0-4067-b022-6f367ccacdb1",
+            "name": "PAKIPUNKT Laekvere Aldar Market",
+            "type": "parcelMachine",
+            "streetAddress": "Salutaguse tee 2",
+            "locality": "Laekvere",
+            "postalCode": "46501",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "dcdf112f-bc4d-4a37-954c-0a3d8f575b34",
+            "name": "Kadrina Grossi kpl (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Viru 9",
+            "locality": "Kadrina",
+            "postalCode": "45201",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "d73b22b5-6a57-4a6c-9b64-cf3c5ecf3f32",
+            "name": "Kunda Grossi kpl (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Kasemäe 12",
+            "locality": "Kunda",
+            "postalCode": "44107",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "5fa944bd-b5d5-412a-9e77-2f466185e3a1",
+            "name": "Rakvere Põhjakeskus",
+            "type": "parcelMachine",
+            "streetAddress": "Tõrremäe",
+            "locality": "Rakvere",
+            "postalCode": "44415",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "d8209113-fd12-43db-88ff-6e104549482b",
+            "name": "Rakvere Raja Grossi kpl (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Ilu puiestee 2",
+            "locality": "Rakvere",
+            "postalCode": "44314",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "4efe4b35-048f-4811-b7d1-5d0f81ed247c",
+            "name": "PAKIPUNKT Tudu Aldar Market",
+            "type": "parcelMachine",
+            "streetAddress": "Rakvere mnt 7",
+            "locality": "Tudu",
+            "postalCode": "46606",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "c0afa7c5-9d9a-4bbf-bb1e-20abbf19263b",
+            "name": "Rakvere Vaala Keskus",
+            "type": "parcelMachine",
+            "streetAddress": "Lõõtspilli 2",
+            "locality": "Rakvere",
+            "postalCode": "44313",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "220fc48d-45b8-41e0-9750-c58a298cc0b3",
+            "name": "Tapa Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "Kalmistu 3",
+            "locality": "Tapa",
+            "postalCode": "45109",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "6412a593-686e-4eb8-9807-8c2c86780c13",
+            "name": "PAKIPUNKT Uhtna pood",
+            "type": "parcelMachine",
+            "streetAddress": "Mõisa 1",
+            "locality": "Uhtna",
+            "postalCode": "44202",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "694f7c4e-b84a-4239-8567-8c774b6f6309",
+            "name": "PAKIPUNKT Viru-Jaagupi Aldar Market",
+            "type": "parcelMachine",
+            "streetAddress": "Kooli tee 4",
+            "locality": "Viru-Jaagupi",
+            "postalCode": "46604",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "980f3c69-cca7-4617-8165-b1bc7e173a71",
+            "name": "Väike-Maarja Grossi kpl pakimajake (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Pikk 9",
+            "locality": "Väike-Maarja",
+            "postalCode": "46202",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "55947c1b-8a1c-412c-a226-d9d31fd59385",
+            "name": "Põlva bussijaam (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Kesk tn 41",
+            "locality": "Põlva",
+            "postalCode": "63304",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "d6864086-0490-4490-8376-d297580393e3",
+            "name": "Põlva Coop Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "Aasa 1",
+            "locality": "Põlva",
+            "postalCode": "63304",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "16dfb84c-8906-4bb7-9db5-861c29ae5d4b",
+            "name": "Põlva Selver (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Jaama 12",
+            "locality": "Põlva",
+            "postalCode": "63303",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "642c93b5-a8fe-4c82-ba40-f88142585c6d",
+            "name": "Räpina Maxima",
+            "type": "parcelMachine",
+            "streetAddress": "Pargi 1",
+            "locality": "Räpina",
+            "postalCode": "64505",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "b6a4c98f-c77b-49d7-b9f9-ef1824e63595",
+            "name": "PAKIPUNKT Kanepi Mini Hiir",
+            "type": "parcelMachine",
+            "streetAddress": "A. Weizenbergi",
+            "locality": "Kanepi",
+            "postalCode": "63101",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "5cdc3dc2-5f42-4667-8724-132f0777a01a",
+            "name": "Pärnu Keskus",
+            "type": "parcelMachine",
+            "streetAddress": "Aida 7",
+            "locality": "Pärnu",
+            "postalCode": "80010",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "9488776a-d6b8-4c26-ab56-301bcab8f787",
+            "name": "Pärnu Turg (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Suur-Sepa 18",
+            "locality": "Pärnu",
+            "postalCode": "80018",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "03542321-429f-4983-b822-7a328848ee37",
+            "name": "Pärnu Ülejõe Selver",
+            "type": "parcelMachine",
+            "streetAddress": "Tallinna mnt 93a",
+            "locality": "Pärnu",
+            "postalCode": "80041",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "d2ba999d-c49f-4ac2-8315-f4653d07c163",
+            "name": "Kilingi-Nõmme Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Pärnu 37",
+            "locality": "Kilingi-Nõmme",
+            "postalCode": "86303",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "37ff1cf9-ad53-4dc1-8b8a-81e0f1cb3446",
+            "name": "Lihula Meie kpl pakimajake (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Jaama 4",
+            "locality": "Lihula",
+            "postalCode": "90303",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "59ec8fc4-1129-440c-8fde-aaa1fae3c4ed",
+            "name": "Sauga Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "Kuldnoka 1",
+            "locality": "Sauga",
+            "postalCode": "85008",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "eaf9cb7e-2d98-48ec-afd2-2f68d8070705",
+            "name": "PAKIPUNKT Selja Meierei kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "Rakvere mnt",
+            "locality": "Selja",
+            "postalCode": "86817",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "57384f2c-4254-4ce4-b657-0e880d9a9f17",
+            "name": "Sindi Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Jaama 8",
+            "locality": "Sindi",
+            "postalCode": "86705",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "173e8b50-8446-4566-9d16-04f866bd4181",
+            "name": "Vana Pärnu Selver ABC",
+            "type": "parcelMachine",
+            "streetAddress": "Haapsalu maantee 41",
+            "locality": "Pärnu",
+            "postalCode": "88317",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "203b0522-a495-4014-a26f-f889517b7185",
+            "name": "PAKIPUNKT Virtsu Äri",
+            "type": "parcelMachine",
+            "streetAddress": "Tööstuse 9a",
+            "locality": "Virtsu",
+            "postalCode": "90101",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "5058b18a-011e-4f6e-bcf5-c896916ae912",
+            "name": "PAKIPUNKT Võiste Kohvipood",
+            "type": "parcelMachine",
+            "streetAddress": "Riia mnt 7b",
+            "locality": "Võiste",
+            "postalCode": "86501",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "68a1a847-2fe1-4302-ac86-9e8cda56802a",
+            "name": "Vändra Grossi kpl pakimajake (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Pärnu-Paide mnt 26",
+            "locality": "Vändra",
+            "postalCode": "87701",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "c53dbf5b-55a8-48ad-98fc-ae54a42d4073",
+            "name": "PAKIPUNKT Eidapere Raamatukogu",
+            "type": "parcelMachine",
+            "streetAddress": "Tallinna maantee 23a",
+            "locality": "Eidapere",
+            "postalCode": "79003",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "395a3512-bc55-40f5-9555-e97800fa5c70",
+            "name": "PAKIPUNKT Kodila pood",
+            "type": "parcelMachine",
+            "streetAddress": "Poe 1",
+            "locality": "Kodila küla",
+            "postalCode": "79603",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "7dd21df9-0cf6-48c1-8b69-0e68b7e29d20",
+            "name": "Rapla Jaama Hepa pakimajake (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Viljandi mnt 124",
+            "locality": "Rapla",
+            "postalCode": "79514",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "31d1c8c5-7388-4d18-b26c-3296e5c3a023",
+            "name": "PAKIPUNKT Kärla tanklakauplus",
+            "type": "parcelMachine",
+            "streetAddress": "Kärla tee 10",
+            "locality": "Kärla",
+            "postalCode": "93501",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "2f46deb2-2fbe-4bd8-b1ee-346bc994d857",
+            "name": "Liiva Konsumi pakimajake (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Liiva küla, Muhu",
+            "locality": "Liiva",
+            "postalCode": "94701",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "4b9ed0a6-23a1-4e15-a632-6c0307b7dea2",
+            "name": "Orissaare bussijaam (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Kuivastu mnt 26a",
+            "locality": "Orissaare",
+            "postalCode": "94601",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "7d44c633-b816-4cbd-be89-2a6fa021a1cd",
+            "name": "Elva mini-Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "Kesk 7",
+            "locality": "Elva",
+            "postalCode": "61504",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "3cbe59f7-5f95-4076-b81d-7c106f841c28",
+            "name": "PAKIPUNKT Mõisaküla HEPA",
+            "type": "parcelMachine",
+            "streetAddress": "Kamara",
+            "locality": "Kamara",
+            "postalCode": "69304",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "967af357-0669-4ee0-80bb-0fcb8c5d94ee",
+            "name": "Suure-Jaani Konsum pakimajake (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Pärnu 3",
+            "locality": "Suure-Jaani",
+            "postalCode": "71502",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "245e5c69-b685-4735-9fac-98eea93e72c8",
+            "name": "PAKIPUNKT Tääksi kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "Poe",
+            "locality": "Tääksi küla",
+            "postalCode": "70402",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "956c4272-686e-403e-a6ee-84390a2b8506",
+            "name": "Viiratsi Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Sakala 3b",
+            "locality": "Viiratsi",
+            "postalCode": "70101",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "3e9708b6-3993-46c4-bf3d-22cc45029dbe",
+            "name": "Võhma Meie pood (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Tallinna 28a",
+            "locality": "Võhma",
+            "postalCode": "70602",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "95f4da08-7845-438e-931c-8fa73cb89dfa",
+            "name": "PAKIPUNKT Tartu Aardla Selveri Peetri Pizza",
+            "type": "parcelMachine",
+            "streetAddress": "võru 77",
+            "locality": "Tartu",
+            "postalCode": "50404",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "b707cf51-82c7-4888-87a8-bdd4249ba603",
+            "name": "PAKIPUNKT Tartu Jaamamõisa Peetri Pizza",
+            "type": "parcelMachine",
+            "streetAddress": "Jaama 74",
+            "locality": "Tartu",
+            "postalCode": "50605",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "09d3baf1-d3ba-4aaf-9476-b1769a90d3e0",
+            "name": "PAKIPUNKT Tartu Mõisavahe Urr Nurr",
+            "type": "parcelMachine",
+            "streetAddress": "Mõisavahe 34b",
+            "locality": "Tartu",
+            "postalCode": "50708",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "01935381-5799-4e84-aa36-fc329c69f4fb",
+            "name": "Tallinna Kolde Selver",
+            "type": "parcelMachine",
+            "streetAddress": "Sõle tn 31",
+            "locality": "Tallinn",
+            "postalCode": "10321",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "90510a1f-f45c-45ef-84b9-1ba4b4710cd8",
+            "name": "Viimsi Maxima",
+            "type": "parcelMachine",
+            "streetAddress": "Pargi tee 22",
+            "locality": "Viimsi",
+            "postalCode": "74001",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "05b0e59d-5620-45c0-81ed-42d3f5b19061",
+            "name": "Narva Megamarket",
+            "type": "parcelMachine",
+            "streetAddress": "Rakvere 71",
+            "locality": "Narva",
+            "postalCode": "20609",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "1cf1ba0f-c752-4fdd-89d8-090c31e2e6d9",
+            "name": "Ülenurme Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "Võru mnt. 2",
+            "locality": "Ülenurme",
+            "postalCode": "61714",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "d7d4a446-83a5-4034-88d7-7d1293746b2d",
+            "name": "Otepää Maxima",
+            "type": "parcelMachine",
+            "streetAddress": "Valga mnt 1B",
+            "locality": "Otepää",
+            "postalCode": "67403",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "db2f001c-57ec-43a8-b3b3-a5d2adf7aa0d",
+            "name": "Viljandi Uku keskus",
+            "type": "parcelMachine",
+            "streetAddress": "Tallinna tn. 41",
+            "locality": "Viljandi",
+            "postalCode": "71020",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "a9faf6f3-3be4-4f23-b5c8-6c15654632e5",
+            "name": "Tabasalu Keskus",
+            "type": "parcelMachine",
+            "streetAddress": "Kallaste 7",
+            "locality": "Tabasalu",
+            "postalCode": "76901",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "a1226415-d55a-4494-a85d-c4ad01e57d74",
+            "name": "Pärnu-Jaagupi kauplus (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Pärnu maantee 18",
+            "locality": "Pärnu-Jaagupi",
+            "postalCode": "87201",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "f0c4122f-b6e4-4516-8df5-29c437ec4c23",
+            "name": "Järva-Jaani Grossi kpl pakimajake (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Lai 23",
+            "locality": "Järva-Jaani",
+            "postalCode": "73301",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "f1bfe41f-004c-4a63-ac3f-58050800dedc",
+            "name": "Paide Maksimarketi pakimajake (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Ringtee 2",
+            "locality": "Paide",
+            "postalCode": "72720",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "726d207c-0015-4994-9d6a-11ea95f9f613",
+            "name": "Tallinna Mustamäe Keskus",
+            "type": "parcelMachine",
+            "streetAddress": "A. H. Tammsaare tee 104a",
+            "locality": "Tallinn",
+            "postalCode": "12918",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "8484689e-1bbe-473a-b981-4452172eba45",
+            "name": "Tallinna Pirita Keskus",
+            "type": "parcelMachine",
+            "streetAddress": "Merivälja tee 24",
+            "locality": "Tallinn",
+            "postalCode": "11911",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "f203e318-973d-49d2-ab4a-6bb1f21de7b8",
+            "name": "Tallinna Ehitajate Tee Maxima XXX (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Ehitajate tee 148",
+            "locality": "Tallinn",
+            "postalCode": "13517",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "7ca8d183-9703-4088-aeaa-0e7bff958454",
+            "name": "Tallinna Finest ärimaja",
+            "type": "parcelMachine",
+            "streetAddress": "Pärnu mnt 22",
+            "locality": "Tallinn",
+            "postalCode": "10141",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "22abf156-06ad-4cfe-960b-80bac4c70d1f",
+            "name": "Tallinna Haabersti Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "Haabersti 1",
+            "locality": "Tallinn",
+            "postalCode": "13516",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "64f87ed5-960b-41e2-ad72-254edccd7c8e",
+            "name": "Tallinna Hiiu Maxima (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Pärnu mnt 390b",
+            "locality": "Tallinn",
+            "postalCode": "11612",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "c6a3d4ed-2179-4834-86c5-3d08f563e027",
+            "name": "Tallinna Hiiu Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "Pärnu mnt. 386",
+            "locality": "Tallinn",
+            "postalCode": "11612",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "5b5e25b7-5b0d-450c-ae5c-2ae5c270b6e2",
+            "name": "Tallinna Idakeskus (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Punane 16b",
+            "locality": "Tallinn",
+            "postalCode": "13619",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "c07197fa-f2fd-4d9e-bec7-6c50190180a5",
+            "name": "Tallinna Järve Keskus",
+            "type": "parcelMachine",
+            "streetAddress": "Pärnu mnt. 238",
+            "locality": "Tallinn",
+            "postalCode": "11624",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "fa9f219f-57f6-48a4-96d4-30de026008a5",
+            "name": "Tallinna Vilde tee Maxima XX",
+            "type": "parcelMachine",
+            "streetAddress": "Vilde tee 77",
+            "locality": "Tallinn",
+            "postalCode": "12912",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "b74d26ab-de31-4010-bf72-4e523add50e2",
+            "name": "Tallinna Virbi Maxima (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Virbi 12",
+            "locality": "Tallinn",
+            "postalCode": "13617",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "b99aebea-4170-4339-a9e0-31889e61ff75",
+            "name": "Tallinna Õismäe 88 Maxima X (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Õismäe tee 88",
+            "locality": "Tallinn",
+            "postalCode": "13513",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "420fcf41-05b1-405c-877a-b155bcd83e0e",
+            "name": "Tallinna Õismäe Maxima XX (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Õismäe tee 46",
+            "locality": "Tallinn",
+            "postalCode": "13512",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "c08cdb3f-7756-42e0-86e6-90cfc6ad5880",
+            "name": "Tallinna Viru Keskus",
+            "type": "parcelMachine",
+            "streetAddress": "Viru väljak 4/6",
+            "locality": "Tallinn",
+            "postalCode": "10151",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "d4aa5452-1227-4079-b840-ee95a4992d10",
+            "name": "Tallinna Ülemiste keskus",
+            "type": "parcelMachine",
+            "streetAddress": "Suur-Sõjamäe 4",
+            "locality": "Tallinn",
+            "postalCode": "11415",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "40ba55c5-50ca-4432-bfd5-c164b9b881e9",
+            "name": "Tallinna Ümera Keskus (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Laagna tee 80",
+            "locality": "Tallinn",
+            "postalCode": "13619",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "4e82c639-751f-4079-b4fc-e375c80b1365",
+            "name": "PAKIPUNKT Tallinna Lasnamäe Lillekoda",
+            "type": "parcelMachine",
+            "streetAddress": "P. Pinna 21",
+            "locality": "Tallinn",
+            "postalCode": "13615",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "04667007-7691-4111-a1e3-10405cb9c0d8",
+            "name": "PAKIPUNKT Tallinna Sikupilli MySushi",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu mnt 87",
+            "locality": "Tallinn",
+            "postalCode": "10112",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "5263f802-2403-4532-a97a-3b8a3d6cf9cc",
+            "name": "PAKIPUNKT Tallinna Smuuli MySushi",
+            "type": "parcelMachine",
+            "streetAddress": "J. Smuuli tee 9",
+            "locality": "Tallinn",
+            "postalCode": "13628",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "c0c4c5f1-3a6e-41de-87e2-5cf9bef35f6a",
+            "name": "PAKIPUNKT Tallinna Stroomi MySushi",
+            "type": "parcelMachine",
+            "streetAddress": "Tuulemaa 20",
+            "locality": "Tallinn",
+            "postalCode": "10315",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "99a323be-5840-47e7-8f09-f8b6b564b231",
+            "name": "PAKIPUNKT Tallinna Lilleideed",
+            "type": "parcelMachine",
+            "streetAddress": "Pille 11-3",
+            "locality": "Tallinn",
+            "postalCode": "10135",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "e256a91f-6dae-4012-92bf-54518577c0c2",
+            "name": "PAKIPUNKT Pajusti Aldar Market",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu mnt 13",
+            "locality": "Pajusti",
+            "postalCode": "46603",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "a60fd7b4-9d01-45e0-a7fe-8d33c1512206",
+            "name": "PAKIPUNKT Roela Aldar Market",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu mnt 11",
+            "locality": "Roela",
+            "postalCode": "46602",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "3522e54e-cc9a-4e7a-b7c6-4ec5a3ddf2aa",
+            "name": "Tartu Tuglase Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "Friedebert Tuglase 19",
+            "locality": "Tartu",
+            "postalCode": "51014",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "94d4a68e-625d-430c-a713-56efa0e5bf91",
+            "name": "Tartu Ujula Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Ujula 2",
+            "locality": "Tartu",
+            "postalCode": "51008",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "15635a43-85d1-4683-8b19-e7a0f28f3480",
+            "name": "Tartu Vahi Selver",
+            "type": "parcelMachine",
+            "streetAddress": "Vahi 62",
+            "locality": "Tartu",
+            "postalCode": "50304",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "f4b7bc15-0276-427f-a732-b70646bd1030",
+            "name": "Tartu Veeriku Selver",
+            "type": "parcelMachine",
+            "streetAddress": "Vitamiini 1",
+            "locality": "Tartu",
+            "postalCode": "51014",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "da5b100c-5a28-410e-805d-d693efbe7339",
+            "name": "Alliku Rimi (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Instituudi tee 132",
+            "locality": "Alliku",
+            "postalCode": "76403",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "7f08ee53-a5f5-48d0-a6b5-0a9c1bf06055",
+            "name": "PAKIPUNKT Alavere Pood",
+            "type": "parcelMachine",
+            "streetAddress": "Oja 1",
+            "locality": "Alavere",
+            "postalCode": "74401",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "de47499a-c110-4540-a7c5-2ded2ecf1020",
+            "name": "Ardu Meie pood (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Kesk tee 6b",
+            "locality": "Ardu",
+            "postalCode": "75001",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "2213be59-1dfe-4261-a6a9-da8fa736556d",
+            "name": "PAKIPUNKT Aruküla Sinu pood",
+            "type": "parcelMachine",
+            "streetAddress": "Põllu 14a",
+            "locality": "Aruküla",
+            "postalCode": "75201",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "8ebfa8b3-3809-4a9b-aae2-3b032a2205a8",
+            "name": "PAKIPUNKT Habaja Tore pood",
+            "type": "parcelMachine",
+            "streetAddress": "Kose mnt 17",
+            "locality": "Habaja",
+            "postalCode": "75002",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "5e96e5d3-acdd-40c7-a925-9df22a40a99f",
+            "name": "Jüri Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "Aruküla tee 29",
+            "locality": "Jüri",
+            "postalCode": "75301",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "471dca9d-1018-445c-bfe8-aee1699476c5",
+            "name": "PAKIPUNKT Kaberneeme kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "Kaberneeme põik 1",
+            "locality": "Kaberneeme",
+            "postalCode": "74211",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "e77c2c0d-f226-459f-88ef-b71b3f692857",
+            "name": "Tallinna Ajakirjandusmaja (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Pärnu mnt 67a",
+            "locality": "Tallinn",
+            "postalCode": "10134",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "6102df8c-7650-4ba2-93ee-2495fc105805",
+            "name": "Tallinna Arsenali Keskus",
+            "type": "parcelMachine",
+            "streetAddress": "Erika 14",
+            "locality": "Tallinn",
+            "postalCode": "10416",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "234a392f-fff6-4561-8f39-d091b78210dd",
+            "name": "Tallinna Astangu Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "Kotermaa tn 4",
+            "locality": "Tallinn",
+            "postalCode": "13519",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "1f4f02f2-d961-46bf-9c6c-0dd5d083421d",
+            "name": "Tallinna Balti Jaama Turg",
+            "type": "parcelMachine",
+            "streetAddress": "Kopli 1",
+            "locality": "Tallinn",
+            "postalCode": "10411",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "589241d7-8a2b-4680-af8d-c2f10f7544d0",
+            "name": "Tallinna Balti Jaama ABC Selver (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Toompuiestee 37",
+            "locality": "Tallinn",
+            "postalCode": "10133",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "db44a87f-eefc-4765-9dfe-61a811dc0469",
+            "name": "PAKIPUNKT Lohusuu Aldar Market",
+            "type": "parcelMachine",
+            "streetAddress": "Avinurme tee 2",
+            "locality": "Lohusuu",
+            "postalCode": "42001",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "f50db55d-a826-4a9d-96e3-b27702c8d6a1",
+            "name": "Mustvee konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu 3",
+            "locality": "Mustvee",
+            "postalCode": "49604",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "ae745de8-56ec-4c77-9fa2-819049ac3e66",
+            "name": "PAKIPUNKT Nõuni pood",
+            "type": "parcelMachine",
+            "streetAddress": "Nõuni küla",
+            "locality": "Nõuni",
+            "postalCode": "67515",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "11eccc10-cf51-4656-a532-5dc04f1b57e2",
+            "name": "PAKIPUNKT Sangaste Silva pood",
+            "type": "parcelMachine",
+            "streetAddress": "Valga mnt 11",
+            "locality": "Sangaste",
+            "postalCode": "67013",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "da81f07c-e430-4581-920c-7e25b8d21d39",
+            "name": "PAKIPUNKT Valga Ökopesa",
+            "type": "parcelMachine",
+            "streetAddress": "J. Kuperjanovi 44",
+            "locality": "Valga",
+            "postalCode": "68207",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "eefde606-1cd0-4823-83da-aa6214ac8fe3",
+            "name": "Viljandi Centrum",
+            "type": "parcelMachine",
+            "streetAddress": "Tallinna 24",
+            "locality": "Viljandi",
+            "postalCode": "71008",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "58157639-6cb6-4af6-97f1-156a4131a0fe",
+            "name": "Viljandi Paalalinna Maksimarket (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Lääne 2",
+            "locality": "Viljandi",
+            "postalCode": "71013",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "81283230-c2b1-4823-a55d-ae5ea89647d8",
+            "name": "Põltsamaa Selver",
+            "type": "parcelMachine",
+            "streetAddress": "Jõgeva mnt. 1a",
+            "locality": "Põltsamaa",
+            "postalCode": "48105",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "74b149e7-416a-4bdd-83a1-1394c3113332",
+            "name": "Tootsi Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Kesk 7",
+            "locality": "Tootsi",
+            "postalCode": "87501",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "2cd19075-e2d1-427d-abe5-da4c9e126e1b",
+            "name": "Tori Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Pärnu mnt 3",
+            "locality": "Tori",
+            "postalCode": "86801",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "f804638e-d224-48ea-99d2-c20eab1996eb",
+            "name": "PAKIPUNKT Tõstamaa Hepa",
+            "type": "parcelMachine",
+            "streetAddress": "Pärnu mnt 21",
+            "locality": "Tõstamaa",
+            "postalCode": "88101",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "d6377127-aa48-44b2-8b44-e37b3bc0f7bb",
+            "name": "PAKIPUNKT Uulu kohvik",
+            "type": "parcelMachine",
+            "streetAddress": "Uulu küla",
+            "locality": "Uulu",
+            "postalCode": "86502",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "2b711648-4b50-44fe-88f3-5b849c57f018",
+            "name": "Kohila Grossi kpl (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Viljandi mnt 3a",
+            "locality": "Kohila",
+            "postalCode": "79805",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "588263f2-1ca0-4aba-bab3-ecbdb5b10517",
+            "name": "Kohila Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "Lõuna 2",
+            "locality": "Kohila",
+            "postalCode": "79801",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "97ce4fda-7d10-4fbd-b6dd-7fb85b81b2cc",
+            "name": "PAKIPUNKT HollyFood restoran",
+            "type": "parcelMachine",
+            "streetAddress": "Valmaotsa küla",
+            "locality": "Laeva",
+            "postalCode": "60605",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "78817ea9-069a-4a0a-a224-0412d91d05ec",
+            "name": "Rõngu Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu maantee 2",
+            "locality": "Rõngu",
+            "postalCode": "61001",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "9ceaf87a-ca24-4baf-a227-3e1681f7c4a4",
+            "name": "Tõrvandi Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Müürsepa 1",
+            "locality": "Tõrvandi",
+            "postalCode": "61715",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "1b41b80d-e256-4646-a342-2c04d001808e",
+            "name": "Tõrva Kevade Keskus (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Valga mnt 3",
+            "locality": "Tõrva",
+            "postalCode": "68605",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "5cb6de41-f3ab-4721-b75f-12a3a61b968b",
+            "name": "Tõrva Tikste Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Viljandi 28",
+            "locality": "Tõrva",
+            "postalCode": "68604",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "d870192e-c2e4-4ac2-9600-009ccbbe4fe3",
+            "name": "Valga Selver",
+            "type": "parcelMachine",
+            "streetAddress": "Raja 5",
+            "locality": "Valga",
+            "postalCode": "68203",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "f6b67ac2-c729-42a3-aca7-a4bfcd4bb211",
+            "name": "Valga Siili Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "A. Neulandi 2",
+            "locality": "Valga",
+            "postalCode": "68207",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "f998d0ea-6f3c-48f8-85bd-ded3a5aa738e",
+            "name": "Viljandi Männimäe Selver",
+            "type": "parcelMachine",
+            "streetAddress": "Riia mnt 35",
+            "locality": "Viljandi",
+            "postalCode": "71002",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "d0a64144-210d-411f-857b-b79ce76ca9e5",
+            "name": "Viljandi Turu Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "Turu 16",
+            "locality": "Viljandi",
+            "postalCode": "71003",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "8eafac22-0669-45f1-a657-afa0d364dc2b",
+            "name": "Viljandi Vaksali Maxima (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Vaksali 11b",
+            "locality": "Viljandi",
+            "postalCode": "71012",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "d58f861a-e5bd-47e4-a6f3-65d13ac8ecce",
+            "name": "PAKIPUNKT Viljandi Ökopesa",
+            "type": "parcelMachine",
+            "streetAddress": "Leola 53",
+            "locality": "Viljandi",
+            "postalCode": "71008",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "45294c09-668a-45bb-bb16-946e7637d1e7",
+            "name": "Abja-Paluoja Konsumi pakimajake (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Pärnu maantee 13",
+            "locality": "Abja-Paluoja",
+            "postalCode": "69403",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "14c046be-95ea-4144-8f6c-38cbc84e037c",
+            "name": "Karksi-Nuia Konsumi pakimajake (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Rahumäe 1",
+            "locality": "Karksi-Nuia",
+            "postalCode": "69103",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "8e45a1bb-f377-44e4-9988-75d5a63aeeac",
+            "name": "Antsla Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Kreutzwaldi 4a",
+            "locality": "Antsla",
+            "postalCode": "66404",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "86d7e32d-8b97-4717-9cb1-a200b1dcccc0",
+            "name": "Vastseliina Konsum (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Võidu 21",
+            "locality": "Vastseliina",
+            "postalCode": "65201",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "74cc2f78-fba5-4161-90c9-7f9191b99717",
+            "name": "Võru Kagukeskus",
+            "type": "parcelMachine",
+            "streetAddress": "Kooli 6",
+            "locality": "Võru",
+            "postalCode": "65606",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "df5df690-23a4-49dd-b552-3cdabbf0b71f",
+            "name": "Võru Maksimarket (valge)",
+            "type": "parcelMachine",
+            "streetAddress": "Jüri 83",
+            "locality": "Võru",
+            "postalCode": "65607",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "0ba23412-ee6e-4b23-82c3-3bcbc913fec2",
+            "name": "Võru Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "Jüri 85",
+            "locality": "Võru",
+            "postalCode": "65607",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "1cd7dded-8295-47fb-9349-6c20058ccef7",
+            "name": "PAKIPUNKT Kuressaare Urr Nurr",
+            "type": "parcelMachine",
+            "streetAddress": "Tallinna 67",
+            "locality": "Kuressaare",
+            "postalCode": "93815",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "cd6e4c97-484a-48e5-b9f5-916a200d2cbf",
+            "name": "PAKIPUNKT Männiku Peetri Pizza",
+            "type": "parcelMachine",
+            "streetAddress": "Männiku tee 100",
+            "locality": "Tallinn",
+            "postalCode": "11215",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "1dfc6cb9-aacf-4b86-91e6-a13695bb28c0",
+            "name": "PAKIPUNKT Pärnu Suurejõe Urr Nurr",
+            "type": "parcelMachine",
+            "streetAddress": "Suur-jõe 57",
+            "locality": "Pärnu",
+            "postalCode": "80042",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "720f18c5-d4c0-41b3-964f-825fa5b24c1b",
+            "name": "PAKIPUNKT Tallinna Kadaka Urr Nurr",
+            "type": "parcelMachine",
+            "streetAddress": "Kadaka tee 56a",
+            "locality": "Tallinn",
+            "postalCode": "12915",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "922c39b5-1204-45b2-97d5-73aad7bb86c2",
+            "name": "PAKIPUNKT Tallinna Sikupilli Urr Nurr",
+            "type": "parcelMachine",
+            "streetAddress": "Tartu mnt 87",
+            "locality": "Tallinn",
+            "postalCode": "10112",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "cfe46418-ae52-4cc0-91fe-228b5fc85189",
+            "name": "PAKIPUNKT Tallinna Vesse Urr Nurr",
+            "type": "parcelMachine",
+            "streetAddress": "Smuuli 43",
+            "locality": "Tallinn",
+            "postalCode": "11415",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "10f18171-163c-4684-a454-b9aed273ae0c",
+            "name": "PAKIPUNKT Tallinna Viimsi Urr Nurr",
+            "type": "parcelMachine",
+            "streetAddress": "Paadi tee 3",
+            "locality": "Viimsi",
+            "postalCode": "74001",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "cd517a41-f236-4b26-ad98-95818fb0c2d8",
+            "name": "PAKIPUNKT Tallinna Virbi Peetri Pizza",
+            "type": "parcelMachine",
+            "streetAddress": "Virbi 8",
+            "locality": "Tallinn",
+            "postalCode": "13629",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "795c0d79-7799-4633-b1d2-88bedb0f92ef",
+            "name": "Paikuse Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "Pärnade pst. 1",
+            "locality": "Paikuse",
+            "postalCode": "86602",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "66a441be-c5dc-4f74-ad94-d4334a11fb65",
+            "name": "PAKIPUNKT Tartu Veeriku Peetri Pizza",
+            "type": "parcelMachine",
+            "streetAddress": "Vitamiini 1",
+            "locality": "Tartu",
+            "postalCode": "51014",
+            "carrierCode": "smartpost"
+        },
+        {
+            "id": "ca75323c-386a-4dd9-875c-14ad7531f31d",
+            "name": "PAKIPUNKT Viljandi Uku MySushi",
+            "type": "parcelMachine",
+            "streetAddress": "Tallinna 41",
+            "locality": "Viljandi",
+            "postalCode": "71020",
+            "carrierCode": "smartpost"
+        }
+    ],
+    "countryCode": "EE"
+}
