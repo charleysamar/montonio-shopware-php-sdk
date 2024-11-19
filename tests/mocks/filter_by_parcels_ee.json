@@ -1,0 +1,39 @@
+{
+    "countries": [
+        {
+            "carriers": [
+                {
+                    "carrierCode": "dpd",
+                    "shippingMethods": [
+                        {
+                            "type": "courier"
+                        },
+                        {
+                            "type": "pickupPoint"
+                        }
+                    ]
+                },
+                {
+                    "carrierCode": "omniva",
+                    "shippingMethods": [
+                        {
+                            "type": "pickupPoint"
+                        }
+                    ]
+                },
+                {
+                    "carrierCode": "smartpost",
+                    "shippingMethods": [
+                        {
+                            "type": "courier"
+                        },
+                        {
+                            "type": "pickupPoint"
+                        }
+                    ]
+                }
+            ],
+            "countryCode": "EE"
+        }
+    ]
+}

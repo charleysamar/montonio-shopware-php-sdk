@@ -1,0 +1,3065 @@
+{
+    "pickupPoints": [
+        {
+            "id": "a3bce489-92ac-4f5d-b8ca-47184b35fb38",
+            "name": "Automaat Tartu Anne Prisma",
+            "type": "parcelMachine",
+            "streetAddress": "NÕLVAKU 2",
+            "locality": "TARTU",
+            "postalCode": "50708",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "1661b4e6-5f10-4ad6-b60f-93764485a4f4",
+            "name": "Automaat Tallinna Pallasti Maxima",
+            "type": "parcelMachine",
+            "streetAddress": "PALLASTI 18",
+            "locality": "TALLINN",
+            "postalCode": "11414",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "63dff600-ad7d-44fa-a5f1-0658c1a416ca",
+            "name": "Automaat Tallinna Balti jaam",
+            "type": "parcelMachine",
+            "streetAddress": "TOOMPUIESTEE 37",
+            "locality": "TALLINN",
+            "postalCode": "10149",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "ce488857-a7c4-4112-ac86-68cd67af0013",
+            "name": "Automaat Ahtme Maleva Grossi kaubad",
+            "type": "parcelMachine",
+            "streetAddress": "MALEVA 23",
+            "locality": "AHTME",
+            "postalCode": "31021",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "b6069168-29cb-4415-b8e1-99b53a1ac8fa",
+            "name": "Automaat Tallinna Kivila Grossi",
+            "type": "parcelMachine",
+            "streetAddress": "KIVILA 26",
+            "locality": "TALLINN",
+            "postalCode": "17014",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "48b419d4-b2a9-498a-b07b-395fe0de9dee",
+            "name": "Automaat Pärnu-Jaagupi Grossi",
+            "type": "parcelMachine",
+            "streetAddress": "UUS 20A",
+            "locality": "PÄRNU-JAAGUPI",
+            "postalCode": "87201",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "0ca6e2ca-56ef-46e2-82f7-eadaff080c48",
+            "name": "Automaat Tallinna Punane 46",
+            "type": "parcelMachine",
+            "streetAddress": "PUNANE 46",
+            "locality": "TALLINN",
+            "postalCode": "17011",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "687ee90e-3a8c-4d4c-b050-01d72c176c4d",
+            "name": "Automaat Elva mini Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "KESK 7",
+            "locality": "ELVA",
+            "postalCode": "61504",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "4b327562-a07d-4918-a5a9-8d3b74a81066",
+            "name": "Automaat Tallinna Kakumäe Selver",
+            "type": "parcelMachine",
+            "streetAddress": "RANNAMÕISA TEE 6",
+            "locality": "TALLINN",
+            "postalCode": "13516",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "11af11f9-5fd0-496a-8ec2-8242d5a2d8d5",
+            "name": "Automaat Tartu Rukkilille Selver",
+            "type": "parcelMachine",
+            "streetAddress": "FRIEDEBERT TUGLASE 14",
+            "locality": "TARTU",
+            "postalCode": "51006",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "5cfc4178-1da0-4097-85ed-4cc34b52bc58",
+            "name": "Automaat Järveküla Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "VANA-TARTU MAANTEE 71",
+            "locality": "PEETRI",
+            "postalCode": "75304",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "6e7509d1-0802-46c0-9784-6a9ac6233303",
+            "name": "Automaat Tallinna Mähe Grossi",
+            "type": "parcelMachine",
+            "streetAddress": "RANDVERE TEE 115A",
+            "locality": "TALLINN",
+            "postalCode": "11913",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "31dfb65c-8c44-40e8-bd55-b419a67789b7",
+            "name": "Automaat Tsirguliina kool",
+            "type": "parcelMachine",
+            "streetAddress": "NOORUSE 1",
+            "locality": "TSIRGULIINA",
+            "postalCode": "68316",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "cdc62eee-0ded-4946-8749-69c2325116ed",
+            "name": "Automaat Tallinna Tööstuse Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "TÖÖSTUSE 103",
+            "locality": "TALLINN",
+            "postalCode": "17002",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "3f42581f-ec9d-4914-bbe9-bc95d849f5dd",
+            "name": "Automaat Tamsalu Maxima X",
+            "type": "parcelMachine",
+            "streetAddress": "KOIDU 16",
+            "locality": "TAMSALU",
+            "postalCode": "46107",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "719a139e-fcb9-4e6c-ad00-212e14b5f6be",
+            "name": "Automaat Tallinna Kalevipoja Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "KALEVIPOJA PÕIK 8",
+            "locality": "TALLINN",
+            "postalCode": "13625",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "17039465-45b8-4809-82a4-9263d52a8935",
+            "name": "Automaat Tallinna Mustika keskus",
+            "type": "parcelMachine",
+            "streetAddress": "KARJAVÄLJA 4",
+            "locality": "TALLINN",
+            "postalCode": "12918",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "c5c3f819-2674-4d0c-aef7-20dfcea1b79f",
+            "name": "Automaat Obinitsa Coop",
+            "type": "parcelMachine",
+            "streetAddress": "OBINITSA",
+            "locality": "OBINITSA",
+            "postalCode": "65301",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "81f15a94-d39e-4933-9694-6f796ee06400",
+            "name": "Automaat Tallinna Vineeri peatus",
+            "type": "parcelMachine",
+            "streetAddress": "PÄRNU MNT 67A",
+            "locality": "TALLINN",
+            "postalCode": "10134",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "9cdad666-57da-42f6-9b5c-c2677941ca99",
+            "name": "Automaat Tallinna Kolde Selver",
+            "type": "parcelMachine",
+            "streetAddress": "SÕLE 31",
+            "locality": "TALLINN",
+            "postalCode": "10321",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "de7e1eaf-6480-4971-9b4f-3b60c9501dfa",
+            "name": "Automaat Ülenurme Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "VÕRU MNT 2",
+            "locality": "ÜLENURME",
+            "postalCode": "61714",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "41a6ede1-ca27-40db-90a5-dfdb37a450f6",
+            "name": "Automaat Emmaste Vallamaja",
+            "type": "parcelMachine",
+            "streetAddress": "VALLAMAJA",
+            "locality": "EMMASTE",
+            "postalCode": "92001",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "4914f2d0-5de5-4dfc-91ca-5e9692721125",
+            "name": "Automaat Haljala Grossi kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "VÕSU MNT 5",
+            "locality": "HALJALA",
+            "postalCode": "45301",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "8f1edb10-b023-4712-aab8-06fcaef61591",
+            "name": "Automaat Võru Maxima XX",
+            "type": "parcelMachine",
+            "streetAddress": "KOOLI 2",
+            "locality": "VÕRU",
+            "postalCode": "65606",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "796b962c-786f-469b-8a5c-cc0ebf1dfb3c",
+            "name": "Automaat Kohtla-Järve Vironia",
+            "type": "parcelMachine",
+            "streetAddress": "JÄRVEKÜLA TEE 50",
+            "locality": "KOHTLA-JÄRVE",
+            "postalCode": "30321",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "4f7a67e4-9323-46da-b004-f51b1c1339d8",
+            "name": "Automaat Viimsi Maxima X",
+            "type": "parcelMachine",
+            "streetAddress": "PARGI TEE 22",
+            "locality": "VIIMSI",
+            "postalCode": "74001",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "044deaa2-b595-4f92-a0dd-3fc5e412d66c",
+            "name": "Automaat Peetri Keskus",
+            "type": "parcelMachine",
+            "streetAddress": "KÜTI TEE 4",
+            "locality": "PEETRI",
+            "postalCode": "75332",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "2a00d7dd-91d2-4a92-8683-af91532fcccb",
+            "name": "Automaat Tallinna Järveotsa Grossi",
+            "type": "parcelMachine",
+            "streetAddress": "JÄRVEOTSA TEE 35B",
+            "locality": "TALLINN",
+            "postalCode": "13520",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "ec41f47b-3cd0-4042-a933-1a40ee6c2779",
+            "name": "Automaat Loksa Grossi kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "ROHUAIA 6",
+            "locality": "LOKSA",
+            "postalCode": "74806",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "9fc94f01-2a07-49a9-8f45-f56942f52ea9",
+            "name": "Automaat Viiratsi Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "SAKALA 3B",
+            "locality": "VIIRATSI",
+            "postalCode": "70101",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "12a6f483-56fc-4a3e-86d7-7c79fd6767f0",
+            "name": "Automaat Taebla kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "PARGI 2",
+            "locality": "TAEBLA",
+            "postalCode": "90801",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "a9fa5ec2-856b-459f-ae56-bbead5756506",
+            "name": "Automaat Pärnu A1000 Market",
+            "type": "parcelMachine",
+            "streetAddress": "KARJA 6",
+            "locality": "PÄRNU",
+            "postalCode": "80018",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "a44460ec-2610-40fc-b172-7a0cc4a7ef8e",
+            "name": "Automaat Saku Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "TALLINNA MNT 4",
+            "locality": "SAKU",
+            "postalCode": "75499",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "085714bf-0403-4257-8cf7-7cb1a04dd99d",
+            "name": "Automaat Võru Koreli Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "RÄPINA MNT 4",
+            "locality": "VÕRU",
+            "postalCode": "65606",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "1cfda8fe-b82d-42e0-a7e6-eebd615e78d6",
+            "name": "Automaat Haiba bussijaam",
+            "type": "parcelMachine",
+            "streetAddress": "HAIBA HALJASALA 3. HAIBA KÜLA",
+            "locality": "HAIBA",
+            "postalCode": "76301",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "d6bb9c70-5cf9-4686-a737-0a00fdcb0534",
+            "name": "Automaat Pagaripoisid Vana-Lõuna",
+            "type": "parcelMachine",
+            "streetAddress": "VANA-LÕUNA 37",
+            "locality": "TALLINN",
+            "postalCode": "17001",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "864bb40c-3b83-4024-9394-742c02353f6f",
+            "name": "Automaat Harkujärve Meie",
+            "type": "parcelMachine",
+            "streetAddress": "LIIVA TEE 2",
+            "locality": "HARKUJÄRVE",
+            "postalCode": "76923",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "f75537b4-eaf4-474d-aa0c-a666b4e5c0e8",
+            "name": "Automaat Kihelkonna kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "LÜMANDA MNT 2",
+            "locality": "KIHELKONNA",
+            "postalCode": "93401",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "f68e39b0-f71d-4a0a-8773-c2dcbee8883d",
+            "name": "Automaat Jüri Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "ARUKÜLA TEE 29",
+            "locality": "JÜRI",
+            "postalCode": "75301",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "d0cf252f-319e-4dad-97b3-352b43c67aae",
+            "name": "Automaat Laagri Veskitammi Selver",
+            "type": "parcelMachine",
+            "streetAddress": "VESKITAMMI 10",
+            "locality": "LAAGRI",
+            "postalCode": "76399",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "1b2ce633-aef1-43aa-a007-f7e78e3306bc",
+            "name": "Automaat Kakumäe Talleke ja Pullike",
+            "type": "parcelMachine",
+            "streetAddress": "KAKUMÄE TEE 42",
+            "locality": "TALLINN",
+            "postalCode": "17009",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "e0191689-2b86-412c-a2c2-81f581291fd5",
+            "name": "Automaat Roela Grossi kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "TARTU MNT 9",
+            "locality": "ROELA",
+            "postalCode": "46602",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "f67fbfae-4b1e-44e1-af54-eee7ac5d3faf",
+            "name": "Automaat Tartu Raatuse ärikeskus",
+            "type": "parcelMachine",
+            "streetAddress": "RAATUSE 20",
+            "locality": "TARTU",
+            "postalCode": "51009",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "2e07f1a6-4a4f-4a0a-91c4-c4c5249d7ded",
+            "name": "Automaat Tallinna Veerenni Synlab",
+            "type": "parcelMachine",
+            "streetAddress": "VEERENNI 53A",
+            "locality": "TALLINN",
+            "postalCode": "10138",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "b1af6561-35e8-4447-b135-ea193ab7bb91",
+            "name": "Automaat J. Vilmsi",
+            "type": "parcelMachine",
+            "streetAddress": "J. VILMSI 47",
+            "locality": "TALLINN",
+            "postalCode": "10115",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "f19b12bb-a5bb-4a94-9340-e544fc9c2231",
+            "name": "Automaat Mõisaküla Coop",
+            "type": "parcelMachine",
+            "streetAddress": "KESK 8",
+            "locality": "MÕISAKÜLA",
+            "postalCode": "69302",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "d78ffda2-1ccc-4c16-9b44-f400cd5fc376",
+            "name": "Automaat Kvissentali Coop",
+            "type": "parcelMachine",
+            "streetAddress": "ARUKÜLA TEE 5",
+            "locality": "TARTU",
+            "postalCode": "50303",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "45947b33-e654-40ea-84c4-5b7793241cea",
+            "name": "Automaat Sillamäe Maxima XX",
+            "type": "parcelMachine",
+            "streetAddress": "AK. PAVLOVI 1",
+            "locality": "SILLAMÄE",
+            "postalCode": "40232",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "5088eee6-ff7a-433c-a339-6537bd217ef9",
+            "name": "Automaat Viljandi Männimäe Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "RIIA MNT 13",
+            "locality": "VILJANDI",
+            "postalCode": "71011",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "c5a06be5-8d32-4c86-a658-85c3012125e1",
+            "name": "Automaat Keila Selver",
+            "type": "parcelMachine",
+            "streetAddress": "PIIRI 12",
+            "locality": "KEILA",
+            "postalCode": "76610",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "742d76c3-eb80-41b3-af7e-843e29c3efc3",
+            "name": "Automaat Kehra Grossi kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "KOSE MNT 7",
+            "locality": "KEHRA",
+            "postalCode": "74307",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "1ee72e99-06ca-4552-bd4f-87ce32cad34e",
+            "name": "Automaat Tõstamaa Food Market",
+            "type": "parcelMachine",
+            "streetAddress": "KALLI MNT 1",
+            "locality": "TÕSTAMAA",
+            "postalCode": "88101",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "fe1ce123-ce92-41ae-8b12-49325c352ccb",
+            "name": "Automaat Väike-Maarja Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "PIKK 12",
+            "locality": "VÄIKE-MAARJA",
+            "postalCode": "46202",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "6efea0a1-7958-4b66-be67-e527204c82af",
+            "name": "Automaat Tallinna Järve keskus",
+            "type": "parcelMachine",
+            "streetAddress": "PÄRNU MNT 238",
+            "locality": "TALLINN",
+            "postalCode": "11624",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "c6cd0911-1efc-4126-8a93-9b52dd5ac9e4",
+            "name": "Automaat Tallinna Torupilli Selver",
+            "type": "parcelMachine",
+            "streetAddress": "VESIVÄRAVA 37",
+            "locality": "TALLINN",
+            "postalCode": "10126",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "da34067b-ba6e-444d-816e-3baa6b117fe1",
+            "name": "Automaat Tallinna Marienthal Selver",
+            "type": "parcelMachine",
+            "streetAddress": "MUSTAMÄE TEE 16",
+            "locality": "TALLINN",
+            "postalCode": "10617",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "e05e16bf-a411-4dc4-a193-a84a7c940448",
+            "name": "Automaat Tartu Anne Maxima XX",
+            "type": "parcelMachine",
+            "streetAddress": "KALDA TEE 15",
+            "locality": "TARTU",
+            "postalCode": "50703",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "839bf2dc-01f7-431d-82dc-ca149f3482ba",
+            "name": "Automaat DPD Eesti peakontor",
+            "type": "parcelMachine",
+            "streetAddress": "TAEVAVÄRAVA TEE 1",
+            "locality": "LEHMJA",
+            "postalCode": "75306",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "41b5ee5f-402d-4e34-ad3e-eb2e6316d337",
+            "name": "Automaat Iisaku Grossi kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "TARTU MNT 55",
+            "locality": "IISAKU",
+            "postalCode": "41101",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "9b56c91b-37ad-4bdf-a45b-b309c666082f",
+            "name": "Automaat Koeru Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "PÄRNA PST 2",
+            "locality": "KOERU",
+            "postalCode": "73001",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "51c3b511-5256-4edd-bd06-e4af1d1c5477",
+            "name": "Automaat Püssi kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "KOOLI 14A",
+            "locality": "PÜSSI",
+            "postalCode": "43222",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "a13616ac-46b8-435b-a7e7-b51609c00064",
+            "name": "Automaat Tallinna Raudalu Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "VILJANDI MNT 41A",
+            "locality": "TALLINN",
+            "postalCode": "11218",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "166c9c59-c530-4857-943c-fda7fe6fc99b",
+            "name": "Automaat Tallinna Narva mnt Selver",
+            "type": "parcelMachine",
+            "streetAddress": "NARVA MNT 23",
+            "locality": "TALLINN",
+            "postalCode": "10120",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "f5f91e86-bf94-4282-9303-ea22b169fb01",
+            "name": "Automaat Uuemõisa Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "TALLINNA MNT 84",
+            "locality": "UUEMÕISA",
+            "postalCode": "90401",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "9c34dbeb-343f-435b-bc13-e4a578f8a0a4",
+            "name": "Automaat Paikuse Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "PÄRNADE PST 1",
+            "locality": "PAIKUSE",
+            "postalCode": "86602",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "bc24e274-06a7-42b7-bc8a-6aff12edf510",
+            "name": "Automaat Ahtme Maxima XX",
+            "type": "parcelMachine",
+            "streetAddress": "PURU TEE 77",
+            "locality": "AHTME",
+            "postalCode": "31023",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "b2bb7160-8cca-4c20-807d-6fdd5412cedf",
+            "name": "Automaat Lihula Ehituskeskus",
+            "type": "parcelMachine",
+            "streetAddress": "TALLINNA MNT 29",
+            "locality": "LIHULA",
+            "postalCode": "90303",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "90a722b6-eb20-486f-b7f3-771e6ee08369",
+            "name": "Automaat Tallinna Hiiu Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "PÄRNU MNT 386",
+            "locality": "TALLINN",
+            "postalCode": "11612",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "a4c9e04b-0f79-4832-ab84-5ccf124043ad",
+            "name": "Automaat Kuressaare Selver",
+            "type": "parcelMachine",
+            "streetAddress": "TALLINNA 67",
+            "locality": "KURESSAARE",
+            "postalCode": "93815",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "b2ac6a48-1fca-4b9f-a66d-a66334891339",
+            "name": "Automaat Tallinna Stroomi keskus",
+            "type": "parcelMachine",
+            "streetAddress": "TUULEMAA 20",
+            "locality": "TALLINN",
+            "postalCode": "10315",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "91406dbe-44d2-4718-80df-3aa78980b9ec",
+            "name": "Automaat Pärnu Maxima XXX",
+            "type": "parcelMachine",
+            "streetAddress": "RIIA MNT 131",
+            "locality": "PÄRNU",
+            "postalCode": "80042",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "86a7503d-7166-4c74-9383-bba40d33d07a",
+            "name": "Automaat Viimsi Selver",
+            "type": "parcelMachine",
+            "streetAddress": "SÕPRUSE TEE 15",
+            "locality": "VIIMSI",
+            "postalCode": "74001",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "c26e20e1-d0b2-451c-9ef4-4ac5884e91ed",
+            "name": "Automaat Narva Prisma",
+            "type": "parcelMachine",
+            "streetAddress": "KANGELASTE PROSPEKT 29",
+            "locality": "NARVA",
+            "postalCode": "20607",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "d8962f56-7095-4dc1-aa54-3d22e7300ddc",
+            "name": "Automaat Tõrva Kevade keskus",
+            "type": "parcelMachine",
+            "streetAddress": "VALGA 3A",
+            "locality": "TÕRVA",
+            "postalCode": "68601",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "4d454af4-adab-443a-8ee3-851598e192ca",
+            "name": "Automaat Saue Maxima X",
+            "type": "parcelMachine",
+            "streetAddress": "LADVA 1A",
+            "locality": "SAUE",
+            "postalCode": "76506",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "05ecfd89-bbbf-47e0-bd6c-aeeb1dd8fbd1",
+            "name": "Automaat Tallinna Vilde Maxima XX",
+            "type": "parcelMachine",
+            "streetAddress": "E. VILDE TEE 75/77",
+            "locality": "TALLINN",
+            "postalCode": "12911",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "f9b040ae-15b9-4e21-8027-c4f5ffdb9760",
+            "name": "Automaat Loo Grossi kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "SAHA TEE 9",
+            "locality": "LOO",
+            "postalCode": "74201",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "bb7277a7-ac2e-45b2-b202-8cbd9c35e825",
+            "name": "Automaat Käina Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "SPORDI 9",
+            "locality": "KÄINA",
+            "postalCode": "92101",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "436df258-f0a2-4853-98ee-5fe2530faba1",
+            "name": "Automaat Nõo Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "TARTU 3A",
+            "locality": "NÕO",
+            "postalCode": "61601",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "227d4cc9-bc9e-484f-9058-de8ad8926e1a",
+            "name": "Automaat Kanepi Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "A. WEIZENBERGI 23",
+            "locality": "KANEPI",
+            "postalCode": "63101",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "ab0be852-a012-4c3e-a4da-4aed286a3044",
+            "name": "Automaat Tallinna Magistrali keskus",
+            "type": "parcelMachine",
+            "streetAddress": "SÕPRUSE PST 201/203",
+            "locality": "TALLINN",
+            "postalCode": "13419",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "e06853d0-9590-4a32-9d65-934842cb235f",
+            "name": "Automaat Rakvere Põhjakeskus",
+            "type": "parcelMachine",
+            "streetAddress": "HALJALA TEE 4",
+            "locality": "RAKVERE",
+            "postalCode": "44415",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "b45d578d-21a8-4b69-8b80-03be64f9bf26",
+            "name": "Automaat Vääna-Jõesuu Meie kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "MÄNNIKU",
+            "locality": "VÄÄNA-JÕESUU",
+            "postalCode": "76909",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "24d908d6-62f0-426a-ad9a-a6d808c3d8f4",
+            "name": "Automaat Tallinna Linnamäe Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "LINNAMÄE TEE 3",
+            "locality": "TALLINN",
+            "postalCode": "17013",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "4e1266db-ea0c-4ffb-97c9-3e50cc71040f",
+            "name": "Automaat Tartu Lembitu Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "LEMBITU 2",
+            "locality": "TARTU",
+            "postalCode": "50406",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "bfbd005c-bda6-4318-9ecd-f0479c91e223",
+            "name": "Automaat Vasalemma Meie kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "JAAMA PÕIK 3",
+            "locality": "VASALEMMA",
+            "postalCode": "76101",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "c1040789-fd60-4789-bfe4-a0cc5cb9572e",
+            "name": "Automaat Tallinna Kaja Maxima X",
+            "type": "parcelMachine",
+            "streetAddress": "E. VILDE TEE 124",
+            "locality": "TALLINN",
+            "postalCode": "12914",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "bdf1ed42-b310-4c6f-a6bf-d4174cf37db1",
+            "name": "Automaat Rõuge A ja O",
+            "type": "parcelMachine",
+            "streetAddress": "VÕRU MNT 10",
+            "locality": "RÕUGE",
+            "postalCode": "66201",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "2b72c665-33a4-4cc0-a981-effd75f0c8cf",
+            "name": "Automaat Tallinna Idakeskus",
+            "type": "parcelMachine",
+            "streetAddress": "PUNANE 16B",
+            "locality": "TALLINN",
+            "postalCode": "13619",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "dbe66d8d-427f-4446-8ad6-86460c59b6c6",
+            "name": "Automaat Paldiski Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "RAE 38",
+            "locality": "PALDISKI",
+            "postalCode": "76805",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "d5ad07ae-6f88-4b79-872a-7402d45a6088",
+            "name": "Automaat Narva Fama Keskus",
+            "type": "parcelMachine",
+            "streetAddress": "FAMA PÕIK 10",
+            "locality": "NARVA",
+            "postalCode": "20303",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "f06e7096-b3f5-4adc-a5d0-f593fcf72df8",
+            "name": "Automaat Tartu Karete Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "JALAKA 34",
+            "locality": "TARTU",
+            "postalCode": "50109",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "04ded583-5b8f-40b8-8ba6-38c9d6600857",
+            "name": "Automaat Jõgeva Selver",
+            "type": "parcelMachine",
+            "streetAddress": "KESK 4",
+            "locality": "JÕGEVA",
+            "postalCode": "48307",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "4df1a4b6-bd1b-4b61-a74b-334ea061f3b6",
+            "name": "Automaat Varstu kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "KESK 17",
+            "locality": "VARSTU",
+            "postalCode": "66101",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "bad5b2ab-4c30-4dcb-839b-22fcda047976",
+            "name": "Automaat Tartu Mõisavahe Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "MÕISAVAHE 34C",
+            "locality": "TARTU",
+            "postalCode": "50708",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "61429fe4-5007-446e-88ae-133c1ef2a620",
+            "name": "Automaat Jõhvi Jewe keskus",
+            "type": "parcelMachine",
+            "streetAddress": "NARVA MAANTEE 8",
+            "locality": "JÕHVI",
+            "postalCode": "41536",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "024deb7f-a8b0-4201-9dee-0d675a616957",
+            "name": "Automaat Tartu Raadi Maxima",
+            "type": "parcelMachine",
+            "streetAddress": "NARVA MAANTEE 112",
+            "locality": "TARTU",
+            "postalCode": "50303",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "b4cdf4b8-ce79-474b-91fd-3d0bf4d4877b",
+            "name": "Automaat Tallinna Õismäe Maxima XX",
+            "type": "parcelMachine",
+            "streetAddress": "ÕISMÄE TEE 46",
+            "locality": "TALLINN",
+            "postalCode": "13512",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "4fc15029-1b1a-47dd-9c06-46817fe61f4a",
+            "name": "Automaat Mustvee Grossi kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "TÄHE 9",
+            "locality": "MUSTVEE",
+            "postalCode": "49603",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "e813b7cd-12c8-4f3d-8fef-87dbaf2180e8",
+            "name": "Automaat Jüri Grossi kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "ARUKÜLA TEE 7",
+            "locality": "JÜRI",
+            "postalCode": "75301",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "4d94a97a-dc58-4933-afd6-0a4e1cc8ba80",
+            "name": "Automaat Tallinna Viru terminal",
+            "type": "parcelMachine",
+            "streetAddress": "VIRU VÄLJAK 4",
+            "locality": "TALLINN",
+            "postalCode": "10111",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "6f3c1ee1-267f-4f88-a157-f95a64bbc8ea",
+            "name": "Automaat Tõrvandi Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "MÜÜRSEPA 1",
+            "locality": "TÕRVANDI",
+            "postalCode": "61715",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "07fb401a-3df9-4202-b55e-1828ddb26a7f",
+            "name": "Automaat Saverna Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "TEERISTI",
+            "locality": "SAVERNA",
+            "postalCode": "63418",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "6e489627-2241-4de6-8537-96499a43c85d",
+            "name": "Automaat Paide Maksimarket",
+            "type": "parcelMachine",
+            "streetAddress": "RINGTEE 2",
+            "locality": "PAIDE",
+            "postalCode": "72751",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "1a4286eb-3445-4222-b9bc-eb1f3e78f5ce",
+            "name": "Automaat Tallinna Stockmann",
+            "type": "parcelMachine",
+            "streetAddress": "LIIVALAIA 53",
+            "locality": "TALLINN",
+            "postalCode": "10145",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "3626aa0e-64f9-4352-aefa-69cb54b44828",
+            "name": "Automaat Tartu bussijaam",
+            "type": "parcelMachine",
+            "streetAddress": "TURU 2",
+            "locality": "TARTU",
+            "postalCode": "51004",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "f40dbb41-0349-4a57-af93-02ac2fa22de5",
+            "name": "Automaat Pärnu Keskus",
+            "type": "parcelMachine",
+            "streetAddress": "LAI 5",
+            "locality": "PÄRNU",
+            "postalCode": "80011",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "aad0fc07-55da-42ee-a1c1-7fbf84193d60",
+            "name": "Automaat Linnamäe Coop",
+            "type": "parcelMachine",
+            "streetAddress": "LINNAMÄE",
+            "locality": "LINNAMÄE",
+            "postalCode": "91001",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "c22a79f9-2925-4921-8515-c9bf980a4218",
+            "name": "Automaat Narva Kreenholmi Maxima XX",
+            "type": "parcelMachine",
+            "streetAddress": "KREENHOLMI 52",
+            "locality": "NARVA",
+            "postalCode": "20104",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "fdc6f735-1ee2-4910-b46d-5ff8dd5f340b",
+            "name": "Automaat Peetri Selver",
+            "type": "parcelMachine",
+            "streetAddress": "VEESAARE 2",
+            "locality": "PEETRI",
+            "postalCode": "75312",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "bdebaf88-a0f0-4213-90b0-24ce2dde4989",
+            "name": "Automaat Rõõmu Kaubamaja",
+            "type": "parcelMachine",
+            "streetAddress": "HAAPSALU MNT 57B",
+            "locality": "KEILA",
+            "postalCode": "76607",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "3adcc01b-cba2-4134-80eb-6e4aa232dea6",
+            "name": "Automaat Kohtla-Järve Virula keskus",
+            "type": "parcelMachine",
+            "streetAddress": "KESKALLEE 1",
+            "locality": "KOHTLA-JÄRVE",
+            "postalCode": "30325",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "a99c2fc2-7006-4ca9-b79a-3e0ca19d75fe",
+            "name": "Automaat Kunda Grossi kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "KASEMÄE 12",
+            "locality": "KUNDA",
+            "postalCode": "44107",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "a64f1002-6835-4f87-92f9-21ce7edbb9e6",
+            "name": "Automaat Kohtla-Nõmme kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "KOOLI TN 2",
+            "locality": "KOHTLA-NÕMME",
+            "postalCode": "30503",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "c6a92cc8-ba2a-4594-9e01-42c81c0a8988",
+            "name": "Automaat Muhu Liiva Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "LIIVA",
+            "locality": "LIIVA",
+            "postalCode": "94701",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "5715d98a-b93b-411a-9773-42cdf80956c7",
+            "name": "Automaat Pärnu Oja Selver",
+            "type": "parcelMachine",
+            "streetAddress": "LIBLIKA 6",
+            "locality": "PÄRNU",
+            "postalCode": "80040",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "cb4c84b3-ea98-4e65-89c1-2e155fb6aed5",
+            "name": "Automaat Elva Maxima X",
+            "type": "parcelMachine",
+            "streetAddress": "VALGA MNT 5",
+            "locality": "ELVA",
+            "postalCode": "61504",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "683e415e-d5f6-4e15-a45f-fd31fe99fda2",
+            "name": "Automaat Tapa Maxima X",
+            "type": "parcelMachine",
+            "streetAddress": "PIKK 33",
+            "locality": "TAPA",
+            "postalCode": "45106",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "7ecfd7cf-0565-4e1b-b3fe-630f6e474437",
+            "name": "Automaat Valga Siili keskus",
+            "type": "parcelMachine",
+            "streetAddress": "A. NEULANDI 2",
+            "locality": "VALGA",
+            "postalCode": "68207",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "a5a55b67-683f-4ff9-9380-ce664870dbe0",
+            "name": "Automaat Rummu",
+            "type": "parcelMachine",
+            "streetAddress": "HAAPSALU MNT 14",
+            "locality": "RUMMU",
+            "postalCode": "76102",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "d662430c-feab-4d63-b23c-aa3d47972f22",
+            "name": "Automaat Ülemiste City Selver",
+            "type": "parcelMachine",
+            "streetAddress": "SEPAPAJA 2",
+            "locality": "TALLINN",
+            "postalCode": "11416",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "27465893-ef32-48e0-a73e-3ceedb406616",
+            "name": "Automaat Sindi Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "JAAMA 8",
+            "locality": "SINDI",
+            "postalCode": "86705",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "6a982bd5-82ee-4c13-9ffa-e5f51dcf8c0d",
+            "name": "Automaat Tallinna Põhja Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "PÕHJA PST 17",
+            "locality": "TALLINN",
+            "postalCode": "10414",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "e5764df6-9045-47bd-a1cb-7104a66b20be",
+            "name": "Automaat Tallinna Kärberi Keskus",
+            "type": "parcelMachine",
+            "streetAddress": "KÄRBERI 20",
+            "locality": "TALLINN",
+            "postalCode": "13919",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "61f506ee-4011-4926-ba1d-4ba9bbd16627",
+            "name": "Automaat Kiviõli K5 keskus",
+            "type": "parcelMachine",
+            "streetAddress": "METSA 2",
+            "locality": "KIVIÕLI",
+            "postalCode": "43125",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "77e831af-9428-43dd-8350-7bdfa3915c45",
+            "name": "Automaat Narva Tiimanni Maxima XX",
+            "type": "parcelMachine",
+            "streetAddress": "TIIMANNI 20",
+            "locality": "NARVA",
+            "postalCode": "21004",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "02421be1-0e1c-4d0b-8b31-268d4fecc9e6",
+            "name": "Automaat Tallinna Akadeemia Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "AKADEEMIA TEE 35",
+            "locality": "TALLINN",
+            "postalCode": "12618",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "38fb219c-a859-4830-b1f7-f42824bc55a1",
+            "name": "Automaat Pärnu Kaubamajakas",
+            "type": "parcelMachine",
+            "streetAddress": "PAPINIIDU 8",
+            "locality": "PÄRNU",
+            "postalCode": "80010",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "51ab9eb5-7a0d-402b-9964-1b2d5abc5e92",
+            "name": "Automaat Tallinna Magdaleena",
+            "type": "parcelMachine",
+            "streetAddress": "PÄRNU MNT 106",
+            "locality": "TALLINN",
+            "postalCode": "11312",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "1a4d68c4-d779-4e4b-bd6c-e97ed393ef87",
+            "name": "Automaat Tallinna Paepargi Maxima",
+            "type": "parcelMachine",
+            "streetAddress": "PAEPARGI 57",
+            "locality": "TALLINN",
+            "postalCode": "11417",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "188fa3f0-139b-468a-ae68-92aa6a3b47d7",
+            "name": "Automaat Valga Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "RIIA 18",
+            "locality": "VALGA",
+            "postalCode": "68203",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "92ac2741-e3fb-447d-9b68-1696fd52e1fd",
+            "name": "Automaat Klooga Kultuurikeskus",
+            "type": "parcelMachine",
+            "streetAddress": "AEDLINNA TEE 3",
+            "locality": "KLOOGA",
+            "postalCode": "76703",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "cdb6aa3b-7b47-4833-8978-3f2db31a5364",
+            "name": "Automaat Orissaare Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "KUIVASTU MNT 28",
+            "locality": "ORISSAARE",
+            "postalCode": "94601",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "7c8d342b-7e4b-4685-8679-2bddb34fdc10",
+            "name": "Automaat Vastseliina Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "VÕIDU 21",
+            "locality": "VASTSELIINA",
+            "postalCode": "65201",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "17409ab9-20be-476e-9f4e-9d98c120c6b4",
+            "name": "Automaat Muraste Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "LEE TEE 1",
+            "locality": "MURASTE",
+            "postalCode": "76905",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "fb9fea6a-380a-45a0-b5c4-fbaad3bb29d8",
+            "name": "Automaat Avinurme Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "VÕIDU 18",
+            "locality": "AVINURME",
+            "postalCode": "42101",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "6a9ee03a-a914-4ae6-b3f7-d012b234494d",
+            "name": "Automaat Narva-Jõesuu Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "J. POSKA 26",
+            "locality": "NARVA-JÕESUU",
+            "postalCode": "29023",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "9a2e0156-4f5c-49bf-8b65-6d457b3ec672",
+            "name": "Automaat Tallinna Linnamäe Maxima",
+            "type": "parcelMachine",
+            "streetAddress": "LINNAMÄE TEE 57",
+            "locality": "TALLINN",
+            "postalCode": "13911",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "db2175a9-43fe-4749-aeb6-56ef5a75e291",
+            "name": "Automaat Tabasalu Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "KLOOGA MAANTEE 10B",
+            "locality": "TABASALU",
+            "postalCode": "76901",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "76897a28-1d58-42a1-8961-9b318823b629",
+            "name": "Automaat Põltsamaa Grossi kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "TARTU MAANTEE 1B",
+            "locality": "PÕLTSAMAA",
+            "postalCode": "48105",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "83b8eee4-726b-4be0-adb5-c1e1c5ce891c",
+            "name": "Automaat Tallinna Paasiku Grossi",
+            "type": "parcelMachine",
+            "streetAddress": "PAASIKU 2A",
+            "locality": "TALLINN",
+            "postalCode": "13915",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "66e59cba-f884-4e51-8ae7-545bbb62229e",
+            "name": "Automaat Sauga Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "KULDNOKA 1",
+            "locality": "SAUGA",
+            "postalCode": "85008",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "cf292129-f206-452e-96db-4f43473cb047",
+            "name": "Automaat Tallinna Keskturu parkla",
+            "type": "parcelMachine",
+            "streetAddress": "KELDRIMÄE 9",
+            "locality": "TALLINN",
+            "postalCode": "10113",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "0b863c1c-6d6e-4a4c-b94a-9fab540e4aa9",
+            "name": "Automaat Viljandi bussijaam",
+            "type": "parcelMachine",
+            "streetAddress": "ILMARISE 1",
+            "locality": "VILJANDI",
+            "postalCode": "71007",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "74927de1-451f-41d7-b1fc-22098ba6bcee",
+            "name": "Automaat Tallinna Nurmenuku keskus",
+            "type": "parcelMachine",
+            "streetAddress": "ÕISMÄE TEE 1B",
+            "locality": "TALLINN",
+            "postalCode": "13514",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "79656d38-dc4a-40c3-93b7-b1695f6010ca",
+            "name": "Automaat Pärnu Jannseni Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "J. V. JANNSENI 3",
+            "locality": "PÄRNU",
+            "postalCode": "80032",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "93ca7248-1b49-4c92-9a99-6541486a5baf",
+            "name": "Automaat Tartu Märja Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "AISA 2",
+            "locality": "TARTU",
+            "postalCode": "61406",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "5bbf0f45-d461-4aeb-9822-7a4681357f1c",
+            "name": "Automaat Muuga Maxima",
+            "type": "parcelMachine",
+            "streetAddress": "MUUGA TEE 108",
+            "locality": "MUUGA",
+            "postalCode": "74117",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "951b67da-4d23-4a44-bfbf-cfac63e2562c",
+            "name": "Automaat Tiskre Prisma",
+            "type": "parcelMachine",
+            "streetAddress": "LIIVA TEE 61",
+            "locality": "TISKRE",
+            "postalCode": "76924",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "4b866e1d-b48c-4a76-9ce6-1cace4edc872",
+            "name": "Automaat Tallinna Kopli 69B Maxima",
+            "type": "parcelMachine",
+            "streetAddress": "KOPLI 69B",
+            "locality": "TALLINN",
+            "postalCode": "10313",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "422fd5f7-c9c1-40bc-a5ff-8ac62194dd53",
+            "name": "Automaat Tallinna Pääsküla Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "PÄRNU MNT 453E",
+            "locality": "TALLINN",
+            "postalCode": "10916",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "8e3afbdf-a77b-4afc-9cf2-aa98fee67d9f",
+            "name": "Automaat Paide Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "AIAVILJA 2",
+            "locality": "PAIDE",
+            "postalCode": "72720",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "0fdfaac1-f87a-4761-8a00-7deecd315725",
+            "name": "Automaat Palamuse Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "UUS 14",
+            "locality": "PALAMUSE",
+            "postalCode": "49226",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "5b315c00-a7c0-4aa0-ace3-b058308eb0a5",
+            "name": "Automaat Harju-risti Meie kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "KAUPLUSE",
+            "locality": "HARJU-RISTI",
+            "postalCode": "76002",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "27e221bb-ed5b-47da-9cc1-ae5fa8c193f7",
+            "name": "Automaat Audru Meie kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "AUDRU-VALGERANNA 1",
+            "locality": "AUDRU",
+            "postalCode": "88301",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "100fb743-34b9-46f9-89e0-9319d67c5bcf",
+            "name": "Automaat Kuressaare WOW keskus",
+            "type": "parcelMachine",
+            "streetAddress": "MERIKOTKA 1",
+            "locality": "KURESSAARE",
+            "postalCode": "93810",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "3e1b4153-c3a7-4918-adf6-907974335958",
+            "name": "Automaat Jõhvi Maxima XX",
+            "type": "parcelMachine",
+            "streetAddress": "RAKVERE 29",
+            "locality": "JÕHVI",
+            "postalCode": "41533",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "92cbbd75-4bcc-466c-9920-9263dd598ef2",
+            "name": "Automaat Kohila Grossi kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "VILJANDI MNT 3A",
+            "locality": "KOHILA",
+            "postalCode": "79805",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "f3f7036e-e7d5-4718-82c9-2e91c3af38e2",
+            "name": "Automaat Tallinna Pirita keskus",
+            "type": "parcelMachine",
+            "streetAddress": "MERIVÄLJA TEE 24",
+            "locality": "TALLINN",
+            "postalCode": "12112",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "ed17d5f7-53f1-4729-9ad2-4bf0bf0d9f35",
+            "name": "Automaat Tartu Eedeni keskus",
+            "type": "parcelMachine",
+            "streetAddress": "KALDA TEE 1C",
+            "locality": "TARTU",
+            "postalCode": "50703",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "a4ccc679-6d19-4c72-bc19-22f9c7a1bb5f",
+            "name": "Automaat Sõmeru kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "PUIESTEE 6",
+            "locality": "SÕMERU",
+            "postalCode": "44201",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "d9f6f584-09d9-4524-b2ab-ad43eb549d34",
+            "name": "Automaat Salme Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "SÕRVE MNT 2",
+            "locality": "SALME",
+            "postalCode": "93201",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "2a616cce-77b3-4c4e-8f50-d741833c6be7",
+            "name": "Automaat Tallinna Jannseni Maxima",
+            "type": "parcelMachine",
+            "streetAddress": "VABADUSE PST 128",
+            "locality": "TALLINN",
+            "postalCode": "10918",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "ae9a569c-1740-466f-a811-22f8be32fee9",
+            "name": "Automaat Vastse-Kuuste Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "KESKTÄNAV 16",
+            "locality": "VASTSE-KUUSTE",
+            "postalCode": "63601",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "d69ebdc7-1eea-4f1d-bd9e-8c806f83c507",
+            "name": "Automaat Haaslava Meie",
+            "type": "parcelMachine",
+            "streetAddress": "HAASLAVA",
+            "locality": "HAASLAVA",
+            "postalCode": "62107",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "af9e4378-0c5b-482b-8958-4c39e096fc2f",
+            "name": "Automaat Sangaste",
+            "type": "parcelMachine",
+            "streetAddress": "VALGA MNT 11",
+            "locality": "SANGASTE",
+            "postalCode": "67013",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "e1cb74b0-a31e-4057-8f2f-ef594eece771",
+            "name": "Automaat Treppoja kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "TUULNA",
+            "locality": "TUULNA",
+            "postalCode": "76710",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "1604fb07-af1f-4ea0-aa8f-c74e90bed244",
+            "name": "Automaat Tartu Ringtee Selver",
+            "type": "parcelMachine",
+            "streetAddress": "TEEMANDI 2",
+            "locality": "TARTU",
+            "postalCode": "50415",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "5a52798a-a366-4b51-a16c-0a6476227457",
+            "name": "Automaat Tartu Sõbrakeskus",
+            "type": "parcelMachine",
+            "streetAddress": "VÕRU 55 F",
+            "locality": "TARTU",
+            "postalCode": "50410",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "b93c09ee-ca6e-4600-89df-8edd74e65029",
+            "name": "Automaat Toila Meie kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "PIKK 18A",
+            "locality": "TOILA",
+            "postalCode": "41702",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "0fe0d745-60c0-45f1-907d-4f761b6a3642",
+            "name": "Automaat Saku Selver",
+            "type": "parcelMachine",
+            "streetAddress": "ÜKSNURME TEE 2",
+            "locality": "SAKU",
+            "postalCode": "75501",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "ed2f2a75-be2a-406e-9e8a-346fac9bf663",
+            "name": "Automaat Tallinna Smuuli Maxima XX",
+            "type": "parcelMachine",
+            "streetAddress": "J. SMUULI TEE 9",
+            "locality": "TALLINN",
+            "postalCode": "13628",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "ef8c9370-aec3-4061-bdb6-f5a80400f1e3",
+            "name": "Automaat Tartu Veeriku Selver",
+            "type": "parcelMachine",
+            "streetAddress": "VITAMIINI 1",
+            "locality": "TARTU",
+            "postalCode": "50412",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "fc942aca-bb5d-45a7-87ff-12711772585f",
+            "name": "Automaat Märjamaa Maxima X",
+            "type": "parcelMachine",
+            "streetAddress": "KASTI TEE 1/3",
+            "locality": "MÄRJAMAA",
+            "postalCode": "78302",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "580fb493-6f70-416d-9dcc-85941905e95c",
+            "name": "Automaat Raasiku Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "TALLINNA MNT 19/3",
+            "locality": "RAASIKU",
+            "postalCode": "75203",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "87357e83-e262-4103-bc33-d982975dfaf1",
+            "name": "Automaat Aruküla Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "TALLINNA MNT 8",
+            "locality": "ARUKÜLA",
+            "postalCode": "75201",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "dea89ab1-ab4c-48fe-896f-8599f1c286d0",
+            "name": "Automaat Alatskivi Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "LOSSI 1A",
+            "locality": "ALATSKIVI",
+            "postalCode": "60201",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "38b6e438-6e8d-44ea-a5e9-cfb9842dea12",
+            "name": "Automaat Ihaste Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "KASESALU TEE 51",
+            "locality": "IHASTE",
+            "postalCode": "62220",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "71eed809-5f31-4ce7-bccc-8fe8811482a6",
+            "name": "Automaat Puurmani Coop",
+            "type": "parcelMachine",
+            "streetAddress": "JÕGEVA MNT 1",
+            "locality": "PUURMANI",
+            "postalCode": "49014",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "9f9b5672-8677-4fa0-b9cd-fe0dcd70a80a",
+            "name": "Automaat Värska kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "JÄRVESUU 2A",
+            "locality": "VÄRSKA",
+            "postalCode": "64001",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "b31a75f1-424f-406c-b8a2-487e8f20f86b",
+            "name": "Automaat Rakvere kesklinna Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "E. VILDE TEE 8",
+            "locality": "RAKVERE",
+            "postalCode": "44310",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "46ca53ac-966a-4834-9f09-46e03b4eb9ae",
+            "name": "Automaat Veskimöldre Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "INSTITUUDI TEE 132",
+            "locality": "LAAGRI",
+            "postalCode": "76400",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "79f2a236-c286-4b7e-b558-212f2b7fc801",
+            "name": "Automaat Rakke Meie kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "FR. R. FAEHLMANNI TEE 15",
+            "locality": "RAKKE",
+            "postalCode": "46301",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "51d2ef44-3646-491a-bafa-60c979e13941",
+            "name": "Automaat Tartu Kivilinna Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "JAAMA 173",
+            "locality": "TARTU",
+            "postalCode": "50605",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "698dc53c-06ee-4156-98eb-f230fd61d179",
+            "name": "Automaat Lähte kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "POE 4/1",
+            "locality": "LÄHTE",
+            "postalCode": "60502",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "bdadd4af-b3d2-4182-8a27-fa8e9c70e00a",
+            "name": "Automaat Kuressaare mini-Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "KIHELKONNA MNT 3",
+            "locality": "KURESSAARE",
+            "postalCode": "93810",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "6cda5b6e-3fd5-486c-bdad-35f31c92be1a",
+            "name": "Automaat Türi Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "PAIDE 26",
+            "locality": "TÜRI",
+            "postalCode": "72211",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "d7404f3b-df41-4d6d-a0c2-4e0499710e5a",
+            "name": "Automaat Tallinna Kristiine keskus",
+            "type": "parcelMachine",
+            "streetAddress": "ENDLA 45",
+            "locality": "TALLINN",
+            "postalCode": "10615",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "08a8ade5-c32f-4c1b-93b3-b18e6e1651f4",
+            "name": "Automaat Tallinna Telia WoHo",
+            "type": "parcelMachine",
+            "streetAddress": "MUSTAMÄE TEE 3",
+            "locality": "TALLINN",
+            "postalCode": "10616",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "46cc05a3-b8eb-4a2d-aa07-2a53136423a6",
+            "name": "Automaat Luige ärikeskus",
+            "type": "parcelMachine",
+            "streetAddress": "VILJANDI MNT 168",
+            "locality": "LUIGE",
+            "postalCode": "75404",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "e734e4d5-1ab6-4f42-8c11-878df0533011",
+            "name": "Automaat Roosna-Alliku kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "JÄRVE TEE 1",
+            "locality": "ROOSNA-ALLIKU",
+            "postalCode": "73201",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "ef0055c5-f956-4bf5-a5f3-efb417d4e71c",
+            "name": "Automaat Tori bussijaam",
+            "type": "parcelMachine",
+            "streetAddress": "VÕLLI TEE 2",
+            "locality": "TORI",
+            "postalCode": "86801",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "9fa88778-5eaf-4799-9499-b8ba808bd380",
+            "name": "Automaat Tallinna Lasnamäe Centrum",
+            "type": "parcelMachine",
+            "streetAddress": "MUSTAKIVI TEE 13",
+            "locality": "TALLINN",
+            "postalCode": "17012",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "256edc09-b837-4ba7-8012-db49ec6c440f",
+            "name": "Automaat Tapa Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "KALMISTU 3",
+            "locality": "TAPA",
+            "postalCode": "45108",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "80b7f775-bd31-40ca-a812-da628e0ac40d",
+            "name": "Automaat Ääsmäe Meie kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "KOPLI TEE 1",
+            "locality": "ÄÄSMÄE",
+            "postalCode": "76402",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "f6d4da62-cbd0-4d64-bbe2-def24e9ed247",
+            "name": "Automaat Kallaste A ja O",
+            "type": "parcelMachine",
+            "streetAddress": "OJA 16",
+            "locality": "KALLASTE",
+            "postalCode": "60103",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "f120e159-37c9-441b-8c37-cd5059c0c462",
+            "name": "Automaat Ardu kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "KESK TEE 6",
+            "locality": "ARDU",
+            "postalCode": "75001",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "e69271b1-5be9-48df-bf7b-c6817fc1919b",
+            "name": "Automaat Solarise Keskus",
+            "type": "parcelMachine",
+            "streetAddress": "ESTONIA PST 9",
+            "locality": "TALLINN",
+            "postalCode": "11314",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "777f44d5-1f9e-4d45-bceb-8fb863d9ea1b",
+            "name": "Automaat Pääsküla Realkeskus",
+            "type": "parcelMachine",
+            "streetAddress": "PÄRNU MNT 421",
+            "locality": "TALLINN",
+            "postalCode": "10913",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "e777cfd7-9288-4ce4-a504-aa4c88f17594",
+            "name": "Automaat Mööblimaja",
+            "type": "parcelMachine",
+            "streetAddress": "MULLA 1",
+            "locality": "TALLINN",
+            "postalCode": "10611",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "f40531a7-c63f-49ed-8f6a-d5e75b8c2a01",
+            "name": "Automaat Külitse Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "KIIGEMÄE TEE 2",
+            "locality": "KÜLITSE",
+            "postalCode": "61702",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "7542c2a7-8ac2-404e-aeee-f881ac5d437d",
+            "name": "Automaat Põlva Selver",
+            "type": "parcelMachine",
+            "streetAddress": "JAAMA 12",
+            "locality": "PÕLVA",
+            "postalCode": "63303",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "134e332e-8df8-49c1-8780-d937379de8b3",
+            "name": "Automaat Tartu Riiamäe Alexela",
+            "type": "parcelMachine",
+            "streetAddress": "ERA 2",
+            "locality": "TARTU",
+            "postalCode": "51010",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "78972a65-8fb5-49d5-b0cb-0c593d1f10e0",
+            "name": "Automaat Mustla Konsumi",
+            "type": "parcelMachine",
+            "streetAddress": "POSTI 52A",
+            "locality": "MUSTLA",
+            "postalCode": "69701",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "697e1c83-e510-482a-8f1b-661c80d6aa83",
+            "name": "Automaat Mai Selver",
+            "type": "parcelMachine",
+            "streetAddress": "PAPINIIDU 42",
+            "locality": "PÄRNU",
+            "postalCode": "80025",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "b05e11ca-8cdf-40ab-a982-ab205c804285",
+            "name": "Automaat Tootsi Coopi",
+            "type": "parcelMachine",
+            "streetAddress": "KESK 7",
+            "locality": "TOOTSI",
+            "postalCode": "87501",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "f234a452-54c0-4e79-aa9e-71167565b744",
+            "name": "Automaat Lasnamäe Coop",
+            "type": "parcelMachine",
+            "streetAddress": "J. SMUULI TEE 43",
+            "locality": "TALLINN",
+            "postalCode": "17006",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "e23b4939-c61b-4ab8-8e1d-8fb0e892e8a1",
+            "name": "Automaat Kadrina Grossi kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "VIRU 9",
+            "locality": "KADRINA",
+            "postalCode": "45201",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "7e9cddc1-34de-41aa-be52-6caaa7324b09",
+            "name": "Automaat Aegviidu Raamatukogu",
+            "type": "parcelMachine",
+            "streetAddress": "PIIBE MNT 13",
+            "locality": "AEGVIIDU",
+            "postalCode": "74501",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "0c5036dd-28b0-40a2-ba75-94df52b7ed33",
+            "name": "Automaat Haapsalu Kastani keskus",
+            "type": "parcelMachine",
+            "streetAddress": "KUUSE 28",
+            "locality": "HAAPSALU",
+            "postalCode": "90509",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "80d7d373-58d5-4318-aa37-1d9f5363344e",
+            "name": "Automaat Tallinna Männiku Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "MÄNNIKU TEE 100",
+            "locality": "TALLINN",
+            "postalCode": "11215",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "a1b866b0-6d7a-4dec-beb8-18d60c4420d3",
+            "name": "Automaat Narva Megamarket",
+            "type": "parcelMachine",
+            "streetAddress": "RAKVERE 71",
+            "locality": "NARVA",
+            "postalCode": "20607",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "c9aa269e-728d-4830-a31d-f4032bb2b9bc",
+            "name": "Automaat Aseri Grossi kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "TEHASE 23",
+            "locality": "ASERI",
+            "postalCode": "43401",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "955ff4ea-4920-4dc1-bee6-60edee05a476",
+            "name": "Automaat Keila Maxima X",
+            "type": "parcelMachine",
+            "streetAddress": "TALLINNA MNT 25",
+            "locality": "KEILA",
+            "postalCode": "76608",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "3013b60c-33fc-49c1-a194-a64c1e955e69",
+            "name": "Automaat Tallinna Mustamäe keskus",
+            "type": "parcelMachine",
+            "streetAddress": "A. H. TAMMSAARE TEE 104A",
+            "locality": "TALLINN",
+            "postalCode": "17008",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "9b81df86-0b70-4e22-924b-6f337236b7ca",
+            "name": "Automaat Tartu Raadimõisa Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "KAUPMEHE 2",
+            "locality": "TARTU",
+            "postalCode": "60532",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "e9a9bf8a-e9eb-42ed-af13-5eec0d7fc15c",
+            "name": "Automaat Tallinna Pelgulinna Selver",
+            "type": "parcelMachine",
+            "streetAddress": "SÕLE 51",
+            "locality": "TALLINN",
+            "postalCode": "10318",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "a78f8e61-974a-4a86-9690-bba15f28b409",
+            "name": "Automaat Rakvere Raja Grossi kaubad",
+            "type": "parcelMachine",
+            "streetAddress": "ILU PUIESTEE 2",
+            "locality": "RAKVERE",
+            "postalCode": "44314",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "051c2b24-404d-47ac-b9d7-c0776f54fe37",
+            "name": "Automaat Tallinna Nautica keskus",
+            "type": "parcelMachine",
+            "streetAddress": "AHTRI 9",
+            "locality": "TALLINN",
+            "postalCode": "10151",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "faba78be-611f-4d6c-9799-be1414718bdd",
+            "name": "Automaat Maardu Pärli keskus",
+            "type": "parcelMachine",
+            "streetAddress": "NURGA 3",
+            "locality": "MAARDU",
+            "postalCode": "74113",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "9f92072f-0ea5-47f3-ae5b-554824a90c99",
+            "name": "Automaat Palivere kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "LÄHTRU TEE 2",
+            "locality": "PALIVERE",
+            "postalCode": "90802",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "a80ccc81-4e6c-4a5d-9ab5-772fdb63ab43",
+            "name": "Automaat Tallinna Tammsaare Ärimaja",
+            "type": "parcelMachine",
+            "streetAddress": "A. H. TAMMSAARE TEE 47",
+            "locality": "TALLINN",
+            "postalCode": "17005",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "84507c51-4959-4454-a632-10a24457519f",
+            "name": "Automaat Lohkva spordihoone",
+            "type": "parcelMachine",
+            "streetAddress": "KABINA TEE 14",
+            "locality": "LOHKVA",
+            "postalCode": "62207",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "b47b8e68-e477-4168-94e2-c8ca24777e13",
+            "name": "Automaat Vaala Keskus",
+            "type": "parcelMachine",
+            "streetAddress": "LÕÕTSPILLI 2",
+            "locality": "RAKVERE",
+            "postalCode": "44313",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "bca4c660-21c0-4d16-8419-c41e7db3c572",
+            "name": "Automaat Tähe Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "TÄHE 19",
+            "locality": "TARTU",
+            "postalCode": "50103",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "4e1b3c4c-35e4-4fcd-8a02-22086c233f69",
+            "name": "Automaat Imavere Meie kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "RUKKILILLE",
+            "locality": "IMAVERE",
+            "postalCode": "72401",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "0fcc3992-4c29-4ae9-b8cb-e7eb3f0432ce",
+            "name": "Automaat Rapla Selver",
+            "type": "parcelMachine",
+            "streetAddress": "TALLINNA MAANTEE 4",
+            "locality": "RAPLA",
+            "postalCode": "79511",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "30059dce-b5bb-4496-9dc3-d3f85908dca5",
+            "name": "Automaat Kiili Maxima X",
+            "type": "parcelMachine",
+            "streetAddress": "VAELA TEE 4",
+            "locality": "KIILI",
+            "postalCode": "75401",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "b246fc50-929e-4361-84c0-f7b97b65fe76",
+            "name": "Automaat Maardu Maxima XX",
+            "type": "parcelMachine",
+            "streetAddress": "KEEMIKUTE 2",
+            "locality": "MAARDU",
+            "postalCode": "74116",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "d7f58487-05d4-4573-a00f-e260c860f40f",
+            "name": "Automaat Kose Grossi kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "KODU 2",
+            "locality": "KOSE",
+            "postalCode": "75101",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "fb013f95-90b7-4662-8ec9-08ce843f5b4d",
+            "name": "Automaat Tallinna Sõpruse Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "SÕPRUSE PST 174",
+            "locality": "TALLINN",
+            "postalCode": "13424",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "d277a76b-fecc-46b7-abc0-57550cf72b72",
+            "name": "Automaat Kärdla Selver",
+            "type": "parcelMachine",
+            "streetAddress": "REHEMÄE",
+            "locality": "KÄRDLA",
+            "postalCode": "92422",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "7711935a-c2dc-4025-964d-e9deec0ea639",
+            "name": "Automaat Tartu Rebase Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "REBASE 10",
+            "locality": "TARTU",
+            "postalCode": "50104",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "459ab43e-c243-4bf6-a510-452a19a56c1e",
+            "name": "Automaat Järvakandi Grossi kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "TURU 1",
+            "locality": "JÄRVAKANDI",
+            "postalCode": "79101",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "dfb7322f-76ad-4fa7-867a-74eb626b31b1",
+            "name": "Automaat Rõngu Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "TARTU MNT 2",
+            "locality": "RÕNGU",
+            "postalCode": "61001",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "486474e4-6b2a-49ba-984f-96ddc75a7aee",
+            "name": "Automaat Tallinna Mustakivi keskus",
+            "type": "parcelMachine",
+            "streetAddress": "MAHTRA 1",
+            "locality": "TALLINN",
+            "postalCode": "13811",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "67e769ed-2616-483b-8671-9e7952ed15f4",
+            "name": "Automaat Tallinna Kotka Selver",
+            "type": "parcelMachine",
+            "streetAddress": "KOTKA 12",
+            "locality": "TALLINN",
+            "postalCode": "11315",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "bb9385a5-6460-458f-815c-29e79e5de8ca",
+            "name": "Automaat Põlva bussijaam",
+            "type": "parcelMachine",
+            "streetAddress": "KESK 41",
+            "locality": "PÕLVA",
+            "postalCode": "63304",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "bdbcea65-1b24-463f-b121-ffca7053abe8",
+            "name": "Automaat Tallinna Nõmme tee Maxima",
+            "type": "parcelMachine",
+            "streetAddress": "NÕMME TEE 23A",
+            "locality": "TALLINN",
+            "postalCode": "17004",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "8433889b-6d50-4b52-bb14-be44154a46a6",
+            "name": "Automaat Tallinna Vilde tee Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "VILDE TEE 101",
+            "locality": "TALLINN",
+            "postalCode": "17007",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "3874752f-948c-48e9-ac85-583becb357cf",
+            "name": "Automaat Lagedi keskusehoone",
+            "type": "parcelMachine",
+            "streetAddress": "KOOLI 18B",
+            "locality": "LAGEDI",
+            "postalCode": "75303",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "966fd1bb-b24b-441c-8e8f-9c4f96f07d29",
+            "name": "Automaat Torma Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "KESK 1A",
+            "locality": "TORMA",
+            "postalCode": "48502",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "85960838-0899-4e70-a87b-52f796646b93",
+            "name": "Automaat Randvere Kool",
+            "type": "parcelMachine",
+            "streetAddress": "G.H. SCHÜDLÖFFELI TEE 4/1",
+            "locality": "RANDVERE",
+            "postalCode": "74016",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "414144da-8c40-4758-b5ad-fb1a5038582d",
+            "name": "Automaat Kostivere Meie kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "MÕISA TEE 3",
+            "locality": "KOSTIVERE",
+            "postalCode": "74204",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "88786ba2-b11d-4517-91db-0106deb54b07",
+            "name": "Automaat Tartu Maarjamõisa Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "RAVILA 14D",
+            "locality": "TARTU",
+            "postalCode": "50411",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "bdcd0647-28c2-4c20-a465-7f18ec183110",
+            "name": "Automaat Võsu Meie kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "MERE 67",
+            "locality": "VÕSU",
+            "postalCode": "45501",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "8f4085e8-2d4e-4e1a-a818-a92aa3ae7e4d",
+            "name": "Automaat Sepa Keskus",
+            "type": "parcelMachine",
+            "streetAddress": "SEPA 21",
+            "locality": "TARTU",
+            "postalCode": "50113",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "695282d4-4e7d-4246-abe9-e883ce872b99",
+            "name": "Automaat Sütiste Maxima X",
+            "type": "parcelMachine",
+            "streetAddress": "J. SÜTISTE TEE 28",
+            "locality": "TALLINN",
+            "postalCode": "13411",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "ac04db2d-bb34-4032-9153-de8122a3bd87",
+            "name": "Automaat Saue Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "KESKUSE 11",
+            "locality": "SAUE",
+            "postalCode": "76505",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "adf61e6f-e32e-41c6-a474-e435bc9dc92d",
+            "name": "Automaat Kuusalu Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "KUUSALU TEE 13",
+            "locality": "KUUSALU",
+            "postalCode": "74601",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "103f1600-cca0-43ee-beb1-353072936377",
+            "name": "Automaat Türi Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "TALLINNA 4",
+            "locality": "TÜRI",
+            "postalCode": "72211",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "563d01da-d9cc-4abc-8680-79c2bb6c20b4",
+            "name": "Automaat Tallinna Arsenali keskus",
+            "type": "parcelMachine",
+            "streetAddress": "ERIKA 14",
+            "locality": "TALLINN",
+            "postalCode": "10416",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "03e46e9e-b718-44a7-a521-eecc9d6361fc",
+            "name": "Automaat Donte Ärikeskus",
+            "type": "parcelMachine",
+            "streetAddress": "PÄRNU MNT 142",
+            "locality": "TALLINN",
+            "postalCode": "11317",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "a2df1beb-81e1-4c7e-9ad3-7d36021cc8c9",
+            "name": "Automaat Sõbra Prisma",
+            "type": "parcelMachine",
+            "streetAddress": "SÕBRA 58",
+            "locality": "TARTU",
+            "postalCode": "50106",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "9a8207fb-99bb-4705-b4f6-1ada26d8a185",
+            "name": "Automaat Võru Maksimarket",
+            "type": "parcelMachine",
+            "streetAddress": "JÜRI 83",
+            "locality": "VÕRU",
+            "postalCode": "65607",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "a21d867e-f833-42d9-a74e-d67864b38f94",
+            "name": "Automaat Riisipere Meie kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "METSA 2",
+            "locality": "RIISIPERE",
+            "postalCode": "76202",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "196ec4b6-1621-4058-bf10-d7786c36620c",
+            "name": "Automaat Tartu Lõunakeskus",
+            "type": "parcelMachine",
+            "streetAddress": "LÄÄNERINGTEE 39",
+            "locality": "TARTU",
+            "postalCode": "50501",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "bdcb060c-91ee-441c-a81b-c492d816c8b0",
+            "name": "Automaat Rapla Jaama Hepa",
+            "type": "parcelMachine",
+            "streetAddress": "VILJANDI MNT 124",
+            "locality": "RAPLA",
+            "postalCode": "79514",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "5ec59d42-357a-4ab5-a52a-e3ab3f30eba3",
+            "name": "Automaat Turba kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "JAAMA TEE 8",
+            "locality": "TURBA",
+            "postalCode": "76201",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "7d32017c-e811-4afc-a55c-ded840598559",
+            "name": "Automaat Võiste Food Market",
+            "type": "parcelMachine",
+            "streetAddress": "RIIA MNT 7A",
+            "locality": "VÕISTE",
+            "postalCode": "86501",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "a9931c16-9e14-4670-9068-01e299a59023",
+            "name": "Automaat Jõgeva Pae Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "AIA 33",
+            "locality": "JÕGEVA",
+            "postalCode": "48304",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "6d246739-9283-4e87-a914-f86a2c1d67e1",
+            "name": "Automaat Pärnu Maksimarket",
+            "type": "parcelMachine",
+            "streetAddress": "HAAPSALU MNT 43",
+            "locality": "PÄRNU",
+            "postalCode": "88317",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "faba6072-818c-40ec-a99a-00effb65e128",
+            "name": "Automaat Antsla Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "F. R. KREUTZWALDI 4A",
+            "locality": "ANTSLA",
+            "postalCode": "66404",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "a232ec05-c62b-465e-a9fb-0308917a84c0",
+            "name": "Automaat Suure-Jaani Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "PÄRNU 3",
+            "locality": "SUURE-JAANI",
+            "postalCode": "71502",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "b29b12a8-fe11-4758-9caa-77b8760a7e91",
+            "name": "Automaat Kuressaare Rae Keskus",
+            "type": "parcelMachine",
+            "streetAddress": "RAEKOJA 10",
+            "locality": "KURESSAARE",
+            "postalCode": "93814",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "1ef31a44-3190-41c7-948c-fee0acb1cfc7",
+            "name": "Automaat Abja-Paluoja Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "PÄRNU MNT 13",
+            "locality": "ABJA-PALUOJA",
+            "postalCode": "69403",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "01a61b38-9179-4bf4-bb23-c49700e89985",
+            "name": "Automaat Kehtna kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "LASTEAIA 12",
+            "locality": "KEHTNA",
+            "postalCode": "79001",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "8d2fba2d-f1fb-455f-9083-1bda961c7d0a",
+            "name": "Automaat Võhma Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "TALLINNA 26",
+            "locality": "VÕHMA",
+            "postalCode": "70602",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "2f322c0c-39c1-4d2b-bba7-91e8dd4b09c9",
+            "name": "Automaat Tartu Aardla Selver",
+            "type": "parcelMachine",
+            "streetAddress": "VÕRU 77",
+            "locality": "TARTU",
+            "postalCode": "50112",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "bc6367a9-1710-4766-b419-d634d86e232d",
+            "name": "Automaat Tallinna Rocca al Mare",
+            "type": "parcelMachine",
+            "streetAddress": "PALDISKI MNT 102",
+            "locality": "TALLINN",
+            "postalCode": "13522",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "ce20c0ec-5048-4467-96b7-8c63eab24122",
+            "name": "Automaat Valga Maxima XX",
+            "type": "parcelMachine",
+            "streetAddress": "JAAMA PST 2B",
+            "locality": "VALGA",
+            "postalCode": "68204",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "e7fcbaab-ff49-4ce4-a4fb-f3a9002f48c8",
+            "name": "Automaat Tallinn Nõmme Turu plats 5",
+            "type": "parcelMachine",
+            "streetAddress": "TURU PLATS 5",
+            "locality": "TALLINN",
+            "postalCode": "11611",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "38d381cc-af80-41f8-9325-9e4f9d2acbe5",
+            "name": "Automaat Vinni Spordihoone",
+            "type": "parcelMachine",
+            "streetAddress": "SÕPRUSE 16",
+            "locality": "VINNI",
+            "postalCode": "46601",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "39146b6b-fb21-4182-a03a-c0bafc0571e0",
+            "name": "Automaat Valdeku Selver",
+            "type": "parcelMachine",
+            "streetAddress": "VABADUSE PST 54B",
+            "locality": "TALLINN",
+            "postalCode": "11615",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "f6b73a3a-3428-4344-8cef-73b829a58542",
+            "name": "Automaat Laitse kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "MUNALASKME-LAITSE",
+            "locality": "KAASIKU",
+            "postalCode": "76317",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "ab55e242-1493-46db-80f7-cc6edaa0fd6f",
+            "name": "Automaat Narva Astri keskus",
+            "type": "parcelMachine",
+            "streetAddress": "TALLINNA MNT 41",
+            "locality": "NARVA",
+            "postalCode": "20605",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "b4caa7d4-1db8-4a2e-b0d4-37dfff71a4cd",
+            "name": "Automaat Tallinna Läänemere Selver",
+            "type": "parcelMachine",
+            "streetAddress": "LÄÄNEMERE TEE 28",
+            "locality": "TALLINN",
+            "postalCode": "13913",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "6b824630-f053-464f-ba6d-525758674af5",
+            "name": "Automaat Leisi kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "MUSTJALA MNT 5",
+            "locality": "LEISI",
+            "postalCode": "94202",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "aeeb5f21-38d9-4fa4-9f2b-c8541ff0b522",
+            "name": "Automaat Puka kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "KOOLI 6",
+            "locality": "PUKA",
+            "postalCode": "67217",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "9d4e1572-d862-4ed1-86d1-7aae3c5464ad",
+            "name": "Automaat Kõrveküla Coop",
+            "type": "parcelMachine",
+            "streetAddress": "VASULA TEE 4",
+            "locality": "KÕRVEKÜLA",
+            "postalCode": "60512",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "1458d448-2f08-44f0-9b89-51bf2ad5c6c0",
+            "name": "Automaat Pärnamäe Keskus",
+            "type": "parcelMachine",
+            "streetAddress": "PÄRNAMÄE TEE 4A",
+            "locality": "VIIMSI",
+            "postalCode": "74008",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "e92111e6-02f5-45fd-ae0a-66d9ca9e0ff0",
+            "name": "Automaat Räpina Maxima X",
+            "type": "parcelMachine",
+            "streetAddress": "PARGI 1",
+            "locality": "RÄPINA",
+            "postalCode": "64504",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "9e07a7b5-7d74-40a1-9155-ef1204314c9b",
+            "name": "Automaat Tallinna Tähesaju Selver",
+            "type": "parcelMachine",
+            "streetAddress": "TÄHESAJU TEE 1",
+            "locality": "TALLINN",
+            "postalCode": "13917",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "4dac0345-a2ea-4d7c-9660-8cb0671c8a95",
+            "name": "Automaat Karksi-Nuia Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "RAHUMÄE 1",
+            "locality": "KARKSI-NUIA",
+            "postalCode": "69103",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "3cc5b003-ab4c-441f-8f0f-193023e7f4bc",
+            "name": "Automaat Tammiste Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "KELLUKESE TEE 2",
+            "locality": "TAMMISTE",
+            "postalCode": "85009",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "a2f04cc3-dea0-47e9-bf87-a9a5940a0061",
+            "name": "Automaat Tallinna Sikupilli keskus",
+            "type": "parcelMachine",
+            "streetAddress": "TARTU MNT 87",
+            "locality": "TALLINN",
+            "postalCode": "11412",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "654e48e6-fdab-48de-9696-bc41f88c9e19",
+            "name": "Automaat Virtsu Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "TALLINNA MNT 13",
+            "locality": "VIRTSU",
+            "postalCode": "90101",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "ad08c052-4f6b-4239-ae7b-dfe944ba581d",
+            "name": "Automaat Roobuka Meie kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "ROHELUSE TEE 1",
+            "locality": "ROOBUKA",
+            "postalCode": "75516",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "04688503-c7f5-48c2-b68e-2d315d41869a",
+            "name": "Automaat Tartu Ujula Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "UJULA 2",
+            "locality": "TARTU",
+            "postalCode": "51008",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "c13abd51-bd09-42b3-94e7-3c4d8eb5b3b4",
+            "name": "Automaat Risti bussijaam",
+            "type": "parcelMachine",
+            "streetAddress": "TALLINNA MNT 3A",
+            "locality": "RISTI",
+            "postalCode": "90901",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "25d15f67-609f-4cb6-9f8a-1f2dbd987eb0",
+            "name": "Automaat Narva Pähklimäe 6a Grossi",
+            "type": "parcelMachine",
+            "streetAddress": "PÄHKLIMÄE 6A",
+            "locality": "NARVA",
+            "postalCode": "20605",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "f6051be7-572d-4259-9247-a42ff20b7fd9",
+            "name": "Automaat Laulasmaa Meie kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "LAULASMAA TEE 2",
+            "locality": "LAULASMAA",
+            "postalCode": "76702",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "b5a69fa9-a324-4eec-8f32-3f00a1fffded",
+            "name": "Automaat Kohtla-Järve mini-Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "PÕHJA ALLEE 4",
+            "locality": "KOHTLA-JÄRVE",
+            "postalCode": "30323",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "36f1545a-7370-4c9c-8550-262df8370da5",
+            "name": "Automaat Pärnu Ülejõe Selver",
+            "type": "parcelMachine",
+            "streetAddress": "TALLINNA MNT 93A",
+            "locality": "PÄRNU",
+            "postalCode": "80041",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "7c33517d-7b34-4366-b0e3-cddda6a88a4d",
+            "name": "Automaat Haapsalu Kaubamaja Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "POSTI 41",
+            "locality": "HAAPSALU",
+            "postalCode": "90507",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "9d78ac0d-05f4-4946-99c8-1bfc7d4fdc45",
+            "name": "Automaat Tallinna Tondi Selver",
+            "type": "parcelMachine",
+            "streetAddress": "A. H. TAMMSAARE TEE 62",
+            "locality": "TALLINN",
+            "postalCode": "11316",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "38b2a1cf-101a-47e0-85bb-d82fdd395f9f",
+            "name": "Automaat Vändra Grossi kaubad",
+            "type": "parcelMachine",
+            "streetAddress": "PÄRNU-PAIDE MNT 26",
+            "locality": "VÄNDRA",
+            "postalCode": "87701",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "643aab52-1f93-4e65-b72f-e78c50ef1083",
+            "name": "Automaat Vaida A ja O",
+            "type": "parcelMachine",
+            "streetAddress": "VANA-VAIDA TEE 3",
+            "locality": "VAIDA",
+            "postalCode": "75302",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "021c672d-99f0-41bd-bbf5-4b26f957ea7e",
+            "name": "Automaat Puhja Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "NOORUSE 2",
+            "locality": "PUHJA",
+            "postalCode": "61301",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "9f745ce1-9833-4e10-88b8-2f671e1c8fc4",
+            "name": "Automaat Kambja Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "KESK 2A",
+            "locality": "KAMBJA",
+            "postalCode": "62034",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "3ac3a664-06a0-4aea-a2f0-2f88fab1cff5",
+            "name": "Automaat Laagri Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "PÄRNU MNT 556A",
+            "locality": "LAAGRI",
+            "postalCode": "76401",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "f91f4687-b534-489b-a2b5-80f82190d0b8",
+            "name": "Automaat Õismäe tee 88 Maxima X",
+            "type": "parcelMachine",
+            "streetAddress": "ÕISMÄE TEE 88",
+            "locality": "TALLINN",
+            "postalCode": "13513",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "99af43fd-03e9-4311-9597-2cda6265af02",
+            "name": "Automaat Tallinna Telliskivi Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "TELLISKIVI 61",
+            "locality": "TALLINN",
+            "postalCode": "10412",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "8a5c1d2a-da51-44d2-b2d4-98da7ef7246f",
+            "name": "Automaat Tallinna Kadaka Selver",
+            "type": "parcelMachine",
+            "streetAddress": "KADAKA TEE 56A",
+            "locality": "TALLINN",
+            "postalCode": "12915",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "c0d7cc1f-8bff-452e-a093-c2188c68182b",
+            "name": "Automaat Järva-Jaani Grossi kaubad",
+            "type": "parcelMachine",
+            "streetAddress": "LAI 23",
+            "locality": "JÄRVA-JAANI",
+            "postalCode": "73301",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "d0f53785-c534-4174-a9e5-d6aa0f87c886",
+            "name": "Automaat Tallinna Ümera Maxima XX",
+            "type": "parcelMachine",
+            "streetAddress": "LAAGNA TEE 80",
+            "locality": "TALLINN",
+            "postalCode": "13817",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "0b38b04a-f084-4bae-a6d2-683ac9ebee11",
+            "name": "Automaat Voka Grossi kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "NARVA MNT 5",
+            "locality": "VOKA",
+            "postalCode": "41701",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "a86b2e50-b94c-4b39-aab9-028185e8a1bb",
+            "name": "Automaat Tartu Vahi Selver",
+            "type": "parcelMachine",
+            "streetAddress": "VAHI 62",
+            "locality": "TARTU",
+            "postalCode": "50304",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "c0edb1a4-02d6-4916-8703-365e5d0cb2e6",
+            "name": "Automaat Häädemeeste Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "KOOLI 10",
+            "locality": "HÄÄDEMEESTE",
+            "postalCode": "86001",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "5bde0b31-46cc-46f5-a17f-2bea534f9e59",
+            "name": "Automaat Juuru kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "TALLINNA MNT 15",
+            "locality": "JUURU",
+            "postalCode": "79401",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "de8f2fcd-1130-4f69-9264-a9c1c1808c6e",
+            "name": "Automaat Harkujärve Roo Prisma",
+            "type": "parcelMachine",
+            "streetAddress": "ROO TEE 1",
+            "locality": "HARKUJÄRVE",
+            "postalCode": "76912",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "3cb7bbcb-b991-41c9-bb42-c31497c19bd6",
+            "name": "Automaat Rakvere Lilleoru Aldar",
+            "type": "parcelMachine",
+            "streetAddress": "TARTU 55",
+            "locality": "RAKVERE",
+            "postalCode": "44315",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "84ca19ac-c673-4635-b950-f7c13e513cea",
+            "name": "Automaat Sõmerpalu kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "NURSI TEE 2",
+            "locality": "SÕMERPALU",
+            "postalCode": "66604",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "e4ed1055-8b83-4899-954e-2356755e8d7d",
+            "name": "Automaat Uulu Food Market",
+            "type": "parcelMachine",
+            "streetAddress": "SOOMETSA TEE 1",
+            "locality": "UULU",
+            "postalCode": "86502",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "58a70ea7-2779-4dd1-bf54-7a339ff42871",
+            "name": "Automaat Merimetsa Selver",
+            "type": "parcelMachine",
+            "streetAddress": "PALDISKI MNT 56",
+            "locality": "TALLINN",
+            "postalCode": "10614",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "a2f6a3cc-2866-4086-abb0-b9d95e8b5b7f",
+            "name": "Automaat Laagri Selver",
+            "type": "parcelMachine",
+            "streetAddress": "PÄRNU MNT 554",
+            "locality": "TALLINN",
+            "postalCode": "17003",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "f6fb4c24-edc3-497b-abbf-677be68c86d1",
+            "name": "Automaat Aravete Meie",
+            "type": "parcelMachine",
+            "streetAddress": "PIIBE MNT 16",
+            "locality": "ARAVETE",
+            "postalCode": "73501",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "1b51b53c-4f73-4a93-a949-8ca6027ec0f2",
+            "name": "Automaat Veriora Coop",
+            "type": "parcelMachine",
+            "streetAddress": "JAAMA 25",
+            "locality": "VERIORA",
+            "postalCode": "64232",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "0a7771b8-e68b-4acb-9b8e-6f867a71dd2f",
+            "name": "Automaat Parksepa Coop",
+            "type": "parcelMachine",
+            "streetAddress": "PARKSEPA",
+            "locality": "PARKSEPA",
+            "postalCode": "65509",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "74880a4b-2224-448b-b18f-1a39d94283cd",
+            "name": "Automaat Põltsamaa Meie",
+            "type": "parcelMachine",
+            "streetAddress": "TALLINNA MNT 4A",
+            "locality": "PÕLTSAMAA",
+            "postalCode": "48103",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "4ccd157e-f07b-4564-9ac6-4f1cec325331",
+            "name": "Automaat Tallinna Lasnamäe Prisma",
+            "type": "parcelMachine",
+            "streetAddress": "MUSTAKIVI TEE 17",
+            "locality": "TALLINN",
+            "postalCode": "13912",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "294ee940-a494-4cce-b48c-c00c33e93916",
+            "name": "Automaat Tallinna Ülemiste keskus",
+            "type": "parcelMachine",
+            "streetAddress": "SUUR-SÕJAMÄE 4",
+            "locality": "TALLINN",
+            "postalCode": "11415",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "75e2e7b7-456e-4531-914c-fb9a5f992073",
+            "name": "Automaat Ahja Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "TARTU MNT 24A",
+            "locality": "AHJA",
+            "postalCode": "63710",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "51e7a1a9-8d40-4a9f-9773-3a743ad97273",
+            "name": "Automaat Käru keskväljak",
+            "type": "parcelMachine",
+            "streetAddress": "TURU 1",
+            "locality": "KÄRU",
+            "postalCode": "79201",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "1bb68331-cf65-4057-8ce5-feaa3cb1f705",
+            "name": "Automaat Otepää Maxima",
+            "type": "parcelMachine",
+            "streetAddress": "VALGA MNT 1B",
+            "locality": "OTEPÄÄ",
+            "postalCode": "67403",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "f8f3bd35-b1ff-4098-82c7-51209da708bf",
+            "name": "Automaat Luunja Coop",
+            "type": "parcelMachine",
+            "streetAddress": "JÕESADAMA 2",
+            "locality": "LUUNJA",
+            "postalCode": "62222",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "0bfd7242-7c22-433f-940e-b8687a2ad2bb",
+            "name": "Automaat Viljandi Paala Maksimarket",
+            "type": "parcelMachine",
+            "streetAddress": "LÄÄNE 2",
+            "locality": "VILJANDI",
+            "postalCode": "71013",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "a9848c13-91e4-4e9e-bbe5-63fa53faf678",
+            "name": "Automaat Tallinna Tehnikaülikool",
+            "type": "parcelMachine",
+            "streetAddress": "AKADEEMIA TEE 3",
+            "locality": "TALLINN",
+            "postalCode": "12616",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "7ba57401-49f4-4c62-bdf3-30cc3802760a",
+            "name": "Automaat Pärnu Raeküla Olevi Meie",
+            "type": "parcelMachine",
+            "streetAddress": "OLEVI 27",
+            "locality": "PÄRNU",
+            "postalCode": "80027",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "bd48ef5d-4f26-4d15-860e-cfa0a405ac20",
+            "name": "Automaat Tallinna Haabersti Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "HAABERSTI 1",
+            "locality": "TALLINN",
+            "postalCode": "13517",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "08e94cf1-d745-46f9-916f-f93756a2e0c1",
+            "name": "Automaat Tallinna Õismäe Maxima XXX",
+            "type": "parcelMachine",
+            "streetAddress": "EHITAJATE TEE 148",
+            "locality": "TALLINN",
+            "postalCode": "17010",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "c9a27963-6fd3-4edb-9e99-7bca9ebfccfc",
+            "name": "Automaat Kilingi-Nõmme Konsum",
+            "type": "parcelMachine",
+            "streetAddress": "PÄRNU 37",
+            "locality": "KILINGI-NÕMME",
+            "postalCode": "86303",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "f6b06d96-3425-4239-9925-d6a61ab0f284",
+            "name": "Automaat Tallinna Pirita Selver",
+            "type": "parcelMachine",
+            "streetAddress": "RUMMU TEE 4",
+            "locality": "TALLINN",
+            "postalCode": "11911",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "7580f020-59d1-4663-8d14-bed83881f37e",
+            "name": "Automaat Keila-Joa kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "LÕOKESE TEE 2",
+            "locality": "KEILA-JOA",
+            "postalCode": "76701",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "a9526005-878c-4935-8869-44183f6d6b08",
+            "name": "Automaat Kiisa Grossi",
+            "type": "parcelMachine",
+            "streetAddress": "KURTNA TEE 2",
+            "locality": "KIISA",
+            "postalCode": "75503",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "a31b0003-27e8-4e71-b5b3-ee9c8706730b",
+            "name": "Automaat Maardu Rimi",
+            "type": "parcelMachine",
+            "streetAddress": "KEEMIKUTE 25",
+            "locality": "MAARDU",
+            "postalCode": "74111",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "5f7aa128-b75a-4c73-adae-c2731253b3dd",
+            "name": "Automaat Kose-Uuemõisa Grossi",
+            "type": "parcelMachine",
+            "streetAddress": "KESK 1",
+            "locality": "KOSE-UUEMÕISA",
+            "postalCode": "75102",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "916b6275-fe16-489d-9b00-086bf7918966",
+            "name": "Automaat Harku kauplus",
+            "type": "parcelMachine",
+            "streetAddress": "INSTITUUDI TEE 2",
+            "locality": "HARKU",
+            "postalCode": "76902",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "72fbd317-fee3-4365-be54-99668d5e277c",
+            "name": "Automaat Koidu Coop",
+            "type": "parcelMachine",
+            "streetAddress": "KOIDU 3",
+            "locality": "VILJANDI",
+            "postalCode": "71004",
+            "carrierCode": "dpd"
+        },
+        {
+            "id": "c191f629-9199-43f4-92a6-8522ba07235c",
+            "name": "Automaat 6Teist Kannu",
+            "type": "parcelMachine",
+            "streetAddress": "SUUR KAAR 53",
+            "locality": "TARTU",
+            "postalCode": "50403",
+            "carrierCode": "dpd"
+        }
+    ],
+    "countryCode": "EE"
+}

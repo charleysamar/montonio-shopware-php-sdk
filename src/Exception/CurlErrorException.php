@@ -14,12 +14,12 @@ class CurlErrorException extends \RuntimeException
         \CurlHandle $ch = null,
         ?\Throwable $previous = null
     ) {
-        $this->curlHandle = $ch;
+        $this->ch = $ch;
         parent::__construct($message, $code, $previous);
     }
 
     public function getCurlHandle(): \CurlHandle
     {
-        return $this->curlHandle;
+        return $this->ch;
     }
 }
