@@ -29,7 +29,7 @@ class MockHandler
                 $this->getUrl('/shipping-methods/pickup-points?carrierCode=smartpost&countryCode=EE') => 'pickup_points_ee_smartpost.json',
                 $this->getUrl('/shipping-methods/courier-services?carrierCode=dpd&countryCode=EE') => 'courier_services_ee_dpd.json',
                 $this->getUrl('/shipping-methods/courier-services?carrierCode=omniva&countryCode=EE') => 'courier_services_ee_omniva.json',
-                $this->getUrl('/shipping-methods/courier-services?carrierCode=omniva&countryCode=EE') => 'courier_services_ee_smartpost.json',
+                $this->getUrl('/shipping-methods/courier-services?carrierCode=smartpost&countryCode=EE') => 'courier_services_ee_smartpost.json',
             ];
 
             $postMocks = [
