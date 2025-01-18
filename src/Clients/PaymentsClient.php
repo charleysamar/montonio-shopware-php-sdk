@@ -115,4 +115,24 @@ class PaymentsClient extends AbstractClient
             ]
         );
     }
+
+    /**
+     * @param string $orderReference
+     * @return array
+     * @throws Exception
+     */
+    public function fetchOrder(string $orderReference): array
+    {
+        return $this->call(
+            'GET',
+            $this->getUrl( sprintf('/orders/%s', $orderReference)),
+            json_encode(
+                []
+            ),
+            [
+                'Content-Type: application/json',
+                'Authorization: Bearer ' . $this->getBearerToken()
+            ]
+        );
+    }
 }
