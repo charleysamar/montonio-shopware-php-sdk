@@ -4,15 +4,11 @@ namespace Montonio\Clients;
 
 use Exception;
 use Firebase\JWT\JWT;
-use Firebase\JWT\Key;
 use Montonio\Structs\ShipmentData;
-use Montonio\MockHandler;
-
 class ShippingClient extends AbstractClient
 {
-    const SANDBOX_URL = '';
+    const SANDBOX_URL = 'https://sandbox-shipping.montonio.com/api/v2';
     const LIVE_URL = 'https://shipping.montonio.com/api/v2';
-    private $mockHandler;
 
     /**
      * Get all available carriers.
@@ -213,24 +209,11 @@ class ShippingClient extends AbstractClient
         ];
     }
 
-    private function getMockHandler(): MockHandler
-    {
-		if( !isset( $this->mockHandler ) )
-		{
-			$this->mockHandler = new MockHandler();
-		}
-
-		return $this->mockHandler;
-    }
     /**
      * @throws Exception
      */
     protected function call($method, $url, $payload, $headers)
     {
-        if ($this->isSandbox()) {
-            return $this->getMockHandler()->getMockResponse($method, $url, $payload, $headers);
-        }
-
         return parent::call($method, $url, $payload, $headers);
     }
 }

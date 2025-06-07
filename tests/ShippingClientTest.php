@@ -17,7 +17,6 @@ class ShippingClientTest extends TestCase
 
     private $carrierCode = 'dpd';
     private $countryCode = 'EE';
-    private $shipmentId = '';
 
     public function testGetAllCarriers()
     {
@@ -26,6 +25,28 @@ class ShippingClientTest extends TestCase
 
         $this->assertTrue(!empty($carriers));
         $this->assertArrayHasKey('carriers', $carriers);
+    }
+
+
+    public function testGetPossibleShippingMethods()
+    {
+        $shippingClient = new ShippingClient($this->config['accessKey'], $this->config['secretKey'], AbstractClient::ENVIRONMENT_SANDBOX);
+
+        $payload = [
+            'parcels' => [
+                [
+                    'weight' => 2,
+                    'length' => 0.39,
+                    'width' => 0.38,
+                    'height' => 0.64,
+                ],
+            ],
+        ];
+
+        $shippingMethods = $shippingClient->getPossibleShippingMethods($this->countryCode, $payload);
+
+        $this->assertTrue(!empty($shippingMethods));
+        $this->assertArrayHasKey('countries', $shippingMethods);
     }
 
     public function testGetShippingMethodsForStore()
@@ -55,30 +76,18 @@ class ShippingClientTest extends TestCase
         $this->assertArrayHasKey('courierServices', $courierServices);
 
         $this->assertEquals($this->countryCode, $courierServices['countryCode']);
+
+        return isset($courierServices['courierServices']) &&
+                is_array($courierServices['courierServices']) &&
+                isset($courierServices['courierServices'][0]['id'])
+                    ? $courierServices['courierServices'][0]['id']
+                    : '';
     }
 
-    public function testGetPossibleShippingMethods()
-    {
-        $shippingClient = new ShippingClient($this->config['accessKey'], $this->config['secretKey'], AbstractClient::ENVIRONMENT_SANDBOX);
-
-        $payload = [
-            'parcels' => [
-                [
-                    'weight' => 2,
-                    'length' => 0.39,
-                    'width' => 0.38,
-                    'height' => 0.64,
-                ],
-            ],
-        ];
-
-        $shippingMethods = $shippingClient->getPossibleShippingMethods($this->countryCode, $payload);
-
-        $this->assertTrue(!empty($shippingMethods));
-        $this->assertArrayHasKey('countries', $shippingMethods);
-    }
-
-    public function testCreateShipment()
+    /**
+     * @depends testGetCourierServicesForStore
+     */
+    public function testCreateShipment(string $courierId)
     {
         $shippingClient = new ShippingClient($this->config['accessKey'], $this->config['secretKey'], AbstractClient::ENVIRONMENT_SANDBOX);
 
@@ -87,7 +96,7 @@ class ShippingClientTest extends TestCase
             ->setMerchantReference($referenceId)
             ->setShippingMethod([
                 'type' => 'courier',
-                'id' => 'f21430bd-c0e6-4470-a7da-1702e9c7879e',
+                'id' => $courierId,
             ])
             ->setSender(
                 (new ShippingAddress())
@@ -121,12 +130,17 @@ class ShippingClientTest extends TestCase
 
         $this->assertTrue(!empty($shipment));
         $this->assertTrue(isset($shipment['orderId']) && $shipment['orderId'] == $referenceId);
+
+        return !empty($shipment) ? $shipment['id'] : '';
     }
 
-    public function testGetShipmentDetails()
+    /**
+     * @depends testCreateShipment
+     */
+    public function testGetShipmentDetails(string $shipmentId)
     {
         $shippingClient = new ShippingClient($this->config['accessKey'], $this->config['secretKey'], AbstractClient::ENVIRONMENT_SANDBOX);
-        $shipment = $shippingClient->getShipmentDetails($this->shipmentId);
+        $shipment = $shippingClient->getShipmentDetails($shipmentId);
 
         $this->assertTrue(!empty($shipment));
     }
