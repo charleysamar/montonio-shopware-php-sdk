@@ -46,6 +46,11 @@ class Address extends AbstractStruct
     protected $postalCode;
 
     /**
+     * @var string
+     */
+    protected $phoneNumber;
+
+    /**
      * @return string
      */
     public function getFirstName(): string
@@ -186,6 +191,24 @@ class Address extends AbstractStruct
     public function setPostalCode(string $postalCode): Address
     {
         $this->postalCode = $postalCode;
+        return $this;
+    }
+
+    /**
+     * @return string
+     */
+    public function getPhoneNumber(): string
+    {
+        return $this->phoneNumber;
+    }
+
+    /**
+     * @param string $phoneNumber
+     * @return Address
+     */
+    public function setPhoneNumber(string $phoneNumber): Address
+    {
+        $this->phoneNumber = $phoneNumber;
         return $this;
     }
 }
