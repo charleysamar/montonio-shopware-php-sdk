@@ -58,6 +58,7 @@ class PaymentsClientTest extends TestCase
                     ->setRegion('Harjumaa')
                     ->setCountry('EE')
                     ->setPostalCode('10111')
+                    ->setPhoneNumber('+37251234567')
             )
             ->setShippingAddress(
                 (new Address())
@@ -69,6 +70,7 @@ class PaymentsClientTest extends TestCase
                     ->setRegion('Harjumaa')
                     ->setCountry('EE')
                     ->setPostalCode('10111')
+                    ->setPhoneNumber('+37251234567')
             )
             ->setLineItems([
                 (new LineItem())
