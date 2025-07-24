@@ -124,7 +124,12 @@ class ShippingClientTest extends TestCase
                     ->setPhoneNumber('53334770')
                     ->setEmail('support@montonio.com')
             )
-            ->addParcel(['weight' => 1]);
+            ->addParcel(['weight' => 1])
+            ->addProduct([
+                'sku' => 'product-1',
+                'name' => 'Product 1',
+                'quantity' => 1,
+            ]);
 
         $shipment = $shippingClient->createShipment($shipmentData);
 

@@ -30,6 +30,11 @@ class ShipmentData extends AbstractStruct
     protected $parcels = [];
 
     /**
+     * @var array
+     */
+    protected $products = [];
+
+    /**
      * Get sender address
      *
      * @return ShippingAddress
@@ -148,6 +153,18 @@ class ShipmentData extends AbstractStruct
     public function addParcel(array $parcel): ShipmentData
     {
         $this->parcels[] = $parcel;
+        return $this;
+    }
+
+    /**
+     * Add a product
+     *
+     * @param array $product
+     * @return ShipmentData
+     */
+    public function addProduct(array $product): ShipmentData
+    {
+        $this->products[] = $product;
         return $this;
     }
 }
